@@ -3,30 +3,30 @@
 	"@id": "https://dlc.services/iiif-resource/7/string1/txf18197",
 	"@type": "sc:Manifest",
 	"metadata": [
-	{
-	  "label": "Title",
-      "value": "Gedenkschrift van de Koninklijke Academie en van de Polytechnische School, 1842-1905 : samengest. ter gelegenheid van de oprichting der Technische Hoogeschool"
-    },
-    {
-      "label": "Authors",
-      "value": "HHR Roelofs Heyrmans, Koninklijke Academie (Delft), Polytechnische School (Delft), Technische Hogeschool (Delft)"
-    },
-	{
-	  "label": "Year",
-	  "value": "1906"
-	},
-	{
-	  "label": "Publisher",
-	  "value": "Delft: Waltman"
-	},
-	{
-	  "label": "OCLC Number",
-	  "value": "<p><a href=\"https://tudelft.on.worldcat.org/oclc/64182517\" target=\"_blank\">64182517</a></p>"
-	},
-	{
-	  "label": "Tresor Number",
-	  "value": "TXF 18197"
-	}
+		{
+		  "label": "Title",
+		  "value": "Gedenkschrift van de Koninklijke Academie en van de Polytechnische School, 1842-1905 : samengest. ter gelegenheid van de oprichting der Technische Hoogeschool"
+		},
+		{
+		  "label": "Authors",
+		  "value": "HHR Roelofs Heyrmans, Koninklijke Academie (Delft), Polytechnische School (Delft), Technische Hogeschool (Delft)"
+		},
+		{
+		  "label": "Year",
+		  "value": "1906"
+		},
+		{
+		  "label": "Publisher",
+		  "value": "Delft: Waltman"
+		},
+		{
+		  "label": "OCLC Number",
+		  "value": "<a href=\"https://tudelft.on.worldcat.org/oclc/64182517\" target=\"_blank\">64182517</a>"
+		},
+		{
+		  "label": "Tresor Number",
+		  "value": "TXF 18197"
+		}
 	],
 	"sequences": [
 		{
