@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mr/20/t1mr207tp393/manifest",
+  "@type": "sc:Manifest",
+  "label": "Durham University Library Elliott MS 3 - Fragment from English Breviary",
+  "description": "Single leaf from an English breviary, written about 1400, possibly in East Anglia.\nDigitised June 2017",
+  "related": {
+    "@id": "http://reed.dur.ac.uk/xtf/view?docId=ark/32150_s170795775p.xml",
+    "label": "Catalogue record"
+  },
+  "logo": "https://iiif.durham.ac.uk/images/logos/duruni_logo.png",
+  "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+  "attribution": "Durham University Library",
+  "metadata": [
+    {
+      "label": "Published",
+      "value": "about 1400"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mr/20/t1mr207tp393/sequence/default",
+      "@type": "sc:Sequence",
+      "label": "default",
+      "viewingDirection": "left-to-right",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mr/20/t1mr207tp393/canvas/t1tfq977v52h",
+          "@type": "sc:Canvas",
+          "label": "f.1r",
+          "width": 2679,
+          "height": 2699,
+          "images": [
+            {
+              "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mr/20/t1mr207tp393/annotation/canvas_t1tfq977v52h",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/mr/20/t1mr207tp393/983c76bc0416617bcf08f44a3c7919e4.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2679,
+                "height": 2699,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/mr/20/t1mr207tp393/983c76bc0416617bcf08f44a3c7919e4.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mr/20/t1mr207tp393/canvas/t1tfq977v52h"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mr/20/t1mr207tp393/canvas/t1tdv13zt87v",
+          "@type": "sc:Canvas",
+          "label": "f.1v",
+          "width": 2679,
+          "height": 2699,
+          "images": [
+            {
+              "@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mr/20/t1mr207tp393/annotation/canvas_t1tdv13zt87v",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/mr/20/t1mr207tp393/bcc4e5fc6991d6ca65cb43fe43307630.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2679,
+                "height": 2699,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t1/mr/20/t1mr207tp393/bcc4e5fc6991d6ca65cb43fe43307630.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mr/20/t1mr207tp393/canvas/t1tdv13zt87v"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "within": "https://iiif.durham.ac.uk/manifests/trifle/collection/32150/t2c2r36tx52q"
+}

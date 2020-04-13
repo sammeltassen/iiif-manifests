@@ -1,0 +1,107 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Untitled Manifest"
+    ],
+    "nl": [
+      "Manifests from other institutions"
+    ]
+  },
+  "items": [
+    {
+      "label": {
+        "en": [
+          "Untitled Canvas"
+        ],
+        "nl": [
+          "NLS"
+        ]
+      },
+      "height": 1000,
+      "width": 1000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "motivation": "painting",
+              "type": "Annotation",
+              "id": "https://example.org/uuid/f7295254-1019-4e5b-8afc-56df2a9cddc1/annotation/ebd12fa9-84be-a9c9-d9ee-40a5ca069ecb",
+              "target": "http://digirati.com/iiif/v3/95b9065d-d60e-2269-ef54-f2045210404e/canvas/eb8f149a-4930-000d-cbd1-eb40966eb195",
+              "body": {
+                "format": "image/jpeg",
+                "height": 1868,
+                "service": [
+                  {
+                    "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                    "id": "https://view.nls.uk/iiif/7443/74438561.5",
+                    "type": "ImageService2"
+                  }
+                ],
+                "width": 2500,
+                "type": "Image",
+                "id": "https://view.nls.uk/iiif/7443/74438561.5/full/full/0/native.jpg"
+              }
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/95b9065d-d60e-2269-ef54-f2045210404e/list/23041db9-f740-852c-5553-bc2adc57ae3e"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/95b9065d-d60e-2269-ef54-f2045210404e/canvas/eb8f149a-4930-000d-cbd1-eb40966eb195"
+    },
+    {
+      "label": {
+        "en": [
+          "Untitled Canvas"
+        ],
+        "nl": [
+          "Gallica"
+        ]
+      },
+      "height": 1000,
+      "width": 1000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "motivation": "painting",
+              "type": "Annotation",
+              "id": "https://example.org/uuid/04749aaf-9f60-4eaf-9106-f9befd265b6d/annotation/664c2d2c-4733-1cc5-9877-bcd659c5c842",
+              "target": "http://digirati.com/iiif/v3/95b9065d-d60e-2269-ef54-f2045210404e/canvas/722a2fe8-5a9b-0517-3638-39da4b71b9be",
+              "body": {
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                    "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531570119/f3",
+                    "type": "ImageService1"
+                  }
+                ],
+                "height": 1990,
+                "width": 4568,
+                "type": "Image",
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b531570119/f3/full/full/0/native.jpg"
+              }
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/95b9065d-d60e-2269-ef54-f2045210404e/list/2f32ab41-c090-b606-79b9-b5e6fb17537f"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/95b9065d-d60e-2269-ef54-f2045210404e/canvas/722a2fe8-5a9b-0517-3638-39da4b71b9be"
+    }
+  ],
+  "id": "http://digirati.com/iiif/v3/95b9065d-d60e-2269-ef54-f2045210404e/manifest",
+  "summary": {
+    "nl": [
+      "<p>These manifests were exported from other institutions. Most of them via <a href=\"https://iiif.biblissima.fr/collections/\" rel=\"noopener noreferrer\" target=\"_blank\">Biblissima</a>, with three extras from the British Library, ETH, Wellcome and NLS. <a href=\"https://iiif.biblissima.fr/collections/collection/5e917f1d0166fe33386418e2\" rel=\"noopener noreferrer\" target=\"_blank\">The Biblissima collection url</a>.</p>"
+    ]
+  }
+}

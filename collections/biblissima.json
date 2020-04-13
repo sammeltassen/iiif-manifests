@@ -1,0 +1,118 @@
+{
+  "label": {
+    "en": [
+		"Biblissima"
+    ],
+    "nl": [
+		"Biblissima"
+    ]
+  },
+  "summary": {
+    "en": [
+		"Various external IIIF-manifests from Biblissima"
+    ],
+    "nl": [
+		"Verschillende externe IIIF-manifesten van Biblissima"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [ "" ]
+      },
+      "value": {
+        "none": [ "" ]
+      }
+    }
+  ],
+   "members":[
+      {
+         "thumbnail":"https://gallica.bnf.fr/ark:/12148/btv1b531570119.thumbnail",
+         "@id":"https://gallica.bnf.fr/iiif/ark:/12148/btv1b531570119/manifest.json",
+         "@type":"sc:Manifest",
+         "label":"Paris. Biblioth\u00e8que nationale de France, D\u00e9partement des manuscrits, Sanscrit 1485"
+      },
+      {
+         "thumbnail":"https://iiif.irht.cnrs.fr/iiif/France/Chantilly/Bibliotheque_du_chateau/M601415401_MS0124/DEPOT/M601415401_MS0124_0005/full/200,/0/default.jpg",
+         "@id":"https://bvmm.irht.cnrs.fr/iiif/266/manifest",
+         "@type":"sc:Manifest",
+         "label":"Chantilly. Mus\u00e9e Cond\u00e9, Biblioth\u00e8que, 124 (1070)"
+      },
+      {
+         "thumbnail":"https://iiif.bodleian.ox.ac.uk/iiif/image/7d69914e-c880-46d4-b90e-90a5c9e63aa7/full/256,/0/default.jpg",
+         "@id":"https://iiif.bodleian.ox.ac.uk/iiif/manifest/233c07e4-5858-4ebd-b17d-cbfdcff76879.json",
+         "@type":"sc:Manifest",
+         "label":"Oxford. Bodleian Library, MS. Oppenheim Add. 4\u00b0 4"
+      },
+      {
+         "thumbnail":"https://www.e-codices.unifr.ch/loris/csg/csg-0356/csg-0356_e001.jp2/full/,150/0/default.jpg",
+         "@id":"https://www.e-codices.unifr.ch/metadata/iiif/csg-0356/manifest.json",
+         "@type":"sc:Manifest",
+         "label":"St. Gallen. Stiftsbibliothek, Cod. Sang. 356"
+      },
+      {
+         "thumbnail":"https://nubis.univ-paris1.fr/files/thumbnails/BIS_00_00004_P000_0001.6.jpg",
+         "@id":"https://nubis.univ-paris1.fr/iiif/2712/manifest",
+         "@type":"sc:Manifest",
+         "label":"Paris. Biblioth\u00e8que interuniversitaire de la Sorbonne, MS 1102. Pi\u00e8ce 2"
+      },
+      {
+         "thumbnail":"http://gallica.bnf.fr/ark:/12148/btv1b8423835h.thumbnail",
+         "@id":"https://gallica.bnf.fr/iiif/ark:/12148/btv1b8423835h/manifest.json",
+         "@type":"sc:Manifest",
+         "label":"Paris. Biblioth\u00e8que nationale de France, D\u00e9partement des manuscrits, Latin 190"
+      },
+      {
+         "thumbnail":"https://fuldig.hs-fulda.de/viewer/rest/image/PPN439972744/00000001.tif/full/!200,220/0/default.jpg",
+         "@id":"https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN439972744/manifest",
+         "@type":"sc:Manifest",
+         "label":"Hochschul- und Landesbibliothek Fulda, 100 B 17b"
+      },
+      {
+         "thumbnail":"https://stacks.stanford.edu/image/iiif/bg021sq9590%2F200_1_TC_46/full/!400,400/0/default.jpg",
+         "@id":"https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/manifest.json",
+         "@type":"sc:Manifest",
+         "label":"Cambridge. Corpus Christi College, Parker Library MS 200"
+      },
+      {
+         "thumbnail":"https://mazarinum.bibliotheque-mazarine.fr/i/?IIIF=/14/fd/f2/80/14fdf280-a921-461b-ae1e-0e2b2145f092/iiif/751063002_I02003442_000001a_0013.tif/full/!256,256/0/default.jpg",
+         "@id":"https://mazarinum.bibliotheque-mazarine.fr/iiif/2111/manifest",
+         "@type":"sc:Manifest",
+         "label":"Paris. Biblioth\u00e8que Mazarine, 2\u00b0 3442-1/1"
+      },
+      {
+         "thumbnail":"https://api.bl.uk/image/iiif/ark:/81055/vdc_100059102438.0x000001/full/!400,400/0/default.jpg",
+         "@id":"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100055972710.0x000001/manifest.json",
+         "@type":"sc:Manifest",
+         "label":"London. British Library, Add MS 15600"
+      },
+      {
+         "thumbnail":"https://adore.ugent.be/IIIF/images/archive.ugent.be%3A010C9ED6-94DB-11E3-AFBA-2845D43445F2%3ADS.279/0,0,3183,4234/226,/0/default.jpg",
+         "@id":"https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A010C9ED6-94DB-11E3-AFBA-2845D43445F2",
+         "@type":"sc:Manifest",
+         "label":"Ghent. University Library, Hs. 68"
+      },
+      {
+         "thumbnail":"https://iiif.durham.ac.uk/iiif/trifle/32150/t1/mr/20/t1mr207tp393/983c76bc0416617bcf08f44a3c7919e4.jp2/full/,150/0/default.jpg",
+         "@id":"https://iiif.durham.ac.uk/manifests/trifle/32150/t1/mr/20/t1mr207tp393/manifest",
+         "@type":"sc:Manifest",
+         "label":"Durham. University Library, Elliott MS 3"
+      },
+      {
+         "thumbnail":"https://images.lib.cam.ac.uk/iiif/MS-ADD-03020-000-00001.jp2/full/,150/0/default.jpg",
+         "@id":"https://cudl.lib.cam.ac.uk/iiif/MS-ADD-03020",
+         "@type":"sc:Manifest",
+         "label":"Cambridge. Cambridge University Library, MS Add. 3020"
+      },
+      {
+         "thumbnail":"https://cecilia.mediatheques.grand-albigeois.fr/i/?IIIF=/5e/55/48/20/5e554820-461a-42b5-9edc-b0c94790a07e/iiif/810046101_ms0018_0095.tif/full/!256,256/0/default.jpg",
+         "@id":"https://cecilia.mediatheques.grand-albigeois.fr/iiif/15/manifest",
+         "@type":"sc:Manifest",
+         "label":"Albi. M\u00e9diath\u00e8que Pierre-Amalric, RES MS 18"
+      }
+   ],
+   "@id":"https://iiif.biblissima.fr/collections/collection/5e917f1d0166fe33386418e2",
+   "@type":"sc:Collection",
+   "logo":"https://static.biblissima.fr/images/logo-biblissima-350w.jpg",
+   "@context":"http://iiif.io/api/presentation/2/context.json"
+}
