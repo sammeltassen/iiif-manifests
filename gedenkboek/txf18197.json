@@ -83,7 +83,7 @@
       },
       "value": {
         "en": [
-          "<p><a href=\"https://tudelft.on.worldcat.org/oclc/64182517\" rel=\"noopener noreferrer\" target=\"_blank\">64182517</a></p>"
+          "<a href=\"https://tudelft.on.worldcat.org/oclc/64182517\" target=\"_blank\">64182517</a>"
         ],
         "nl": [
           "<a href=\"https://tudelft.on.worldcat.org/oclc/64182517\" target=\"_blank\">64182517</a>"
@@ -105,6 +105,24 @@
         ],
         "nl": [
           "TXF 18197"
+        ]
+      }
+    }
+    {
+      "label": {
+        "en": [
+          "Academic Heritage"
+        ],
+        "nl": [
+          "Academisch Erfgoed"
+        ]
+      },
+      "value": {
+        "en": [
+          "<a href=\"https://heritage.tudelft.nl/en/objects/txf-gedenkschrift-1842-1905/\" target=\"_blank\">View object on TU Delft's academic heritage website</a>"
+        ],
+        "nl": [
+          "<a href=\"https://heritage.tudelft.nl/en/objects/txf-gedenkschrift-1842-1905/\" target=\"_blank\">Bekijk het object op de academisch erfgoed website van de TU Delft</a>"
         ]
       }
     }
