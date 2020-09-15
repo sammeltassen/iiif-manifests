@@ -83,7 +83,7 @@
       },
       "value": {
         "en": [
-          "<a href=\"https://tudelft.on.worldcat.org/oclc/64182517\" target=\"_blank\">64182517</a>"
+          "<p><a href=\"https://tudelft.on.worldcat.org/oclc/64182517\" rel=\"noopener noreferrer\" target=\"_blank\">64182517</a></p>"
         ],
         "nl": [
           "<a href=\"https://tudelft.on.worldcat.org/oclc/64182517\" target=\"_blank\">64182517</a>"
@@ -48476,5 +48476,10 @@
   "@context": [
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
-  ]
+  ],
+  "label": {
+    "en": [
+      "Gedenkschrift van de Koninklijke Academie en van de Polytechnische School"
+    ]
+  }
 }
