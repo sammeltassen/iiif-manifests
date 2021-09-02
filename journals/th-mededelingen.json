@@ -18,10 +18,10 @@
             "value": "<a href=\"https://tudelft.on.worldcat.org/oclc/72820760\" target=\"_blank\">72820760</a>"
         }
     ],
-    "@id": "https://raw.githubusercontent.com/digirati-co-uk/delft-static-site-generator/test/content/collections/7b35ae59-1507-447a-a9ac-4641a7bf24b1.json",
+    "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/th-mededelingen.json",
     "@type": "sc:Collection",
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "items": [
+    "manifests": [
         {
             "thumbnail": {
                 "@id": "https://dlc.services/thumbs/7/6/6d175231-6e23-4ba2-9cd4-86431ccf9197/full/full/0/default.jpg",
@@ -65,7 +65,7 @@
                     ]
                 }
             },
-            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-00.json",
+            "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-00.json",
             "label": "Index",
             "@type": "sc:Manifest"
         },
@@ -112,8 +112,8 @@
                     ]
                 }
             },
-            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-01.json",
-            "label": "Index",
+            "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-01.json",
+            "label": "Volume 1",
             "@type": "sc:Manifest"
         },
         {
@@ -159,8 +159,8 @@
                     ]
                 }
             },
-            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-02.json",
-            "label": "Index",
+            "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-02.json",
+            "label": "Volume 2",
             "@type": "sc:Manifest"
         },
         {
@@ -206,8 +206,8 @@
                     ]
                 }
             },
-            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-03.json",
-            "label": "Index",
+            "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-03.json",
+            "label": "Volume 3",
             "@type": "sc:Manifest"
         },
         {
@@ -253,8 +253,8 @@
                     ]
                 }
             },
-            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-04.json",
-            "label": "Index",
+            "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-04.json",
+            "label": "Volume 4",
             "@type": "sc:Manifest"
         },
         {
@@ -300,8 +300,8 @@
                     ]
                 }
             },
-            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-05.json",
-            "label": "Index",
+            "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-05.json",
+            "label": "Volume 5",
             "@type": "sc:Manifest"
         },
         {
@@ -347,8 +347,8 @@
                     ]
                 }
             },
-            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-06.json",
-            "label": "Index",
+            "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-06.json",
+            "label": "Volume 6",
             "@type": "sc:Manifest"
         },
         {
@@ -394,8 +394,8 @@
                     ]
                 }
             },
-            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-07.json",
-            "label": "Index",
+            "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-07.json",
+            "label": "Volume 7",
             "@type": "sc:Manifest"
         },
         {
@@ -441,8 +441,8 @@
                     ]
                 }
             },
-            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-08.json",
-            "label": "Index",
+            "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-08.json",
+            "label": "Volume 8",
             "@type": "sc:Manifest"
         }
     ]
