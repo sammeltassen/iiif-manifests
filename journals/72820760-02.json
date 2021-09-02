@@ -2,12 +2,25 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://dlc.services/iiif-resource/7/string1/72820760-02",
     "@type": "sc:Manifest",
+    "label": "T.H. Mededelingen. Jaargang 2",
     "metadata": [
       {
-        "label": "Title",
-        "value": "Created by DLCS"
+          "label": "Title",
+          "value": "T.H. Mededelingen. Jaargang 2"
+      },
+      {
+          "label": "Author(s)",
+          "value": "Technische Hogeschool Delft"
+      },
+      {
+          "label": "Year",
+          "value": "1954-1955"
+      },
+      {
+          "label": "OCLC Number",
+          "value": "<a href=\"https://tudelft.on.worldcat.org/oclc/72820760\" target=\"_blank\">72820760</a>"
       }
-    ],
+  ],
     "sequences": [
       {
         "@id": "https://dlc.services/iiif-query/7/?sequence=n1&manifest=s1&canvas=n2&s1=72820760-02&n1=",
