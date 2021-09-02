@@ -1,0 +1,449 @@
+{
+    "label": "TH Mededelingen",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "T.H. Mededelingen. Jaargangen 1 t/m 6"
+        },
+        {
+            "label": "Author(s)",
+            "value": "Technische Hogeschool Delft"
+        },
+        {
+            "label": "Year",
+            "value": "1952-61"
+        },
+        {
+            "label": "OCLC Number",
+            "value": "<a href=\"https://tudelft.on.worldcat.org/oclc/72820760\" target=\"_blank\">72820760</a>"
+        }
+    ],
+    "@id": "https://raw.githubusercontent.com/digirati-co-uk/delft-static-site-generator/test/content/collections/7b35ae59-1507-447a-a9ac-4641a7bf24b1.json",
+    "@type": "sc:Collection",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "items": [
+        {
+            "thumbnail": {
+                "@id": "https://dlc.services/thumbs/7/6/6d175231-6e23-4ba2-9cd4-86431ccf9197/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://apex.dlc.services/thumbs/7/6/6d175231-6e23-4ba2-9cd4-86431ccf9197",
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": [
+                                "jpg"
+                            ],
+                            "qualities": [
+                                "color"
+                            ],
+                            "supports": [
+                                "sizeByWhListed"
+                            ]
+                        }
+                    ],
+                    "width": 732,
+                    "height": 1024,
+                    "sizes": [
+                        {
+                            "width": 732,
+                            "height": 1024
+                        },
+                        {
+                            "width": 286,
+                            "height": 400
+                        },
+                        {
+                            "width": 143,
+                            "height": 200
+                        },
+                        {
+                            "width": 71,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-00.json",
+            "label": "Index",
+            "@type": "sc:Manifest"
+        },
+        {
+            "thumbnail": {
+                "@id": "https://dlc.services/thumbs/7/6/e7611217-1043-4af5-bb7f-3b1ecda8a8c9/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://apex.dlc.services/thumbs/7/6/e7611217-1043-4af5-bb7f-3b1ecda8a8c9",
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": [
+                                "jpg"
+                            ],
+                            "qualities": [
+                                "color"
+                            ],
+                            "supports": [
+                                "sizeByWhListed"
+                            ]
+                        }
+                    ],
+                    "width": 723,
+                    "height": 1024,
+                    "sizes": [
+                        {
+                            "width": 723,
+                            "height": 1024
+                        },
+                        {
+                            "width": 282,
+                            "height": 400
+                        },
+                        {
+                            "width": 141,
+                            "height": 200
+                        },
+                        {
+                            "width": 71,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-01.json",
+            "label": "Index",
+            "@type": "sc:Manifest"
+        },
+        {
+            "thumbnail": {
+                "@id": "https://dlc.services/thumbs/7/6/2c7e99e1-6891-4355-9061-cc839640649b/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://apex.dlc.services/thumbs/7/6/2c7e99e1-6891-4355-9061-cc839640649b",
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": [
+                                "jpg"
+                            ],
+                            "qualities": [
+                                "color"
+                            ],
+                            "supports": [
+                                "sizeByWhListed"
+                            ]
+                        }
+                    ],
+                    "width": 714,
+                    "height": 1024,
+                    "sizes": [
+                        {
+                            "width": 714,
+                            "height": 1024
+                        },
+                        {
+                            "width": 279,
+                            "height": 400
+                        },
+                        {
+                            "width": 139,
+                            "height": 200
+                        },
+                        {
+                            "width": 70,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-02.json",
+            "label": "Index",
+            "@type": "sc:Manifest"
+        },
+        {
+            "thumbnail": {
+                "@id": "https://dlc.services/thumbs/7/6/4b48f335-95b9-433e-a7bf-2b0bd4cf1971/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://apex.dlc.services/thumbs/7/6/4b48f335-95b9-433e-a7bf-2b0bd4cf1971",
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": [
+                                "jpg"
+                            ],
+                            "qualities": [
+                                "color"
+                            ],
+                            "supports": [
+                                "sizeByWhListed"
+                            ]
+                        }
+                    ],
+                    "width": 727,
+                    "height": 1024,
+                    "sizes": [
+                        {
+                            "width": 727,
+                            "height": 1024
+                        },
+                        {
+                            "width": 284,
+                            "height": 400
+                        },
+                        {
+                            "width": 142,
+                            "height": 200
+                        },
+                        {
+                            "width": 71,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-03.json",
+            "label": "Index",
+            "@type": "sc:Manifest"
+        },
+        {
+            "thumbnail": {
+                "@id": "https://dlc.services/thumbs/7/6/48d55281-ed43-4b21-9b31-a01bc4d973a3/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://apex.dlc.services/thumbs/7/6/48d55281-ed43-4b21-9b31-a01bc4d973a3",
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": [
+                                "jpg"
+                            ],
+                            "qualities": [
+                                "color"
+                            ],
+                            "supports": [
+                                "sizeByWhListed"
+                            ]
+                        }
+                    ],
+                    "width": 736,
+                    "height": 1024,
+                    "sizes": [
+                        {
+                            "width": 736,
+                            "height": 1024
+                        },
+                        {
+                            "width": 287,
+                            "height": 400
+                        },
+                        {
+                            "width": 144,
+                            "height": 200
+                        },
+                        {
+                            "width": 72,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-04.json",
+            "label": "Index",
+            "@type": "sc:Manifest"
+        },
+        {
+            "thumbnail": {
+                "@id": "https://dlc.services/thumbs/7/6/115324f0-1313-4f26-851b-e05ef775f286/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://apex.dlc.services/thumbs/7/6/115324f0-1313-4f26-851b-e05ef775f286",
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": [
+                                "jpg"
+                            ],
+                            "qualities": [
+                                "color"
+                            ],
+                            "supports": [
+                                "sizeByWhListed"
+                            ]
+                        }
+                    ],
+                    "width": 731,
+                    "height": 1024,
+                    "sizes": [
+                        {
+                            "width": 731,
+                            "height": 1024
+                        },
+                        {
+                            "width": 285,
+                            "height": 400
+                        },
+                        {
+                            "width": 143,
+                            "height": 200
+                        },
+                        {
+                            "width": 71,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-05.json",
+            "label": "Index",
+            "@type": "sc:Manifest"
+        },
+        {
+            "thumbnail": {
+                "@id": "https://dlc.services/thumbs/7/6/2c72e381-60c6-40b1-9ba7-f01569c80588/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://apex.dlc.services/thumbs/7/6/2c72e381-60c6-40b1-9ba7-f01569c80588",
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": [
+                                "jpg"
+                            ],
+                            "qualities": [
+                                "color"
+                            ],
+                            "supports": [
+                                "sizeByWhListed"
+                            ]
+                        }
+                    ],
+                    "width": 742,
+                    "height": 1024,
+                    "sizes": [
+                        {
+                            "width": 742,
+                            "height": 1024
+                        },
+                        {
+                            "width": 290,
+                            "height": 400
+                        },
+                        {
+                            "width": 145,
+                            "height": 200
+                        },
+                        {
+                            "width": 72,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-06.json",
+            "label": "Index",
+            "@type": "sc:Manifest"
+        },
+        {
+            "thumbnail": {
+                "@id": "https://dlc.services/thumbs/7/6/dc99d9fa-a57b-4dbd-bc58-8dfa72a1befb/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://apex.dlc.services/thumbs/7/6/dc99d9fa-a57b-4dbd-bc58-8dfa72a1befb",
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": [
+                                "jpg"
+                            ],
+                            "qualities": [
+                                "color"
+                            ],
+                            "supports": [
+                                "sizeByWhListed"
+                            ]
+                        }
+                    ],
+                    "width": 749,
+                    "height": 1024,
+                    "sizes": [
+                        {
+                            "width": 749,
+                            "height": 1024
+                        },
+                        {
+                            "width": 293,
+                            "height": 400
+                        },
+                        {
+                            "width": 146,
+                            "height": 200
+                        },
+                        {
+                            "width": 73,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-07.json",
+            "label": "Index",
+            "@type": "sc:Manifest"
+        },
+        {
+            "thumbnail": {
+                "@id": "https://dlc.services/thumbs/7/6/46ab7e64-4286-4beb-a128-5290b4aae0f1/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://apex.dlc.services/thumbs/7/6/46ab7e64-4286-4beb-a128-5290b4aae0f1",
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": [
+                                "jpg"
+                            ],
+                            "qualities": [
+                                "color"
+                            ],
+                            "supports": [
+                                "sizeByWhListed"
+                            ]
+                        }
+                    ],
+                    "width": 723,
+                    "height": 1024,
+                    "sizes": [
+                        {
+                            "width": 723,
+                            "height": 1024
+                        },
+                        {
+                            "width": 283,
+                            "height": 400
+                        },
+                        {
+                            "width": 141,
+                            "height": 200
+                        },
+                        {
+                            "width": 71,
+                            "height": 100
+                        }
+                    ]
+                }
+            },
+            "id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-08.json",
+            "label": "Index",
+            "@type": "sc:Manifest"
+        }
+    ]
+}
