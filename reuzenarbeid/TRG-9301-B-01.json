@@ -2,56 +2,89 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/TRG-9301-B-01",
     "@type": "sc:Manifest",
-    "label": "TRG-9301-B-01",
+    "label": "TRG 9301 B 01",
     "metadata": [
         {
-            "label": "Fotograven",
-            "value": "Arnaud Pistoor & Zn.Pieter Oosterhuis"
+            "label": "Call number",
+            "value": "TRG 9301 B 01"
+        },
+        {
+            "label": "OCLC number",
+            "value": "n/a"
+        },
+        {
+            "label": "Collection",
+            "value": "TU Delft Library, Trésor"
+        },
+        {
+            "label": "Projects",
+            "value": [
+                "Aanleg van rijswerken tussen de Steenenhoeksche-kanaalsluis en de Giessendamsche plaat",
+                "Beneden Merwede",
+                "Sluizen Merwede Kanaal Bewesten Utrecht",
+                "Waterweg van Rotterdam naar Zee",
+                "Verlenging der Ketel-kribben aan den mond van den Gelderschen IJssel"
+            ]
+        },
+        {
+            "label": "Period",
+            "value": "1873-1905"
+        },
+        {
+            "label": "Photographers",
+            "value": [
+                "Arnaud Pistoor & Zn.",
+                "Pieter Oosterhuis"
+            ]
+        },
+        {
+            "label": "More information",
+            "value": "<a href=\"https://allmaps.org/reuzenarbeid/\">Reuzenarbeid</a>"
         }
     ],
     "structures": [
         {
-            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/range/0",
+            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/TRG-9301-B-01/range/0",
             "@type": "sc:Range",
-            "label": "Aanleg van rijswerken tussen de Steenenhoeksche-kanaalsluis en de Giessendamsche plaat",
+            "label": "1. Aanleg van rijswerken tussen de Steenenhoeksche-kanaalsluis en de Giessendamsche plaat",
             "canvases": [
                 "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=reuzenarbeid&n1=&n2=60"
             ],
             "within": ""
         },
         {
-            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/range/2",
+            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/TRG-9301-B-01/range/1",
             "@type": "sc:Range",
-            "label": "Beneden Merwede",
+            "label": "2. Beneden Merwede",
             "canvases": [
-                "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=reuzenarbeid&n1=&n2=60"
+                "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=reuzenarbeid&n1=&n2=62"
             ],
             "within": ""
         },
         {
-            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/range/4",
+            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/TRG-9301-B-01/range/2",
             "@type": "sc:Range",
-            "label": "Sluizen Merwede Kanaal Bewesten Utrecht",
+            "label": "3. Sluizen Merwede Kanaal Bewesten Utrecht",
             "canvases": [
-                "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=reuzenarbeid&n1=&n2=60"
+                "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=reuzenarbeid&n1=&n2=64"
             ],
             "within": ""
         },
         {
-            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/range/17",
+            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/TRG-9301-B-01/range/3",
             "@type": "sc:Range",
             "label": "Waterweg van Rotterdam naar Zee",
             "canvases": [
-                "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=reuzenarbeid&n1=&n2=60"
+                "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=reuzenarbeid&n1=&n2=77"
             ],
             "within": ""
         },
         {
-            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/range/22",
+            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/TRG-9301-B-01/range/4",
             "@type": "sc:Range",
             "label": "Verlenging der Ketel-kribben aan den mond van den Gelderschen IJssel",
             "canvases": [
-                "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=reuzenarbeid&n1=&n2=60"
+                "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=reuzenarbeid&n1=&n2=82"
             ],
             "within": ""
         }
