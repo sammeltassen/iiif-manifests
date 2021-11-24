@@ -73,7 +73,7 @@
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/TRG-9301-B-01/range/3",
             "@type": "sc:Range",
-            "label": "Waterweg van Rotterdam naar Zee",
+            "label": "4. Waterweg van Rotterdam naar Zee",
             "canvases": [
                 "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=reuzenarbeid&n1=&n2=77"
             ],
@@ -82,7 +82,7 @@
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/reuzenarbeid/TRG-9301-B-01/range/4",
             "@type": "sc:Range",
-            "label": "Verlenging der Ketel-kribben aan den mond van den Gelderschen IJssel",
+            "label": "5. Verlenging der Ketel-kribben aan den mond van den Gelderschen IJssel",
             "canvases": [
                 "https://dlc.services/iiif-query/7/?canvas=n2&manifest=s1&sequence=n1&s1=reuzenarbeid&n1=&n2=82"
             ],
