@@ -2,39 +2,55 @@
   "metadata": [
     {
       "label": "Titel",
-      "value": "Spoorbrug over de Lek bij Culemborg"
+      "value": [
+        "Spoorbrug over de Lek bij Culemborg",
+        "Monding van de Nieuwe Waterweg bij Hoek van Holland",
+        "Spoorbrug over het Hollands Diep bij Moerdijk",
+        "Spoorbrug over de Waal bij Nijmegen",
+        "Spoorbrug over de Waal bij Zaltbommel",
+        "Monding van het Noorzeekanaal bij IJmuiden"
+      ]
     },
     {
       "label": "Objectnaam",
       "value": "schilderij"
     },
     {
-      "label": "Inventarisnummer",
-      "value": "2002.0052.CTG"
+      "label": "Inventarisnummers",
+      "value": [
+        "2002.0052.CTG",
+        "2002.0053.CTG",
+        "2002.0054.CTG",
+        "2002.0055.CTG",
+        "2002.0056.CTG",
+        "2002.0057.CTG"
+      ]
     },
     {
       "label": "Datering",
-      "value": "1873"
+      "value": "1850 - 1878"
     },
     {
       "label": "Maker",
-      "value": "Kannemans, C.C.  (maker)"
+      "value": [
+        "Kannemans, C.C.  (maker)",
+        "Stortenbeker A.W.  (maker)"
+      ]
     },
     {
       "label": "Afmetingen",
-      "value": "1.250,0 (h)  * 4.000,0 (b)  * 200,0 (d) "
+      "value": [
+        "1.250,0 (h)  * 4.000,0 (b)  * 200,0 (d)",
+        "1.075,0 (h)  * 3.880,0 (b)  * 65,0 (d)",
+        "1.250,0 (h)  * 4.000,0 (b)  * 200,0 (d)",
+        "1.250,0 (h)  * 4.000,0 (b)  * 200,0 (d)",
+        "1.250,0 (h)  * 4.000,0 (b)  * 200,0 (d)",
+        "1.000,0 (h)  * 3.800,0 (b)  * 200,0 (d)"
+      ]
     },
     {
       "label": "Materiaal",
       "value": "olieverf, linnen, hout"
-    },
-    {
-      "label": "Beschrijving",
-      "value": "Schilderij van de spoorbrug over de Lek bij Culemborg. Dit type schilderijen werd gemaakt in opdracht van Rijkswaterstaat na de afronding van een groot project."
-    },
-    {
-      "label": "Gerelateerd erfgoedobject",
-      "value": "Monding van het Noorzeekanaal bij IJmuiden;Spoorbrug over de Waal bij Zaltbommel;Monding van de Nieuwe Waterweg bij Hoek van Holland;Spoorbrug over het Hollands Diep bij Moerdijk;Spoorbrug over de Waal bij Nijmegen (CTG.2002.0057;CTG.2002.0056;CTG.2002.0053;CTG.2002.0054;CTG.2002.0055)"
     }
   ],
   "@type": "sc:Manifest",
@@ -53,7 +69,7 @@
   "sequences": [
     {
       "viewingDirection": "left-to-right",
-      "viewingHint": "paged",
+      "viewingHint": "individuals",
       "canvases": [
         {
           "images": [
