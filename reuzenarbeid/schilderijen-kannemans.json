@@ -191,7 +191,7 @@
           },
           "@type": "sc:Canvas",
           "width": 10663,
-          "@id": "https://dlc.services/iiif-img/7/18/2018c39b-015c-43db-8f37-4f64ba8b359a/canvas/c0",
+          "@id": "https://dlc.services/iiif-img/7/18/2018c39b-015c-43db-8f37-4f64ba8b359a/canvas/c1",
           "label": "Image",
           "height": 2960
         },
@@ -261,7 +261,7 @@
           },
           "@type": "sc:Canvas",
           "width": 10305,
-          "@id": "https://dlc.services/iiif-img/7/18/8e152582-1053-43db-8530-1e767e583b1f/canvas/c0",
+          "@id": "https://dlc.services/iiif-img/7/18/8e152582-1053-43db-8530-1e767e583b1f/canvas/c2",
           "label": "Image",
           "height": 2973
         },
@@ -331,7 +331,7 @@
           },
           "@type": "sc:Canvas",
           "width": 10276,
-          "@id": "https://dlc.services/iiif-img/7/18/ccb0adc3-b3b8-456a-9572-98c9c5f06115/canvas/c0",
+          "@id": "https://dlc.services/iiif-img/7/18/ccb0adc3-b3b8-456a-9572-98c9c5f06115/canvas/c3",
           "label": "Image",
           "height": 2928
         },
@@ -401,7 +401,7 @@
           },
           "@type": "sc:Canvas",
           "width": 9668,
-          "@id": "https://dlc.services/iiif-img/7/18/5aa2a150-22cd-45ce-a5e2-f0d4ef916a74/canvas/c0",
+          "@id": "https://dlc.services/iiif-img/7/18/5aa2a150-22cd-45ce-a5e2-f0d4ef916a74/canvas/c4",
           "label": "Image",
           "height": 2644
         },
@@ -471,7 +471,7 @@
           },
           "@type": "sc:Canvas",
           "width": 9999,
-          "@id": "https://dlc.services/iiif-img/7/18/fe4830a3-0f00-4a1c-bf9a-d3e4194184fd/canvas/c0",
+          "@id": "https://dlc.services/iiif-img/7/18/fe4830a3-0f00-4a1c-bf9a-d3e4194184fd/canvas/c5",
           "label": "Image",
           "height": 2753
         }
