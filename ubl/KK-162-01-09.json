@@ -1,0 +1,119 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:2012815/manifest",
+    "@type": "sc:Manifest",
+    "label": "Bandoeng guide map",
+    "logo": "https://iiifviewer.universiteitleiden.nl/logo/",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "Bandoeng guide map"
+        },
+        {
+            "label": "Author/creator",
+            "value": "AFNEI Headquarters Survey Department"
+        },
+        {
+            "label": "Country",
+            "value": {
+                "@value": "Indonesia",
+                "@language": "eng"
+            }
+        },
+        {
+            "label": "Date issued",
+            "value": 2004
+        },
+        {
+            "label": "Language",
+            "value": {
+                "@value": "English",
+                "@language": "eng"
+            }
+        },
+        {
+            "label": "Language",
+            "value": {
+                "@value": "Dutch",
+                "@language": "eng"
+            }
+        },
+        {
+            "label": "Extent",
+            "value": "elektronische bron (1 kaart)"
+        },
+        {
+            "label": "Note",
+            "value": [
+                "Basisgegevens: Town plans dated 1933 and 1937 and 1:25.000 maps of 1930-31 revised from airphotographs taken up to Dec. 1945.",
+                "\"Gridded with N.E.I. Southern Zone Grid to conform to 1:50.000 sheet 39/XXXIX-C\"",
+                "Legenda.",
+                "Schaalstok van 1100 metres (=10,8 cm)"
+            ]
+        },
+        {
+            "label": "Subject (topical)",
+            "value": "74.21 geografie van AziÃ«"
+        },
+        {
+            "label": "Subject (geographic)",
+            "value": "Bandung"
+        },
+        {
+            "label": "Published",
+            "value": "[Place of publication not identified] : Svy.Dte.H.Q.AFNEI, 1946"
+        },
+        {
+            "label": "Shelfmark",
+            "value": "KK 162-01-09"
+        },
+        {
+            "label": "Persistent URL",
+            "value": "http://hdl.handle.net/1887.1/item:2012815"
+        }
+    ],
+    "license": "Download provided. <a href=\"https://creativecommons.org/licenses/by/4.0/\">Use of this resource is governed by the terms and conditions of the Creative Commons CC BY License</a>",
+    "attribution": "Leiden University Libraries",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Bandoeng guide map",
+            "canvases": [
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:2012815/canvas/default",
+                    "label": "Bandoeng guide map",
+                    "height": 10107,
+                    "width": 13114,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2012815/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2012815",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2012815",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2012815/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 10107,
+                                "width": 13114,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2012815",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:2012815/canvas/default"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
