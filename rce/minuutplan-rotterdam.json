@@ -27,11 +27,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/18995fd8-5a34-ee7a-31d6-c1bb0b610186/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/18995fd8-5a34-ee7a-31d6-c1bb0b610186/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/18995fd8-5a34-ee7a-31d6-c1bb0b610186/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/18995fd8-5a34-ee7a-31d6-c1bb0b610186",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -108,11 +108,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/8f85022c-1610-8f5d-d30a-b32db3e6bfc2/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/8f85022c-1610-8f5d-d30a-b32db3e6bfc2/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/8f85022c-1610-8f5d-d30a-b32db3e6bfc2/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/8f85022c-1610-8f5d-d30a-b32db3e6bfc2",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -189,11 +189,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/26a53286-0468-4553-870f-a74801df097a/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/26a53286-0468-4553-870f-a74801df097a/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/26a53286-0468-4553-870f-a74801df097a/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/26a53286-0468-4553-870f-a74801df097a",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -270,11 +270,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/b0e9df99-a2ff-b595-3976-c3e733a6e679/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/b0e9df99-a2ff-b595-3976-c3e733a6e679/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/b0e9df99-a2ff-b595-3976-c3e733a6e679/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/b0e9df99-a2ff-b595-3976-c3e733a6e679",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -351,11 +351,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/3b565cba-244a-d885-3535-3159b4a44f1e/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/3b565cba-244a-d885-3535-3159b4a44f1e/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/3b565cba-244a-d885-3535-3159b4a44f1e/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/3b565cba-244a-d885-3535-3159b4a44f1e",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -432,11 +432,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/d4081351-dc41-91e7-018d-1bce6b15395c/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/d4081351-dc41-91e7-018d-1bce6b15395c/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/d4081351-dc41-91e7-018d-1bce6b15395c/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/d4081351-dc41-91e7-018d-1bce6b15395c",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -513,11 +513,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/ef0141c6-a888-e7c7-aec6-d541d1d8cd89/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/ef0141c6-a888-e7c7-aec6-d541d1d8cd89/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/ef0141c6-a888-e7c7-aec6-d541d1d8cd89/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/ef0141c6-a888-e7c7-aec6-d541d1d8cd89",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -594,11 +594,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/051d807d-5926-74b6-2397-e4c82a4d59e9/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/051d807d-5926-74b6-2397-e4c82a4d59e9/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/051d807d-5926-74b6-2397-e4c82a4d59e9/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/051d807d-5926-74b6-2397-e4c82a4d59e9",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -675,11 +675,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/9e2ef0d9-d1db-cf34-d509-1024bfb322e1/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/9e2ef0d9-d1db-cf34-d509-1024bfb322e1/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/9e2ef0d9-d1db-cf34-d509-1024bfb322e1/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/9e2ef0d9-d1db-cf34-d509-1024bfb322e1",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -756,11 +756,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/d5db8643-7dc2-0edf-d44f-1c2e55e4b4f5/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/d5db8643-7dc2-0edf-d44f-1c2e55e4b4f5/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/d5db8643-7dc2-0edf-d44f-1c2e55e4b4f5/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/d5db8643-7dc2-0edf-d44f-1c2e55e4b4f5",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -837,11 +837,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/39b66c6d-7a1b-d100-84b7-9aecbbd3cd9e/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/39b66c6d-7a1b-d100-84b7-9aecbbd3cd9e/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/39b66c6d-7a1b-d100-84b7-9aecbbd3cd9e/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/39b66c6d-7a1b-d100-84b7-9aecbbd3cd9e",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -918,11 +918,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/d186b633-b424-8729-341d-6ae308c9e202/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/d186b633-b424-8729-341d-6ae308c9e202/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/d186b633-b424-8729-341d-6ae308c9e202/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/d186b633-b424-8729-341d-6ae308c9e202",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -999,11 +999,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/7381e07d-857a-0609-e6ff-f889e374991a/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/7381e07d-857a-0609-e6ff-f889e374991a/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/7381e07d-857a-0609-e6ff-f889e374991a/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/7381e07d-857a-0609-e6ff-f889e374991a",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -1080,11 +1080,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/1cf50090-348e-24ef-bcfd-59a93ae7ffd6/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/1cf50090-348e-24ef-bcfd-59a93ae7ffd6/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/1cf50090-348e-24ef-bcfd-59a93ae7ffd6/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/1cf50090-348e-24ef-bcfd-59a93ae7ffd6",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -1161,11 +1161,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/5b5120d5-fa1b-fc1d-ae3d-06dfac6a69ff/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/5b5120d5-fa1b-fc1d-ae3d-06dfac6a69ff/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/5b5120d5-fa1b-fc1d-ae3d-06dfac6a69ff/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/5b5120d5-fa1b-fc1d-ae3d-06dfac6a69ff",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -1242,11 +1242,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/65786d35-65cb-1413-dec1-39e808220ca4/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/65786d35-65cb-1413-dec1-39e808220ca4/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/65786d35-65cb-1413-dec1-39e808220ca4/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/65786d35-65cb-1413-dec1-39e808220ca4",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -1323,11 +1323,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/7062dda1-cdad-9892-370f-32c41ef87978/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/7062dda1-cdad-9892-370f-32c41ef87978/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/7062dda1-cdad-9892-370f-32c41ef87978/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/7062dda1-cdad-9892-370f-32c41ef87978",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -1404,11 +1404,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/d8442f86-b8a8-78e2-5188-edd92577a613/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/d8442f86-b8a8-78e2-5188-edd92577a613/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/d8442f86-b8a8-78e2-5188-edd92577a613/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/d8442f86-b8a8-78e2-5188-edd92577a613",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -1485,11 +1485,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/aebe9dff-810c-e6ef-5f4c-9b18fb41e56b/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/aebe9dff-810c-e6ef-5f4c-9b18fb41e56b/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/aebe9dff-810c-e6ef-5f4c-9b18fb41e56b/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/aebe9dff-810c-e6ef-5f4c-9b18fb41e56b",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -1566,11 +1566,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/f921b865-b657-ef90-5f03-f6ab6542b913/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/f921b865-b657-ef90-5f03-f6ab6542b913/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/f921b865-b657-ef90-5f03-f6ab6542b913/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/f921b865-b657-ef90-5f03-f6ab6542b913",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -1647,11 +1647,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/c66c5c7a-75b1-53fe-12a1-d40a6f53537a/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/c66c5c7a-75b1-53fe-12a1-d40a6f53537a/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/c66c5c7a-75b1-53fe-12a1-d40a6f53537a/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/c66c5c7a-75b1-53fe-12a1-d40a6f53537a",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
@@ -1728,11 +1728,11 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/ab39ebde-54e4-0b0b-72b6-a477eacfa2b4/info.json/full/full/0/default.jpg",
+                "id": "https://images.memorix.nl/rce/iiif/ab39ebde-54e4-0b0b-72b6-a477eacfa2b4/full/full/0/default.jpg",
                 "width": 200,
                 "height": 300,
                 "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/ab39ebde-54e4-0b0b-72b6-a477eacfa2b4/info.json",
+                  "id": "https://images.memorix.nl/rce/iiif/ab39ebde-54e4-0b0b-72b6-a477eacfa2b4",
                   "type": "ImageService2",
                   "profile": [
                     "http://iiif.io/api/image/2/level1.json",
