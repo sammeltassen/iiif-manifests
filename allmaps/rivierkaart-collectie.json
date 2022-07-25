@@ -1,0 +1,45 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://example.org/iiif/collection/top",
+  "@type": "sc:Collection",
+  "label": "Rivierkaart",
+  "viewingHint": "top",
+  "description": "Description of Collection",
+  "attribution": "Rijkswaterstaat",
+  "collections": [
+    {
+      "@id": "http://example.org/iiif/collection/sub1",
+      "@type": "sc:Collection",
+      "label": "First edition",
+      "manifests": [  
+        {
+          "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/allmaps/rivierkaart-eerste-druk-serie-1.json",
+          "@type": "sc:Manifest",
+          "label": "Series 1"
+        },
+        {
+          "@id": "https://dlc.services/iiif-resource/7/string1string2string3/rivierkaart/1/2",
+          "@type": "sc:Manifest",
+          "label": "Series 2"
+        }
+      ]
+    },
+    {
+      "@id": "http://example.org/iiif/collection/part2",
+      "@type": "sc:Collection",
+      "label": "First revision",
+      "manifests": [  
+        {
+          "@id": "https://dlc.services/iiif-resource/7/string1string2string3/rivierkaart/2/2",
+          "@type": "sc:Manifest",
+          "label": "Series 1"
+        },
+        {
+          "@id": "https://dlc.services/iiif-resource/7/string1string2string3/rivierkaart/2/1",
+          "@type": "sc:Manifest",
+          "label": "Series 2"
+        }
+      ]
+    }
+  ]
+}
