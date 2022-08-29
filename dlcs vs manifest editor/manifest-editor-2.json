@@ -1,0 +1,301 @@
+{
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "type": "Manifest",
+    "label": {
+      "en": [
+        "Test for Allmaps"
+      ]
+    },
+    "items": [
+      {
+        "label": {
+          "en": [
+            "Dragged from DLCS to canvas"
+          ]
+        },
+        "height": 1000,
+        "width": 1000,
+        "type": "Canvas",
+        "items": [
+          {
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "motivation": "painting",
+                "type": "Annotation",
+                "body": {
+                  "id": "https://dlc.services/iiif-img/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3940,
+                  "width": 4524,
+                  "label": {
+                    "en": [
+                      "-"
+                    ]
+                  },
+                  "service": {
+                    "type": "ImageService2",
+                    "id": "https://dlc.services/iiif-img/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 4524,
+                    "height": 3940,
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32
+                        ]
+                      }
+                    ],
+                    "sizes": [
+                      {
+                        "width": 1024,
+                        "height": 892
+                      },
+                      {
+                        "width": 400,
+                        "height": 348
+                      },
+                      {
+                        "width": 200,
+                        "height": 174
+                      },
+                      {
+                        "width": 100,
+                        "height": 87
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": [
+                          "jpg"
+                        ],
+                        "qualities": [
+                          "native",
+                          "color",
+                          "gray"
+                        ],
+                        "supports": [
+                          "regionByPct",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring",
+                          "gray"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "thumbnail": [
+                  {
+                    "id": "https://dlc.services/thumbs/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9/full/full/0/default.jpg",
+                    "type": "Image",
+                    "service": {
+                      "type": "ImageService2",
+                      "id": "https://dlc.services/thumbs/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9",
+                      "protocol": "http://iiif.io/api/image",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "color"
+                          ],
+                          "supports": [
+                            "sizeByWhListed"
+                          ]
+                        }
+                      ],
+                      "width": 1024,
+                      "height": 892,
+                      "sizes": [
+                        {
+                          "width": 100,
+                          "height": 87
+                        },
+                        {
+                          "width": 200,
+                          "height": 174
+                        },
+                        {
+                          "width": 400,
+                          "height": 348
+                        },
+                        {
+                          "width": 1024,
+                          "height": 892
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "id": "https://heritage.tudelft.nl/iiif/7897489a-98e3-b205-5d70-0aa2f84b3ab9/annotation/39b8cc4d-5099-389a-b8cc-3eed3ba8b939",
+                "target": "https://heritage.tudelft.nl/iiif/7897489a-98e3-b205-5d70-0aa2f84b3ab9/canvas/d00dd4c1-4754-8705-00d7-3d0d1a5a5998#xywh=0,0,1000,870.9106984969054"
+              }
+            ],
+            "id": "https://heritage.tudelft.nl/iiif/7897489a-98e3-b205-5d70-0aa2f84b3ab9/list/0a8324f2-2360-6fb2-3119-556863e1a8b6"
+          }
+        ],
+        "id": "https://heritage.tudelft.nl/iiif/7897489a-98e3-b205-5d70-0aa2f84b3ab9/canvas/d00dd4c1-4754-8705-00d7-3d0d1a5a5998"
+      },
+      {
+        "label": {
+          "en": [
+            "Dragged to thumbnail bar"
+          ]
+        },
+        "height": 3940,
+        "width": 4524,
+        "type": "Canvas",
+        "items": [
+          {
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "motivation": "painting",
+                "type": "Annotation",
+                "body": {
+                  "id": "https://dlc.services/iiif-img/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3940,
+                  "width": 4524,
+                  "label": {
+                    "en": [
+                      "-"
+                    ]
+                  },
+                  "service": {
+                    "type": "ImageService2",
+                    "id": "https://dlc.services/iiif-img/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 4524,
+                    "height": 3940,
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32
+                        ]
+                      }
+                    ],
+                    "sizes": [
+                      {
+                        "width": 1024,
+                        "height": 892
+                      },
+                      {
+                        "width": 400,
+                        "height": 348
+                      },
+                      {
+                        "width": 200,
+                        "height": 174
+                      },
+                      {
+                        "width": 100,
+                        "height": 87
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": [
+                          "jpg"
+                        ],
+                        "qualities": [
+                          "native",
+                          "color",
+                          "gray"
+                        ],
+                        "supports": [
+                          "regionByPct",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring",
+                          "gray"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "thumbnail": [
+                  {
+                    "id": "https://dlc.services/thumbs/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9/full/full/0/default.jpg",
+                    "type": "Image",
+                    "service": {
+                      "type": "ImageService2",
+                      "id": "https://dlc.services/thumbs/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9",
+                      "protocol": "http://iiif.io/api/image",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "color"
+                          ],
+                          "supports": [
+                            "sizeByWhListed"
+                          ]
+                        }
+                      ],
+                      "width": 1024,
+                      "height": 892,
+                      "sizes": [
+                        {
+                          "width": 100,
+                          "height": 87
+                        },
+                        {
+                          "width": 200,
+                          "height": 174
+                        },
+                        {
+                          "width": 400,
+                          "height": 348
+                        },
+                        {
+                          "width": 1024,
+                          "height": 892
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "id": "https://heritage.tudelft.nl/iiif/7897489a-98e3-b205-5d70-0aa2f84b3ab9/annotation/c04b07ae-f5d1-b28a-ca3c-b48528e214b3",
+                "target": "https://heritage.tudelft.nl/iiif/7897489a-98e3-b205-5d70-0aa2f84b3ab9/canvas/ba078f93-0646-c271-68ea-b35b99cced15"
+              }
+            ],
+            "id": "https://heritage.tudelft.nl/iiif/7897489a-98e3-b205-5d70-0aa2f84b3ab9/list/1f21f102-33b1-8f4a-fd91-bef8dc9a8414"
+          }
+        ],
+        "id": "https://heritage.tudelft.nl/iiif/7897489a-98e3-b205-5d70-0aa2f84b3ab9/canvas/ba078f93-0646-c271-68ea-b35b99cced15"
+      }
+    ],
+    "id": "https://heritage.tudelft.nl/iiif/7897489a-98e3-b205-5d70-0aa2f84b3ab9/manifest"
+  }
