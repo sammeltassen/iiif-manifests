@@ -40,7 +40,7 @@
                                 "service": [
                                     {
                                         "type": "ImageService2",
-                                        "id": "https://dlc.services/iiif-img/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9",
+                                        "@id": "https://dlc.services/iiif-img/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9",
                                         "protocol": "http://iiif.io/api/image",
                                         "width": 4524,
                                         "height": 3940,
@@ -185,7 +185,7 @@
                                 "service": [
                                     {
                                         "type": "ImageService2",
-                                        "id": "https://dlc.services/iiif-img/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9",
+                                        "@id": "https://dlc.services/iiif-img/7/4/00e3862e-f98e-4e7e-a701-fa74dcc93cb9",
                                         "protocol": "http://iiif.io/api/image",
                                         "width": 4524,
                                         "height": 3940,
