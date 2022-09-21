@@ -1,0 +1,732 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188610/manifest",
+    "@type": "sc:Manifest",
+    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-032/048",
+    "logo": "https://iiifviewer.universiteitleiden.nl/logo/",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-032/048"
+        },
+        {
+            "label": "Author/creator",
+            "value": [
+                "Berckenrode, Balthasar Florisz. van (ca. 1591-1646)",
+                "Blaeu, Willem Jansz (1571-1638)"
+            ]
+        },
+        {
+            "label": "Subject (topical)",
+            "value": "Maps (documents)"
+        },
+        {
+            "label": "Country",
+            "value": {
+                "@value": "Netherlands",
+                "@language": "eng"
+            }
+        },
+        {
+            "label": "Date issued",
+            "value": "2021Â "
+        },
+        {
+            "label": "Language",
+            "value": {
+                "@value": "Latin",
+                "@language": "eng"
+            }
+        },
+        {
+            "label": "Extent",
+            "value": "19 scans."
+        },
+        {
+            "label": "Note",
+            "value": [
+                "descriptore Balthazaro Florentio a Berke(n)rode Batavo.",
+                "West up.",
+                "3 scale bars."
+            ]
+        },
+        {
+            "label": "Subject (geographic)",
+            "value": "Netherlands (nation)"
+        },
+        {
+            "label": "Part of",
+            "value": "D'eylanden Texel, Vlielandt en Der Schelling"
+        },
+        {
+            "label": "Published",
+            "value": "1621"
+        },
+        {
+            "label": "Shelfmark",
+            "value": "COLLBN 009-11-032/048"
+        },
+        {
+            "label": "Persistent URL",
+            "value": "http://hdl.handle.net/1887.1/item:3188610"
+        }
+    ],
+    "license": "Download provided. <a href='https://creativecommons.org/licenses/by/4.0/'>Use of this resource is governed by the terms and conditions of the Creative Commons CC BY License</a>",
+    "attribution": "Leiden University Libraries",
+    "viewingDirection": "left-to-right",
+    "viewingHint": "paged",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-032/048",
+            "canvases": [
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188591/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-032",
+                    "height": 1610,
+                    "width": 4452,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188591/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188591",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188591",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188591/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 1610,
+                                "width": 4452,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188591",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188591/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188592/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-033",
+                    "height": 1589,
+                    "width": 4422,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188592/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188592",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188592",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188592/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 1589,
+                                "width": 4422,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188592",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188592/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188593/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-034",
+                    "height": 1606,
+                    "width": 4615,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188593/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188593",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188593",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188593/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 1606,
+                                "width": 4615,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188593",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188593/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188594/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-035",
+                    "height": 1679,
+                    "width": 4597,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188594/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188594",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188594",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188594/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 1679,
+                                "width": 4597,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188594",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188594/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188595/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-036",
+                    "height": 3248,
+                    "width": 4482,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188595/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188595",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188595",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188595/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3248,
+                                "width": 4482,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188595",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188595/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188596/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-037",
+                    "height": 4510,
+                    "width": 3396,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188596/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188596",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188596",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188596/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 4510,
+                                "width": 3396,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188596",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188596/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188597/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-038",
+                    "height": 4367,
+                    "width": 3301,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188597/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188597",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188597",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188597/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 4367,
+                                "width": 3301,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188597",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188597/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188598/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-039",
+                    "height": 4491,
+                    "width": 3331,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188598/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188598",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188598",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188598/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 4491,
+                                "width": 3331,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188598",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188598/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188599/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-040",
+                    "height": 4539,
+                    "width": 2955,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188599/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188599",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188599",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188599/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 4539,
+                                "width": 2955,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188599",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188599/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188600/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-041",
+                    "height": 4420,
+                    "width": 2534,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188600/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188600",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188600",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188600/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 4420,
+                                "width": 2534,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188600",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188600/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188601/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-042",
+                    "height": 4307,
+                    "width": 3212,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188601/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188601",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188601",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188601/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 4307,
+                                "width": 3212,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188601",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188601/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188602/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-043",
+                    "height": 4411,
+                    "width": 3378,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188602/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188602",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188602",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188602/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 4411,
+                                "width": 3378,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188602",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188602/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188603/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-044",
+                    "height": 4445,
+                    "width": 3435,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188603/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188603",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188603",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188603/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 4445,
+                                "width": 3435,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188603",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188603/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188604/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-045",
+                    "height": 4453,
+                    "width": 2960,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188604/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188604",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188604",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188604/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 4453,
+                                "width": 2960,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188604",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188604/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188605/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-046",
+                    "height": 4251,
+                    "width": 2507,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188605/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188605",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188605",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188605/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 4251,
+                                "width": 2507,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188605",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188605/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188606/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-047",
+                    "height": 1993,
+                    "width": 3037,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188606/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188606",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188606",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188606/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 1993,
+                                "width": 3037,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188606",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188606/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188607/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-048",
+                    "height": 2187,
+                    "width": 2564,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188607/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188607",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188607",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188607/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2187,
+                                "width": 2564,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188607",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188607/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188608/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-032/048 - appendix 1",
+                    "height": 5445,
+                    "width": 3754,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188608/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188608",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188608",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188608/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 5445,
+                                "width": 3754,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188608",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188608/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188609/canvas/default",
+                    "label": "Nova et accurata totius Hollandiae Westfrisiaeq(ue) topographia COLLBN 009-11-032/048 - appendix 2",
+                    "height": 2308,
+                    "width": 876,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188609/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188609",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188609",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188609/full/pct:50/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2308,
+                                "width": 876,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188609",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3188609/canvas/default"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
