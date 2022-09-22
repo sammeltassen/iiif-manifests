@@ -96,7 +96,7 @@
                                                     ]
                                                 }
                                             ],
-                                            "type": "ImageService",
+                                            "type": "ImageService2",
                                             "id": "https://dlc.services/iiif-img/7/4/1ddcc0b3-6543-460d-8522-649094e91203"
                                         }
                                     ]
@@ -204,7 +204,7 @@
                                                     "maxHeight": 5000
                                                 }
                                             ],
-                                            "type": "ImageService",
+                                            "type": "ImageService2",
                                             "id": "https://service.archief.nl/iipsrv?IIIF=/1f/9d/67/a4/c4/b5/45/c1/91/b6/ae/60/ce/03/2c/21/6cd1bbdc-aded-43f1-bf14-dbb56f90746d.jp2"
                                         }
                                     ]
@@ -330,7 +330,7 @@
                                                     ]
                                                 }
                                             ],
-                                            "type": "ImageService",
+                                            "type": "ImageService2",
                                             "id": "https://vu.contentdm.oclc.org/iiif/2/krt:1600"
                                         }
                                     ]
@@ -461,7 +461,7 @@
                                                     ]
                                                 }
                                             ],
-                                            "type": "ImageService",
+                                            "type": "ImageService2",
                                             "id": "https://images.wur.nl/iiif/2/coll21:76"
                                         }
                                     ]
@@ -587,7 +587,7 @@
                                                     ]
                                                 }
                                             ],
-                                            "type": "ImageService",
+                                            "type": "ImageService2",
                                             "id": "https://facsimile.ub.rug.nl/iiif/2/Kaarten:2284"
                                         }
                                     ]
@@ -683,7 +683,7 @@
                                                     ]
                                                 }
                                             ],
-                                            "type": "ImageService",
+                                            "type": "ImageService2",
                                             "id": "https://images.iiifhosting.com/iiif/fbd4147f0547ef9a7735ddcd574fddf7e4afc76c1c6f8e3d3201a3293f5b4789"
                                         }
                                     ]
@@ -760,7 +760,7 @@
                                             "profile": [
                                                 "http://iiif.io/api/image/2/level2.json"
                                             ],
-                                            "type": "ImageService",
+                                            "type": "ImageService2",
                                             "id": "https://www.goudatijdmachine.nl/data/iiif/2/17783"
                                         }
                                     ]
@@ -885,7 +885,7 @@
                                                     ]
                                                 }
                                             ],
-                                            "type": "ImageService",
+                                            "type": "ImageService2",
                                             "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188597"
                                         }
                                     ]
@@ -981,7 +981,7 @@
                                                     "supports": []
                                                 }
                                             ],
-                                            "type": "ImageService",
+                                            "type": "ImageService2",
                                             "id": "https://images.memorix.nl/ams/iiif/555f0a1c-d678-e7c2-fb7a-61db384d6d76"
                                         }
                                     ]
@@ -1085,7 +1085,7 @@
                                                     ]
                                                 }
                                             ],
-                                            "type": "ImageService",
+                                            "type": "ImageService2",
                                             "id": "https://images.memorix.nl/rce/iiif/c7c10188-b51f-c34c-8983-276533190611"
                                         }
                                     ]
