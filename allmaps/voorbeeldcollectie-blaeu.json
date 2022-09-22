@@ -1,0 +1,1100 @@
+{
+    "id": "https://example.org/9e728059-880f-44fb-aae3-70ecea2f5eb5",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Blank Manifest"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://example.org/canvas/793bd55c-a068-4797-924a-60bbcc59f043",
+            "type": "Canvas",
+            "height": 3738,
+            "width": 4548,
+            "label": {
+                "en": [
+                    "TU Delft"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://example.org/canvas/793bd55c-a068-4797-924a-60bbcc59f043/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/canvas/793bd55c-a068-4797-924a-60bbcc59f043/painting",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "target": "https://example.org/canvas/793bd55c-a068-4797-924a-60bbcc59f043",
+                            "body": [
+                                {
+                                    "id": "https://dlc.services/iiif-img/7/4/1ddcc0b3-6543-460d-8522-649094e91203",
+                                    "type": "Image",
+                                    "height": 3738,
+                                    "width": 4548,
+                                    "service": [
+                                        {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://dlc.services/iiif-img/7/4/1ddcc0b3-6543-460d-8522-649094e91203",
+                                            "protocol": "http://iiif.io/api/image",
+                                            "width": 4548,
+                                            "height": 3738,
+                                            "tiles": [
+                                                {
+                                                    "width": 256,
+                                                    "height": 256,
+                                                    "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "sizes": [
+                                                {
+                                                    "width": 1024,
+                                                    "height": 842
+                                                },
+                                                {
+                                                    "width": 400,
+                                                    "height": 329
+                                                },
+                                                {
+                                                    "width": 200,
+                                                    "height": 164
+                                                },
+                                                {
+                                                    "width": 100,
+                                                    "height": 82
+                                                }
+                                            ],
+                                            "profile": [
+                                                "http://iiif.io/api/image/2/level1.json",
+                                                {
+                                                    "formats": [
+                                                        "jpg"
+                                                    ],
+                                                    "qualities": [
+                                                        "native",
+                                                        "color",
+                                                        "gray"
+                                                    ],
+                                                    "supports": [
+                                                        "regionByPct",
+                                                        "sizeByForcedWh",
+                                                        "sizeByWh",
+                                                        "sizeAboveFull",
+                                                        "rotationBy90s",
+                                                        "mirroring",
+                                                        "gray"
+                                                    ]
+                                                }
+                                            ],
+                                            "type": "ImageService",
+                                            "id": "https://dlc.services/iiif-img/7/4/1ddcc0b3-6543-460d-8522-649094e91203"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/e3684bca-2d9c-4219-ac2e-533b44fbded2",
+            "type": "Canvas",
+            "height": 5664,
+            "width": 6970,
+            "label": {
+                "en": [
+                    "Nationaal Archief"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://example.org/canvas/e3684bca-2d9c-4219-ac2e-533b44fbded2/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/canvas/e3684bca-2d9c-4219-ac2e-533b44fbded2/painting",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "target": "https://example.org/canvas/e3684bca-2d9c-4219-ac2e-533b44fbded2",
+                            "body": [
+                                {
+                                    "id": "https://service.archief.nl/iipsrv?IIIF=/1f/9d/67/a4/c4/b5/45/c1/91/b6/ae/60/ce/03/2c/21/6cd1bbdc-aded-43f1-bf14-dbb56f90746d.jp2/info.json",
+                                    "type": "Image",
+                                    "height": 5664,
+                                    "width": 6970,
+                                    "service": [
+                                        {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "protocol": "http://iiif.io/api/image",
+                                            "width": 6970,
+                                            "height": 5664,
+                                            "sizes": [
+                                                {
+                                                    "width": 217,
+                                                    "height": 177
+                                                },
+                                                {
+                                                    "width": 435,
+                                                    "height": 354
+                                                },
+                                                {
+                                                    "width": 871,
+                                                    "height": 708
+                                                },
+                                                {
+                                                    "width": 1742,
+                                                    "height": 1416
+                                                },
+                                                {
+                                                    "width": 3485,
+                                                    "height": 2832
+                                                }
+                                            ],
+                                            "tiles": [
+                                                {
+                                                    "width": 256,
+                                                    "height": 256,
+                                                    "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "@id": "https://service.archief.nl/iipsrv?IIIF=/1f/9d/67/a4/c4/b5/45/c1/91/b6/ae/60/ce/03/2c/21/6cd1bbdc-aded-43f1-bf14-dbb56f90746d.jp2",
+                                            "profile": [
+                                                "http://iiif.io/api/image/2/level1",
+                                                {
+                                                    "formats": [
+                                                        "jpg"
+                                                    ],
+                                                    "qualities": [
+                                                        "native",
+                                                        "color",
+                                                        "gray",
+                                                        "bitonal"
+                                                    ],
+                                                    "supports": [
+                                                        "regionByPct",
+                                                        "regionSquare",
+                                                        "sizeByForcedWh",
+                                                        "sizeByWh",
+                                                        "sizeAboveFull",
+                                                        "sizeUpscaling",
+                                                        "rotationBy90s",
+                                                        "mirroring"
+                                                    ],
+                                                    "maxWidth": 5000,
+                                                    "maxHeight": 5000
+                                                }
+                                            ],
+                                            "type": "ImageService",
+                                            "id": "https://service.archief.nl/iipsrv?IIIF=/1f/9d/67/a4/c4/b5/45/c1/91/b6/ae/60/ce/03/2c/21/6cd1bbdc-aded-43f1-bf14-dbb56f90746d.jp2"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/4f70754f-bcc6-47ba-a8d0-8f7b07db4bc8",
+            "type": "Canvas",
+            "height": 3414,
+            "width": 4393,
+            "label": {
+                "en": [
+                    "Vrije Universiteit"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://example.org/canvas/4f70754f-bcc6-47ba-a8d0-8f7b07db4bc8/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/canvas/4f70754f-bcc6-47ba-a8d0-8f7b07db4bc8/painting",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "target": "https://example.org/canvas/4f70754f-bcc6-47ba-a8d0-8f7b07db4bc8",
+                            "body": [
+                                {
+                                    "id": "https://vu.contentdm.oclc.org/iiif/2/krt:1600/info.json",
+                                    "type": "Image",
+                                    "height": 3414,
+                                    "width": 4393,
+                                    "service": [
+                                        {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://vu.contentdm.oclc.org/iiif/2/krt:1600",
+                                            "protocol": "http://iiif.io/api/image",
+                                            "width": 4393,
+                                            "height": 3414,
+                                            "sizes": [
+                                                {
+                                                    "width": 137,
+                                                    "height": 107
+                                                },
+                                                {
+                                                    "width": 275,
+                                                    "height": 213
+                                                },
+                                                {
+                                                    "width": 549,
+                                                    "height": 427
+                                                },
+                                                {
+                                                    "width": 1098,
+                                                    "height": 854
+                                                },
+                                                {
+                                                    "width": 2197,
+                                                    "height": 1707
+                                                },
+                                                {
+                                                    "width": 4393,
+                                                    "height": 3414
+                                                }
+                                            ],
+                                            "tiles": [
+                                                {
+                                                    "width": 1024,
+                                                    "height": 1024,
+                                                    "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "profile": [
+                                                "http://iiif.io/api/image/2/level2.json",
+                                                {
+                                                    "formats": [
+                                                        "tif",
+                                                        "jpg",
+                                                        "gif",
+                                                        "png"
+                                                    ],
+                                                    "maxArea": 29995404,
+                                                    "qualities": [
+                                                        "bitonal",
+                                                        "default",
+                                                        "gray",
+                                                        "color"
+                                                    ],
+                                                    "supports": [
+                                                        "regionByPx",
+                                                        "sizeByW",
+                                                        "sizeByWhListed",
+                                                        "cors",
+                                                        "regionSquare",
+                                                        "sizeByDistortedWh",
+                                                        "sizeAboveFull",
+                                                        "canonicalLinkHeader",
+                                                        "sizeByConfinedWh",
+                                                        "sizeByPct",
+                                                        "jsonldMediaType",
+                                                        "regionByPct",
+                                                        "rotationArbitrary",
+                                                        "sizeByH",
+                                                        "baseUriRedirect",
+                                                        "rotationBy90s",
+                                                        "profileLinkHeader",
+                                                        "sizeByForcedWh",
+                                                        "sizeByWh",
+                                                        "mirroring"
+                                                    ]
+                                                }
+                                            ],
+                                            "type": "ImageService",
+                                            "id": "https://vu.contentdm.oclc.org/iiif/2/krt:1600"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/3703a1ad-3b37-4697-ad19-04b06e838aeb",
+            "type": "Canvas",
+            "height": 6310,
+            "width": 7652,
+            "label": {
+                "en": [
+                    "Wageningen University & Research"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://example.org/canvas/3703a1ad-3b37-4697-ad19-04b06e838aeb/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/canvas/3703a1ad-3b37-4697-ad19-04b06e838aeb/painting",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "target": "https://example.org/canvas/3703a1ad-3b37-4697-ad19-04b06e838aeb",
+                            "body": [
+                                {
+                                    "id": "https://images.wur.nl/iiif/2/coll21:76/info.json",
+                                    "type": "Image",
+                                    "height": 6310,
+                                    "width": 7652,
+                                    "service": [
+                                        {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://images.wur.nl/iiif/2/coll21:76",
+                                            "protocol": "http://iiif.io/api/image",
+                                            "width": 7652,
+                                            "height": 6310,
+                                            "sizes": [
+                                                {
+                                                    "width": 120,
+                                                    "height": 99
+                                                },
+                                                {
+                                                    "width": 239,
+                                                    "height": 197
+                                                },
+                                                {
+                                                    "width": 478,
+                                                    "height": 394
+                                                },
+                                                {
+                                                    "width": 957,
+                                                    "height": 789
+                                                },
+                                                {
+                                                    "width": 1913,
+                                                    "height": 1578
+                                                },
+                                                {
+                                                    "width": 3826,
+                                                    "height": 3155
+                                                },
+                                                {
+                                                    "width": 7652,
+                                                    "height": 6310
+                                                }
+                                            ],
+                                            "tiles": [
+                                                {
+                                                    "width": 1024,
+                                                    "height": 1024,
+                                                    "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16,
+                                                        32,
+                                                        64
+                                                    ]
+                                                }
+                                            ],
+                                            "profile": [
+                                                "http://iiif.io/api/image/2/level2.json",
+                                                {
+                                                    "formats": [
+                                                        "tif",
+                                                        "jpg",
+                                                        "gif",
+                                                        "png"
+                                                    ],
+                                                    "maxArea": 96568240,
+                                                    "qualities": [
+                                                        "bitonal",
+                                                        "default",
+                                                        "gray",
+                                                        "color"
+                                                    ],
+                                                    "supports": [
+                                                        "regionByPx",
+                                                        "sizeByW",
+                                                        "sizeByWhListed",
+                                                        "cors",
+                                                        "regionSquare",
+                                                        "sizeByDistortedWh",
+                                                        "sizeAboveFull",
+                                                        "canonicalLinkHeader",
+                                                        "sizeByConfinedWh",
+                                                        "sizeByPct",
+                                                        "jsonldMediaType",
+                                                        "regionByPct",
+                                                        "rotationArbitrary",
+                                                        "sizeByH",
+                                                        "baseUriRedirect",
+                                                        "rotationBy90s",
+                                                        "profileLinkHeader",
+                                                        "sizeByForcedWh",
+                                                        "sizeByWh",
+                                                        "mirroring"
+                                                    ]
+                                                }
+                                            ],
+                                            "type": "ImageService",
+                                            "id": "https://images.wur.nl/iiif/2/coll21:76"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/30744a72-1b14-4b0a-9a75-650344557029",
+            "type": "Canvas",
+            "height": 2415,
+            "width": 3019,
+            "label": {
+                "en": [
+                    "University of Groningen"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://example.org/canvas/30744a72-1b14-4b0a-9a75-650344557029/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/canvas/30744a72-1b14-4b0a-9a75-650344557029/painting",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "target": "https://example.org/canvas/30744a72-1b14-4b0a-9a75-650344557029",
+                            "body": [
+                                {
+                                    "id": "https://facsimile.ub.rug.nl/iiif/2/Kaarten:2284/info.json",
+                                    "type": "Image",
+                                    "height": 2415,
+                                    "width": 3019,
+                                    "service": [
+                                        {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://facsimile.ub.rug.nl/iiif/2/Kaarten:2284",
+                                            "protocol": "http://iiif.io/api/image",
+                                            "width": 3019,
+                                            "height": 2415,
+                                            "sizes": [
+                                                {
+                                                    "width": 94,
+                                                    "height": 75
+                                                },
+                                                {
+                                                    "width": 189,
+                                                    "height": 151
+                                                },
+                                                {
+                                                    "width": 377,
+                                                    "height": 302
+                                                },
+                                                {
+                                                    "width": 755,
+                                                    "height": 604
+                                                },
+                                                {
+                                                    "width": 1510,
+                                                    "height": 1208
+                                                },
+                                                {
+                                                    "width": 3019,
+                                                    "height": 2415
+                                                }
+                                            ],
+                                            "tiles": [
+                                                {
+                                                    "width": 1024,
+                                                    "height": 1024,
+                                                    "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "profile": [
+                                                "http://iiif.io/api/image/2/level2.json",
+                                                {
+                                                    "formats": [
+                                                        "tif",
+                                                        "jpg",
+                                                        "gif",
+                                                        "png"
+                                                    ],
+                                                    "maxArea": 14581770,
+                                                    "qualities": [
+                                                        "bitonal",
+                                                        "default",
+                                                        "gray",
+                                                        "color"
+                                                    ],
+                                                    "supports": [
+                                                        "regionByPx",
+                                                        "sizeByW",
+                                                        "sizeByWhListed",
+                                                        "cors",
+                                                        "regionSquare",
+                                                        "sizeByDistortedWh",
+                                                        "sizeAboveFull",
+                                                        "canonicalLinkHeader",
+                                                        "sizeByConfinedWh",
+                                                        "sizeByPct",
+                                                        "jsonldMediaType",
+                                                        "regionByPct",
+                                                        "rotationArbitrary",
+                                                        "sizeByH",
+                                                        "baseUriRedirect",
+                                                        "rotationBy90s",
+                                                        "profileLinkHeader",
+                                                        "sizeByForcedWh",
+                                                        "sizeByWh",
+                                                        "mirroring"
+                                                    ]
+                                                }
+                                            ],
+                                            "type": "ImageService",
+                                            "id": "https://facsimile.ub.rug.nl/iiif/2/Kaarten:2284"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/70de0e5f-248b-4fe3-905f-8db62c152a2e",
+            "type": "Canvas",
+            "height": 6567,
+            "width": 7536,
+            "label": {
+                "en": [
+                    "Universiteit Utrecht"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://example.org/canvas/70de0e5f-248b-4fe3-905f-8db62c152a2e/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/canvas/70de0e5f-248b-4fe3-905f-8db62c152a2e/painting",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "target": "https://example.org/canvas/70de0e5f-248b-4fe3-905f-8db62c152a2e",
+                            "body": [
+                                {
+                                    "id": "https://images.iiifhosting.com/iiif/fbd4147f0547ef9a7735ddcd574fddf7e4afc76c1c6f8e3d3201a3293f5b4789/info.json",
+                                    "type": "Image",
+                                    "height": 6567,
+                                    "width": 7536,
+                                    "service": [
+                                        {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://images.iiifhosting.com/iiif/fbd4147f0547ef9a7735ddcd574fddf7e4afc76c1c6f8e3d3201a3293f5b4789",
+                                            "protocol": "http://iiif.io/api/image",
+                                            "width": 7536,
+                                            "height": 6567,
+                                            "sizes": [
+                                                {
+                                                    "width": 235,
+                                                    "height": 205
+                                                },
+                                                {
+                                                    "width": 471,
+                                                    "height": 410
+                                                },
+                                                {
+                                                    "width": 942,
+                                                    "height": 820
+                                                }
+                                            ],
+                                            "tiles": [
+                                                {
+                                                    "width": 256,
+                                                    "height": 256,
+                                                    "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "profile": [
+                                                "http://iiif.io/api/image/2/level1.json",
+                                                {
+                                                    "formats": [
+                                                        "jpg"
+                                                    ],
+                                                    "qualities": [
+                                                        "native",
+                                                        "color",
+                                                        "gray"
+                                                    ],
+                                                    "supports": [
+                                                        "regionByPct",
+                                                        "regionSquare",
+                                                        "sizeByForcedWh",
+                                                        "sizeByWh",
+                                                        "sizeAboveFull",
+                                                        "rotationBy90s",
+                                                        "mirroring"
+                                                    ]
+                                                }
+                                            ],
+                                            "type": "ImageService",
+                                            "id": "https://images.iiifhosting.com/iiif/fbd4147f0547ef9a7735ddcd574fddf7e4afc76c1c6f8e3d3201a3293f5b4789"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/e6d05748-b87e-4c6e-98ef-c6ff6b1aa4d5",
+            "type": "Canvas",
+            "height": 4299,
+            "width": 5500,
+            "label": {
+                "en": [
+                    "Gouda Tijdmachine"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://example.org/canvas/e6d05748-b87e-4c6e-98ef-c6ff6b1aa4d5/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/canvas/e6d05748-b87e-4c6e-98ef-c6ff6b1aa4d5/painting",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "target": "https://example.org/canvas/e6d05748-b87e-4c6e-98ef-c6ff6b1aa4d5",
+                            "body": [
+                                {
+                                    "id": "https://www.goudatijdmachine.nl/data/iiif/2/17783/info.json",
+                                    "type": "Image",
+                                    "height": 4299,
+                                    "width": 5500,
+                                    "service": [
+                                        {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://www.goudatijdmachine.nl/data/iiif/2/17783",
+                                            "protocol": "http://iiif.io/api/image",
+                                            "width": 5500,
+                                            "height": 4299,
+                                            "sizes": [
+                                                {
+                                                    "width": 200,
+                                                    "height": 156
+                                                },
+                                                {
+                                                    "width": 800,
+                                                    "height": 625
+                                                },
+                                                {
+                                                    "width": 5500,
+                                                    "height": 4299
+                                                }
+                                            ],
+                                            "tiles": [
+                                                {
+                                                    "width": 256,
+                                                    "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16,
+                                                        32
+                                                    ],
+                                                    "height": 256
+                                                }
+                                            ],
+                                            "profile": [
+                                                "http://iiif.io/api/image/2/level2.json"
+                                            ],
+                                            "type": "ImageService",
+                                            "id": "https://www.goudatijdmachine.nl/data/iiif/2/17783"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/6ad7c47b-fb3d-42c3-b9a7-989bd42fc914",
+            "type": "Canvas",
+            "height": 4367,
+            "width": 3301,
+            "label": {
+                "en": [
+                    "Universitaire Bibliotheken Leiden"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://example.org/canvas/6ad7c47b-fb3d-42c3-b9a7-989bd42fc914/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/canvas/6ad7c47b-fb3d-42c3-b9a7-989bd42fc914/painting",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "target": "https://example.org/canvas/6ad7c47b-fb3d-42c3-b9a7-989bd42fc914",
+                            "body": [
+                                {
+                                    "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188597",
+                                    "type": "Image",
+                                    "height": 4367,
+                                    "width": 3301,
+                                    "service": [
+                                        {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188597",
+                                            "protocol": "http://iiif.io/api/image",
+                                            "width": 3301,
+                                            "height": 4367,
+                                            "sizes": [
+                                                {
+                                                    "width": 103,
+                                                    "height": 136
+                                                },
+                                                {
+                                                    "width": 206,
+                                                    "height": 273
+                                                },
+                                                {
+                                                    "width": 413,
+                                                    "height": 546
+                                                },
+                                                {
+                                                    "width": 825,
+                                                    "height": 1092
+                                                },
+                                                {
+                                                    "width": 1651,
+                                                    "height": 2184
+                                                },
+                                                {
+                                                    "width": 3301,
+                                                    "height": 4367
+                                                }
+                                            ],
+                                            "tiles": [
+                                                {
+                                                    "width": 512,
+                                                    "height": 512,
+                                                    "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "profile": [
+                                                "http://iiif.io/api/image/2/level2.json",
+                                                {
+                                                    "formats": [
+                                                        "jpg",
+                                                        "tif",
+                                                        "gif",
+                                                        "png"
+                                                    ],
+                                                    "maxArea": 14415467,
+                                                    "qualities": [
+                                                        "bitonal",
+                                                        "default",
+                                                        "gray",
+                                                        "color"
+                                                    ],
+                                                    "supports": [
+                                                        "regionByPx",
+                                                        "sizeByW",
+                                                        "sizeByWhListed",
+                                                        "cors",
+                                                        "regionSquare",
+                                                        "sizeByDistortedWh",
+                                                        "canonicalLinkHeader",
+                                                        "sizeByConfinedWh",
+                                                        "sizeByPct",
+                                                        "jsonldMediaType",
+                                                        "regionByPct",
+                                                        "rotationArbitrary",
+                                                        "sizeByH",
+                                                        "baseUriRedirect",
+                                                        "rotationBy90s",
+                                                        "profileLinkHeader",
+                                                        "sizeByForcedWh",
+                                                        "sizeByWh",
+                                                        "mirroring"
+                                                    ]
+                                                }
+                                            ],
+                                            "type": "ImageService",
+                                            "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3188597"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/e419677f-3c7c-4373-ae8b-8b1f3be76bc1",
+            "type": "Canvas",
+            "height": 5734,
+            "width": 7788,
+            "label": {
+                "en": [
+                    "Stadsarchief Amsterdam"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://example.org/canvas/e419677f-3c7c-4373-ae8b-8b1f3be76bc1/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/canvas/e419677f-3c7c-4373-ae8b-8b1f3be76bc1/painting",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "target": "https://example.org/canvas/e419677f-3c7c-4373-ae8b-8b1f3be76bc1",
+                            "body": [
+                                {
+                                    "id": "https://images.memorix.nl/ams/iiif/555f0a1c-d678-e7c2-fb7a-61db384d6d76/info.json",
+                                    "type": "Image",
+                                    "height": 5734,
+                                    "width": 7788,
+                                    "service": [
+                                        {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://images.memorix.nl/ams/iiif/555f0a1c-d678-e7c2-fb7a-61db384d6d76",
+                                            "protocol": "http://iiif.io/api/image",
+                                            "width": 7788,
+                                            "height": 5734,
+                                            "sizes": [
+                                                {
+                                                    "width": 244,
+                                                    "height": 180
+                                                },
+                                                {
+                                                    "width": 487,
+                                                    "height": 359
+                                                },
+                                                {
+                                                    "width": 974,
+                                                    "height": 717
+                                                },
+                                                {
+                                                    "width": 1947,
+                                                    "height": 1434
+                                                },
+                                                {
+                                                    "width": 3894,
+                                                    "height": 2867
+                                                },
+                                                {
+                                                    "width": 7788,
+                                                    "height": 5734
+                                                }
+                                            ],
+                                            "tiles": [
+                                                {
+                                                    "width": 256,
+                                                    "height": 256,
+                                                    "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "profile": [
+                                                "http://iiif.io/api/image/2/level1.json",
+                                                {
+                                                    "formats": [
+                                                        "jpg"
+                                                    ],
+                                                    "qualities": [],
+                                                    "supports": []
+                                                }
+                                            ],
+                                            "type": "ImageService",
+                                            "id": "https://images.memorix.nl/ams/iiif/555f0a1c-d678-e7c2-fb7a-61db384d6d76"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://example.org/canvas/f83cda61-6e0f-49fd-b00b-33019d554966",
+            "type": "Canvas",
+            "height": 3140,
+            "width": 5000,
+            "label": {
+                "en": [
+                    "Rijksdienst voor Cultureel Erfgoed"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://example.org/canvas/f83cda61-6e0f-49fd-b00b-33019d554966/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/canvas/f83cda61-6e0f-49fd-b00b-33019d554966/painting",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "target": "https://example.org/canvas/f83cda61-6e0f-49fd-b00b-33019d554966",
+                            "body": [
+                                {
+                                    "id": "https://images.memorix.nl/rce/iiif/c7c10188-b51f-c34c-8983-276533190611/info.json",
+                                    "type": "Image",
+                                    "height": 3140,
+                                    "width": 5000,
+                                    "service": [
+                                        {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://images.memorix.nl/rce/iiif/c7c10188-b51f-c34c-8983-276533190611",
+                                            "protocol": "http://iiif.io/api/image",
+                                            "width": 5000,
+                                            "height": 3140,
+                                            "sizes": [
+                                                {
+                                                    "width": 156,
+                                                    "height": 98
+                                                },
+                                                {
+                                                    "width": 312,
+                                                    "height": 196
+                                                },
+                                                {
+                                                    "width": 625,
+                                                    "height": 392
+                                                },
+                                                {
+                                                    "width": 1250,
+                                                    "height": 785
+                                                },
+                                                {
+                                                    "width": 2500,
+                                                    "height": 1570
+                                                }
+                                            ],
+                                            "tiles": [
+                                                {
+                                                    "width": 256,
+                                                    "height": 256,
+                                                    "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "profile": [
+                                                "http://iiif.io/api/image/2/level1.json",
+                                                {
+                                                    "formats": [
+                                                        "jpg"
+                                                    ],
+                                                    "qualities": [
+                                                        "native",
+                                                        "color",
+                                                        "gray"
+                                                    ],
+                                                    "supports": [
+                                                        "regionByPct",
+                                                        "regionSquare",
+                                                        "sizeByForcedWh",
+                                                        "sizeByWh",
+                                                        "sizeAboveFull",
+                                                        "rotationBy90s",
+                                                        "mirroring"
+                                                    ]
+                                                }
+                                            ],
+                                            "type": "ImageService",
+                                            "id": "https://images.memorix.nl/rce/iiif/c7c10188-b51f-c34c-8983-276533190611"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
