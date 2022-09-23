@@ -107,6 +107,126 @@
             ]
         },
         {
+            "id": "https://example.org/canvas/a86d5786-6f44-431c-b227-5ead01219911",
+            "type": "Canvas",
+            "height": 1543,
+            "width": 1905,
+            "label": {
+                "en": [
+                    "Tresoar"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://example.org/canvas/a86d5786-6f44-431c-b227-5ead01219911/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/canvas/a86d5786-6f44-431c-b227-5ead01219911/painting",
+                            "type": "Annotation",
+                            "motivation": [
+                                "painting"
+                            ],
+                            "target": "https://example.org/canvas/a86d5786-6f44-431c-b227-5ead01219911",
+                            "body": [
+                                {
+                                    "id": "https://cdm21056.contentdm.oclc.org/iiif/2/trlkaarten22:1496",
+                                    "type": "Image",
+                                    "height": 1543,
+                                    "width": 1905,
+                                    "service": [
+                                        {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://cdm21056.contentdm.oclc.org/iiif/2/trlkaarten22:1496",
+                                            "protocol": "http://iiif.io/api/image",
+                                            "width": 1905,
+                                            "height": 1543,
+                                            "sizes": [
+                                                {
+                                                    "width": 119,
+                                                    "height": 96
+                                                },
+                                                {
+                                                    "width": 238,
+                                                    "height": 193
+                                                },
+                                                {
+                                                    "width": 476,
+                                                    "height": 386
+                                                },
+                                                {
+                                                    "width": 953,
+                                                    "height": 772
+                                                },
+                                                {
+                                                    "width": 1905,
+                                                    "height": 1543
+                                                }
+                                            ],
+                                            "tiles": [
+                                                {
+                                                    "width": 512,
+                                                    "height": 512,
+                                                    "scaleFactors": [
+                                                        1,
+                                                        2,
+                                                        4,
+                                                        8,
+                                                        16
+                                                    ]
+                                                }
+                                            ],
+                                            "profile": [
+                                                "http://iiif.io/api/image/2/level2.json",
+                                                {
+                                                    "formats": [
+                                                        "tif",
+                                                        "jpg",
+                                                        "gif",
+                                                        "png"
+                                                    ],
+                                                    "maxArea": 5878830,
+                                                    "qualities": [
+                                                        "bitonal",
+                                                        "default",
+                                                        "gray",
+                                                        "color"
+                                                    ],
+                                                    "supports": [
+                                                        "regionByPx",
+                                                        "sizeByW",
+                                                        "sizeByWhListed",
+                                                        "cors",
+                                                        "regionSquare",
+                                                        "sizeByDistortedWh",
+                                                        "sizeAboveFull",
+                                                        "canonicalLinkHeader",
+                                                        "sizeByConfinedWh",
+                                                        "sizeByPct",
+                                                        "jsonldMediaType",
+                                                        "regionByPct",
+                                                        "rotationArbitrary",
+                                                        "sizeByH",
+                                                        "baseUriRedirect",
+                                                        "rotationBy90s",
+                                                        "profileLinkHeader",
+                                                        "sizeByForcedWh",
+                                                        "sizeByWh",
+                                                        "mirroring"
+                                                    ]
+                                                }
+                                            ],
+                                            "type": "ImageService2"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://example.org/canvas/e3684bca-2d9c-4219-ac2e-533b44fbded2",
             "type": "Canvas",
             "height": 5664,
