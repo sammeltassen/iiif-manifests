@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/tijdschriften.json",
+    "@type": "sc:Collection",
+    "label": "River Maps",
+    "viewingHint": "top",
+    "description": "",
+    "attribution": "TU Delft Library",
+    "manifests": [
+      {
+        "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/th-mededelingen.json",
+        "@type": "sc:Collection",
+        "label": "TH Mededelingen"
+      },
+      {
+        "@id": "https://theberlage.github.io/river-maps/iiif/manifests/river-map-first-edition-series-2.json",
+        "@type": "sc:Manifest",
+        "label": "THD Nieuws"
+      },
+      {
+        "@id": "https://theberlage.github.io/river-maps/iiif/manifests/river-map-first-edition-series-3.json",
+        "@type": "sc:Manifest",
+        "label": "Delta"
+      },
+      {
+        "@id": "https://theberlage.github.io/river-maps/iiif/manifests/river-map-first-edition-series-4.json",
+        "@type": "sc:Manifest",
+        "label": "Owee"
+      },
+      {
+        "@id": "https://theberlage.github.io/river-maps/iiif/manifests/river-map-first-edition-series-5.json",
+        "@type": "sc:Manifest",
+        "label": "Delft Integraal"
+      },
+      {
+        "@id": "https://theberlage.github.io/river-maps/iiif/manifests/river-map-first-edition-series-6.json",
+        "@type": "sc:Manifest",
+        "label": "Delft Outlook"
+      }
+    ]
+  }
