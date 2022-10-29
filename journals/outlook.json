@@ -1,0 +1,18 @@
+{
+    "label": "Outlook",
+    "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/outlook.json",
+    "@type": "sc:Collection",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "manifests": [
+        {
+            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/outlook/1985",
+            "label": "Index",
+            "@type": "sc:Manifest"
+        },
+        {
+            "@id": "https://dlc.services/iiif-resource/7/string1string2string3/outlook/1986",
+            "label": "Volume 1",
+            "@type": "sc:Manifest"
+        }
+    ]
+}
