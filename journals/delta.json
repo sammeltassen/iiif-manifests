@@ -6,12 +6,12 @@
     "manifests": [
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/delta/1983",
-            "label": "Index",
+            "label": "1983",
             "@type": "sc:Manifest"
         },
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/delta/1984",
-            "label": "Volume 1",
+            "label": "1984",
             "@type": "sc:Manifest"
         }
     ]

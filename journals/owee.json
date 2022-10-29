@@ -6,12 +6,12 @@
     "manifests": [
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/owee/1998",
-            "label": "Index",
+            "label": "1998",
             "@type": "sc:Manifest"
         },
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/owee/1999",
-            "label": "Volume 1",
+            "label": "1999",
             "@type": "sc:Manifest"
         }
     ]

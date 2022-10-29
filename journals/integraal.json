@@ -6,12 +6,12 @@
     "manifests": [
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/integraal/1984",
-            "label": "Index",
+            "label": "1984",
             "@type": "sc:Manifest"
         },
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/integraal/1985",
-            "label": "Volume 1",
+            "label": "1985",
             "@type": "sc:Manifest"
         }
     ]

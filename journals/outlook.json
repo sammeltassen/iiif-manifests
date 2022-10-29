@@ -6,12 +6,12 @@
     "manifests": [
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/outlook/1985",
-            "label": "Index",
+            "label": "1985",
             "@type": "sc:Manifest"
         },
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/outlook/1986",
-            "label": "Volume 1",
+            "label": "1986",
             "@type": "sc:Manifest"
         }
     ]

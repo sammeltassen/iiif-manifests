@@ -6,12 +6,12 @@
     "manifests": [
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/thd-nieuws/1969",
-            "label": "Index",
+            "label": "1969",
             "@type": "sc:Manifest"
         },
         {
             "@id": "https://dlc.services/iiif-resource/7/string1string2string3/thd-nieuws/1970",
-            "label": "Volume 1",
+            "label": "1970",
             "@type": "sc:Manifest"
         }
     ]

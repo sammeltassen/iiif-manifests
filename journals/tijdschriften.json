@@ -8,34 +8,165 @@
     "attribution": "TU Delft Library",
     "manifests": [
       {
+        "label": "TH Mededelingen",
+        "metadata": [
+            {
+                "label": "Title",
+                "value": "T.H. Mededelingen. Jaargangen 1 t/m 6"
+            },
+            {
+                "label": "Author(s)",
+                "value": "Technische Hogeschool Delft"
+            },
+            {
+                "label": "Year",
+                "value": "1952-61"
+            },
+            {
+                "label": "OCLC Number",
+                "value": "<a href=\"https://tudelft.on.worldcat.org/oclc/72820760\" target=\"_blank\">72820760</a>"
+            }
+        ],
         "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/th-mededelingen.json",
         "@type": "sc:Collection",
-        "label": "TH Mededelingen"
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+            {
+                "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-00.json",
+                "label": "Index",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-01.json",
+                "label": "Volume 1",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-02.json",
+                "label": "Volume 2",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-03.json",
+                "label": "Volume 3",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-04.json",
+                "label": "Volume 4",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-05.json",
+                "label": "Volume 5",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-06.json",
+                "label": "Volume 6",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-07.json",
+                "label": "Volume 7",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/72820760-08.json",
+                "label": "Volume 8",
+                "@type": "sc:Manifest"
+            }
+        ]
       },
       {
+        "label": "THD Nieuws",
         "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/thd-nieuws.json",
         "@type": "sc:Collection",
-        "label": "THD Nieuws"
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+            {
+                "@id": "https://dlc.services/iiif-resource/7/string1string2string3/thd-nieuws/1969",
+                "label": "1969",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://dlc.services/iiif-resource/7/string1string2string3/thd-nieuws/1970",
+                "label": "1970",
+                "@type": "sc:Manifest"
+            }
+        ]
       },
       {
+        "label": "Delta",
         "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/delta.json",
         "@type": "sc:Collection",
-        "label": "Delta"
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+            {
+                "@id": "https://dlc.services/iiif-resource/7/string1string2string3/delta/1983",
+                "label": "1983",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://dlc.services/iiif-resource/7/string1string2string3/delta/1984",
+                "label": "1984",
+                "@type": "sc:Manifest"
+            }
+        ]
       },
       {
+        "label": "Owee",
         "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/owee.json",
         "@type": "sc:Collection",
-        "label": "Owee"
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+            {
+                "@id": "https://dlc.services/iiif-resource/7/string1string2string3/owee/1998",
+                "label": "1998",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://dlc.services/iiif-resource/7/string1string2string3/owee/1999",
+                "label": "1999",
+                "@type": "sc:Manifest"
+            }
+        ]
       },
       {
+        "label": "Integraal",
         "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/integraal.json",
         "@type": "sc:Collection",
-        "label": "Delft Integraal"
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+            {
+                "@id": "https://dlc.services/iiif-resource/7/string1string2string3/integraal/1984",
+                "label": "1984",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://dlc.services/iiif-resource/7/string1string2string3/integraal/1985",
+                "label": "1985",
+                "@type": "sc:Manifest"
+            }
+        ]
       },
       {
+        "label": "Outlook",
         "@id": "https://raw.githubusercontent.com/sammeltassen/iiif-manifests/master/journals/outlook.json",
         "@type": "sc:Collection",
-        "label": "Delft Outlook"
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "manifests": [
+            {
+                "@id": "https://dlc.services/iiif-resource/7/string1string2string3/outlook/1985",
+                "label": "1985",
+                "@type": "sc:Manifest"
+            },
+            {
+                "@id": "https://dlc.services/iiif-resource/7/string1string2string3/outlook/1986",
+                "label": "1986",
+                "@type": "sc:Manifest"
+            }
+        ]
       }
     ]
   }
