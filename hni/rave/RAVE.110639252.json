@@ -5,7 +5,7 @@
     "http://iiif.io/api/presentation/3/context.json"
   ],
   "type": "Manifest",
-  "label": "RAVE.110639252 Gebouwdossier Blijdorp",
+  "label": { "nl": [ "RAVE.110639252 Gebouwdossier Blijdorp" ] },
   "items": [
     {
       "id": "https://images.memorix.nl/nai/iiif/e309e038-7aff-ff29-a8fd-4e2f4656cf31/info.json",
