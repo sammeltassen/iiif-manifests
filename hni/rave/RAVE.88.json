@@ -1,0 +1,181 @@
+{
+    "id": "https://example.com/manifest",
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "type": "Manifest",
+    "label": { "nl": [ "RAVE.110639252 Gebouwdossier Blijdorp, RAVE.88" ] },
+    "items": [
+      {
+        "id": "https://images.memorix.nl/nai/iiif/d6ecfc2a-d02f-42c2-e8bd-b1ec5337a149/info.json",
+        "type": "Canvas",
+        "width": 10893,
+        "height": 13137,
+        "items": [
+          {
+            "id": "https://example.com/manifest/annotation-page/0",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/d6ecfc2a-d02f-42c2-e8bd-b1ec5337a149/full/full/0/default.jpg",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://images.memorix.nl/nai/iiif/d6ecfc2a-d02f-42c2-e8bd-b1ec5337a149/info.json",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/d6ecfc2a-d02f-42c2-e8bd-b1ec5337a149/full/full/0/default.jpg",
+                  "type": "Image",
+                  "width": 10893,
+                  "height": 13137,
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "@id": "https://images.memorix.nl/nai/iiif/d6ecfc2a-d02f-42c2-e8bd-b1ec5337a149",
+                      "@type": "ImageService2",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://images.memorix.nl/nai/iiif/ea7e61a3-52f0-5979-c2fd-d9641de93556/info.json",
+        "type": "Canvas",
+        "width": 15672,
+        "height": 8295,
+        "items": [
+          {
+            "id": "https://example.com/manifest/annotation-page/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/ea7e61a3-52f0-5979-c2fd-d9641de93556/full/full/0/default.jpg",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://images.memorix.nl/nai/iiif/ea7e61a3-52f0-5979-c2fd-d9641de93556/info.json",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/ea7e61a3-52f0-5979-c2fd-d9641de93556/full/full/0/default.jpg",
+                  "type": "Image",
+                  "width": 15672,
+                  "height": 8295,
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "@id": "https://images.memorix.nl/nai/iiif/ea7e61a3-52f0-5979-c2fd-d9641de93556",
+                      "@type": "ImageService2",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://images.memorix.nl/nai/iiif/84d5b7f5-d471-d0cd-032d-c88e6d64b7b2/info.json",
+        "type": "Canvas",
+        "width": 14664,
+        "height": 5593,
+        "items": [
+          {
+            "id": "https://example.com/manifest/annotation-page/2",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/84d5b7f5-d471-d0cd-032d-c88e6d64b7b2/full/full/0/default.jpg",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://images.memorix.nl/nai/iiif/84d5b7f5-d471-d0cd-032d-c88e6d64b7b2/info.json",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/84d5b7f5-d471-d0cd-032d-c88e6d64b7b2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "width": 14664,
+                  "height": 5593,
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "@id": "https://images.memorix.nl/nai/iiif/84d5b7f5-d471-d0cd-032d-c88e6d64b7b2",
+                      "@type": "ImageService2",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://images.memorix.nl/nai/iiif/65884918-a62f-3c25-78de-a875176cb50d/info.json",
+        "type": "Canvas",
+        "width": 13470,
+        "height": 5524,
+        "items": [
+          {
+            "id": "https://example.com/manifest/annotation-page/3",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/65884918-a62f-3c25-78de-a875176cb50d/full/full/0/default.jpg",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://images.memorix.nl/nai/iiif/65884918-a62f-3c25-78de-a875176cb50d/info.json",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/65884918-a62f-3c25-78de-a875176cb50d/full/full/0/default.jpg",
+                  "type": "Image",
+                  "width": 13470,
+                  "height": 5524,
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "@id": "https://images.memorix.nl/nai/iiif/65884918-a62f-3c25-78de-a875176cb50d",
+                      "@type": "ImageService2",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://images.memorix.nl/nai/iiif/64b2b720-ccb5-6ff6-fe25-63b959f19d93/info.json",
+        "type": "Canvas",
+        "width": 15330,
+        "height": 5536,
+        "items": [
+          {
+            "id": "https://example.com/manifest/annotation-page/4",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/64b2b720-ccb5-6ff6-fe25-63b959f19d93/full/full/0/default.jpg",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://images.memorix.nl/nai/iiif/64b2b720-ccb5-6ff6-fe25-63b959f19d93/info.json",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/64b2b720-ccb5-6ff6-fe25-63b959f19d93/full/full/0/default.jpg",
+                  "type": "Image",
+                  "width": 15330,
+                  "height": 5536,
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "@id": "https://images.memorix.nl/nai/iiif/64b2b720-ccb5-6ff6-fe25-63b959f19d93",
+                      "@type": "ImageService2",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
