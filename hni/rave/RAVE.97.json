@@ -1,5 +1,5 @@
 {
-    "id": "https://example.com/manifest",
+    "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.97.json",
     "@context": [
       "http://www.w3.org/ns/anno.jsonld",
       "http://iiif.io/api/presentation/3/context.json"
