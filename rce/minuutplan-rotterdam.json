@@ -1,1816 +1,763 @@
 {
+  "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-rotterdam.json",
   "@context": [
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
   "type": "Manifest",
   "label": {
-    "en": [
-      "Minuutplan Rotterdam"
-    ]
-  },
+      "en": [
+        "Minuutplan Rotterdam"
+      ]
+    },
   "items": [
     {
-      "label": {
-        "en": [
-          "Verzamelplan Rotterdam (MIN08176VK1)"
-        ]
-      },
-      "height": 7844,
+      "id": "https://images.memorix.nl/rce/iiif/18995fd8-5a34-ee7a-31d6-c1bb0b610186/info.json",
+      "type": "Canvas",
       "width": 11816,
-      "type": "Canvas",
+      "height": 7844,
       "items": [
         {
+          "id": "https://example.com/manifest/annotation-page/0",
           "type": "AnnotationPage",
           "items": [
             {
+              "id": "https://images.memorix.nl/rce/iiif/18995fd8-5a34-ee7a-31d6-c1bb0b610186/full/full/0/default.jpg",
               "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/18995fd8-5a34-ee7a-31d6-c1bb0b610186/info.json",
               "body": {
-                "type": "Image",
                 "id": "https://images.memorix.nl/rce/iiif/18995fd8-5a34-ee7a-31d6-c1bb0b610186/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/18995fd8-5a34-ee7a-31d6-c1bb0b610186",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11816,
-                  "height": 7844,
-                  "sizes": [
-                    {
-                      "width": 184,
-                      "height": 122
-                    },
-                    {
-                      "width": 369,
-                      "height": 245
-                    },
-                    {
-                      "width": 738,
-                      "height": 490
-                    },
-                    {
-                      "width": 1477,
-                      "height": 980
-                    },
-                    {
-                      "width": 2954,
-                      "height": 1961
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/63c2397d-9a81-60c2-c5e6-4b888ecbeab6#xywh=0,0,11816,7844",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/b508a610-e7d9-1e7d-8ead-471d82a62625",
-              "motivation": "painting"
+                "type": "Image",
+                "width": 11816,
+                "height": 7844,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/18995fd8-5a34-ee7a-31d6-c1bb0b610186",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
             }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/785e6637-33b4-924e-f73a-8c5251811e9a"
+          ]
         }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/63c2397d-9a81-60c2-c5e6-4b888ecbeab6"
+      ]
     },
     {
-      "label": {
-        "en": [
-          "sectie A, blad 01 (MIN08176A01)"
-        ]
-      },
-      "height": 7700,
+      "id": "https://images.memorix.nl/rce/iiif/8f85022c-1610-8f5d-d30a-b32db3e6bfc2/info.json",
+      "type": "Canvas",
       "width": 11904,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/8f85022c-1610-8f5d-d30a-b32db3e6bfc2/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/8f85022c-1610-8f5d-d30a-b32db3e6bfc2",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11904,
-                  "height": 7700,
-                  "sizes": [
-                    {
-                      "width": 186,
-                      "height": 120
-                    },
-                    {
-                      "width": 372,
-                      "height": 240
-                    },
-                    {
-                      "width": 744,
-                      "height": 481
-                    },
-                    {
-                      "width": 1488,
-                      "height": 962
-                    },
-                    {
-                      "width": 2976,
-                      "height": 1925
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/60639cdd-63a5-901a-d422-e0e230ca4847#xywh=0,0,11904,7700",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/db94f80a-3abd-ba2f-a1aa-7c06605132de",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/becfe6ad-6614-c7c1-f5de-0170ab660e3d"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/60639cdd-63a5-901a-d422-e0e230ca4847"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie A, blad 02 (MIN08176A02)"
-        ]
-      },
-      "height": 7632,
-      "width": 11620,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/26a53286-0468-4553-870f-a74801df097a/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/26a53286-0468-4553-870f-a74801df097a",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11620,
-                  "height": 7632,
-                  "sizes": [
-                    {
-                      "width": 181,
-                      "height": 119
-                    },
-                    {
-                      "width": 363,
-                      "height": 238
-                    },
-                    {
-                      "width": 726,
-                      "height": 477
-                    },
-                    {
-                      "width": 1452,
-                      "height": 954
-                    },
-                    {
-                      "width": 2905,
-                      "height": 1908
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/83366e7b-00d0-1890-819f-3e86d1efb4de#xywh=0,0,11620,7632",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/2327ca38-55c2-f473-e4fb-e32aaded067a",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/4a4d5763-9b2a-cd71-8260-c54980bbe9d9"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/83366e7b-00d0-1890-819f-3e86d1efb4de"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie A, blad 03 (MIN08176A03)"
-        ]
-      },
-      "height": 7688,
-      "width": 11948,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/b0e9df99-a2ff-b595-3976-c3e733a6e679/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/b0e9df99-a2ff-b595-3976-c3e733a6e679",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11948,
-                  "height": 7688,
-                  "sizes": [
-                    {
-                      "width": 186,
-                      "height": 120
-                    },
-                    {
-                      "width": 373,
-                      "height": 240
-                    },
-                    {
-                      "width": 746,
-                      "height": 480
-                    },
-                    {
-                      "width": 1493,
-                      "height": 961
-                    },
-                    {
-                      "width": 2987,
-                      "height": 1922
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/276cbe0a-510e-320d-76c1-b3e340d7418e#xywh=0,0,11948,7688",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/3a3c4987-1a0d-f153-aa0c-238dfc1cc77e",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/46051a8b-6d55-38dc-65ad-80e0c59768da"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/276cbe0a-510e-320d-76c1-b3e340d7418e"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie B, blad 01 (MIN08176B01)"
-        ]
-      },
-      "height": 7652,
-      "width": 11784,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/3b565cba-244a-d885-3535-3159b4a44f1e/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/3b565cba-244a-d885-3535-3159b4a44f1e",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11784,
-                  "height": 7652,
-                  "sizes": [
-                    {
-                      "width": 184,
-                      "height": 119
-                    },
-                    {
-                      "width": 368,
-                      "height": 239
-                    },
-                    {
-                      "width": 736,
-                      "height": 478
-                    },
-                    {
-                      "width": 1473,
-                      "height": 956
-                    },
-                    {
-                      "width": 2946,
-                      "height": 1913
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/18bff3d9-b3a6-c1a0-ead1-7d91d277239c#xywh=0,0,11784,7652",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/a850d060-af6e-599c-74e8-8c16f60f3a0b",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/1ff184b7-fca3-220b-cc4a-8387ee1925e5"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/18bff3d9-b3a6-c1a0-ead1-7d91d277239c"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie B, blad 02 (MIN08176B02)"
-        ]
-      },
-      "height": 7564,
-      "width": 11764,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/d4081351-dc41-91e7-018d-1bce6b15395c/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/d4081351-dc41-91e7-018d-1bce6b15395c",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11764,
-                  "height": 7564,
-                  "sizes": [
-                    {
-                      "width": 183,
-                      "height": 118
-                    },
-                    {
-                      "width": 367,
-                      "height": 236
-                    },
-                    {
-                      "width": 735,
-                      "height": 472
-                    },
-                    {
-                      "width": 1470,
-                      "height": 945
-                    },
-                    {
-                      "width": 2941,
-                      "height": 1891
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/0d471be1-7ba9-ba4a-4435-a04bfb49486a#xywh=0,0,11764,7564",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/6dadbf90-face-5a65-5961-7f97d013c94d",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/8cb1e5bc-921d-1726-8dd5-8a0cc776c3fe"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/0d471be1-7ba9-ba4a-4435-a04bfb49486a"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie B, blad 03 (MIN08176B03)"
-        ]
-      },
-      "height": 7724,
-      "width": 11580,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/ef0141c6-a888-e7c7-aec6-d541d1d8cd89/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/ef0141c6-a888-e7c7-aec6-d541d1d8cd89",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11580,
-                  "height": 7724,
-                  "sizes": [
-                    {
-                      "width": 180,
-                      "height": 120
-                    },
-                    {
-                      "width": 361,
-                      "height": 241
-                    },
-                    {
-                      "width": 723,
-                      "height": 482
-                    },
-                    {
-                      "width": 1447,
-                      "height": 965
-                    },
-                    {
-                      "width": 2895,
-                      "height": 1931
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/8ad9eed7-a1be-4449-8760-6bd71d05a89d#xywh=0,0,11580,7724",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/800713f6-afeb-2b45-20a1-48daa3b4fd99",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/e09d39b1-816d-7a0f-8fcd-0dbfbcdf3db1"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/8ad9eed7-a1be-4449-8760-6bd71d05a89d"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie C, blad 01 (MIN08176C01)"
-        ]
-      },
-      "height": 7662,
-      "width": 11772,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/051d807d-5926-74b6-2397-e4c82a4d59e9/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/051d807d-5926-74b6-2397-e4c82a4d59e9",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11772,
-                  "height": 7662,
-                  "sizes": [
-                    {
-                      "width": 183,
-                      "height": 119
-                    },
-                    {
-                      "width": 367,
-                      "height": 239
-                    },
-                    {
-                      "width": 735,
-                      "height": 478
-                    },
-                    {
-                      "width": 1471,
-                      "height": 957
-                    },
-                    {
-                      "width": 2943,
-                      "height": 1915
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/cf35c9bb-770d-1eb4-da00-a916f24654d9#xywh=0,0,11772,7662",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/e17155b9-ac78-7f6b-45d2-885a0c46b48c",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/9a3ba52d-ebc4-73d8-e4b3-35beb94dd7b7"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/cf35c9bb-770d-1eb4-da00-a916f24654d9"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie C, blad 02 (MIN08176C02)"
-        ]
-      },
-      "height": 7664,
-      "width": 11704,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/9e2ef0d9-d1db-cf34-d509-1024bfb322e1/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/9e2ef0d9-d1db-cf34-d509-1024bfb322e1",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11704,
-                  "height": 7664,
-                  "sizes": [
-                    {
-                      "width": 182,
-                      "height": 119
-                    },
-                    {
-                      "width": 365,
-                      "height": 239
-                    },
-                    {
-                      "width": 731,
-                      "height": 479
-                    },
-                    {
-                      "width": 1463,
-                      "height": 958
-                    },
-                    {
-                      "width": 2926,
-                      "height": 1916
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/f4df9cf6-cb75-edb7-b3bc-fe4c59069c38#xywh=0,0,11704,7664",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/b0cf820a-cf55-5c66-1b1d-51727f44a4d9",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/1be2b2b9-9f0d-19f8-e51c-b434ac69a8aa"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/f4df9cf6-cb75-edb7-b3bc-fe4c59069c38"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie D, blad 01 (MIN08176D01)"
-        ]
-      },
-      "height": 7670,
-      "width": 11608,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/d5db8643-7dc2-0edf-d44f-1c2e55e4b4f5/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/d5db8643-7dc2-0edf-d44f-1c2e55e4b4f5",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11608,
-                  "height": 7670,
-                  "sizes": [
-                    {
-                      "width": 181,
-                      "height": 119
-                    },
-                    {
-                      "width": 362,
-                      "height": 239
-                    },
-                    {
-                      "width": 725,
-                      "height": 479
-                    },
-                    {
-                      "width": 1451,
-                      "height": 958
-                    },
-                    {
-                      "width": 2902,
-                      "height": 1917
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/8a9afa75-6942-e5ac-3732-32c3050d08bc#xywh=0,0,11608,7670",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/aa3e0352-f4bf-a890-99f7-ec939c89b6ff",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/a68e6582-c5e4-b934-3208-1869dc112a6d"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/8a9afa75-6942-e5ac-3732-32c3050d08bc"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie D, blad 02 (MIN08176D02)"
-        ]
-      },
-      "height": 7598,
-      "width": 11760,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/39b66c6d-7a1b-d100-84b7-9aecbbd3cd9e/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/39b66c6d-7a1b-d100-84b7-9aecbbd3cd9e",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11760,
-                  "height": 7598,
-                  "sizes": [
-                    {
-                      "width": 183,
-                      "height": 118
-                    },
-                    {
-                      "width": 367,
-                      "height": 237
-                    },
-                    {
-                      "width": 735,
-                      "height": 474
-                    },
-                    {
-                      "width": 1470,
-                      "height": 949
-                    },
-                    {
-                      "width": 2940,
-                      "height": 1899
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/8f253c5b-3c6b-c024-271d-3145306dfd7f#xywh=0,0,11760,7598",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/5eeba9b5-c3b2-0820-e656-a4add9f9db42",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/a9f2b928-8dd9-f846-d53b-edc6b167a3b2"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/8f253c5b-3c6b-c024-271d-3145306dfd7f"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie E, blad 01 (MIN08176E01)"
-        ]
-      },
-      "height": 7634,
-      "width": 11764,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/d186b633-b424-8729-341d-6ae308c9e202/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/d186b633-b424-8729-341d-6ae308c9e202",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11764,
-                  "height": 7634,
-                  "sizes": [
-                    {
-                      "width": 183,
-                      "height": 119
-                    },
-                    {
-                      "width": 367,
-                      "height": 238
-                    },
-                    {
-                      "width": 735,
-                      "height": 477
-                    },
-                    {
-                      "width": 1470,
-                      "height": 954
-                    },
-                    {
-                      "width": 2941,
-                      "height": 1908
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/c7442d39-fbce-5dc8-7c89-da7b9a0afafd#xywh=0,0,11764,7634",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/a3f50bca-0558-38fc-ffcf-5f411238f4c9",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/1a5bf5c8-e87c-91b5-cf4b-c6ff33fc3281"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/c7442d39-fbce-5dc8-7c89-da7b9a0afafd"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie E, blad 02 (MIN08176E02)"
-        ]
-      },
-      "height": 7604,
-      "width": 11660,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/7381e07d-857a-0609-e6ff-f889e374991a/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/7381e07d-857a-0609-e6ff-f889e374991a",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11660,
-                  "height": 7604,
-                  "sizes": [
-                    {
-                      "width": 182,
-                      "height": 118
-                    },
-                    {
-                      "width": 364,
-                      "height": 237
-                    },
-                    {
-                      "width": 728,
-                      "height": 475
-                    },
-                    {
-                      "width": 1457,
-                      "height": 950
-                    },
-                    {
-                      "width": 2915,
-                      "height": 1901
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/02a3ad3a-2201-0551-40c5-f293e82b9f3d#xywh=0,0,11660,7604",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/6406edcf-c55d-c064-4226-7d365cac075e",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/250adb92-4425-9411-8b36-efd8ee49c397"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/02a3ad3a-2201-0551-40c5-f293e82b9f3d"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie F, blad 01 (MIN08176F01)"
-        ]
-      },
-      "height": 7680,
-      "width": 11972,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/1cf50090-348e-24ef-bcfd-59a93ae7ffd6/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/1cf50090-348e-24ef-bcfd-59a93ae7ffd6",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11972,
-                  "height": 7680,
-                  "sizes": [
-                    {
-                      "width": 187,
-                      "height": 120
-                    },
-                    {
-                      "width": 374,
-                      "height": 240
-                    },
-                    {
-                      "width": 748,
-                      "height": 480
-                    },
-                    {
-                      "width": 1496,
-                      "height": 960
-                    },
-                    {
-                      "width": 2993,
-                      "height": 1920
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/7f89083e-ef42-a12c-a600-c4b71a2965b1#xywh=0,0,11972,7680",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/764fc694-82c8-2c03-86a6-6676c0375791",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/14081c6f-3464-4c86-e0fe-ad685612b288"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/7f89083e-ef42-a12c-a600-c4b71a2965b1"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie G, blad 01 (MIN08176G01)"
-        ]
-      },
-      "height": 7470,
-      "width": 11518,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/5b5120d5-fa1b-fc1d-ae3d-06dfac6a69ff/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/5b5120d5-fa1b-fc1d-ae3d-06dfac6a69ff",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11518,
-                  "height": 7470,
-                  "sizes": [
-                    {
-                      "width": 179,
-                      "height": 116
-                    },
-                    {
-                      "width": 359,
-                      "height": 233
-                    },
-                    {
-                      "width": 719,
-                      "height": 466
-                    },
-                    {
-                      "width": 1439,
-                      "height": 933
-                    },
-                    {
-                      "width": 2879,
-                      "height": 1867
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/d39d1efe-67a5-7925-c2df-897aac34f1e8#xywh=0,0,11518,7470",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/883b4d0c-2f31-c075-1978-555fa34d1b8f",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/594ec14b-f126-3422-866e-6983f49834b0"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/d39d1efe-67a5-7925-c2df-897aac34f1e8"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie G, blad 02 (MIN08176G02)"
-        ]
-      },
-      "height": 7660,
-      "width": 11930,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/65786d35-65cb-1413-dec1-39e808220ca4/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/65786d35-65cb-1413-dec1-39e808220ca4",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11930,
-                  "height": 7660,
-                  "sizes": [
-                    {
-                      "width": 186,
-                      "height": 119
-                    },
-                    {
-                      "width": 372,
-                      "height": 239
-                    },
-                    {
-                      "width": 745,
-                      "height": 478
-                    },
-                    {
-                      "width": 1491,
-                      "height": 957
-                    },
-                    {
-                      "width": 2982,
-                      "height": 1915
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/b3b8df3a-f514-4c8f-0897-d9fd0fbef056#xywh=0,0,11930,7660",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/bbf0e06d-f8b8-5843-bbfe-3fba0cadec92",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/28c3b20b-45bd-384a-8c6c-6d64d06460ba"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/b3b8df3a-f514-4c8f-0897-d9fd0fbef056"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie H, blad 01 (MIN08176H01)"
-        ]
-      },
-      "height": 7628,
-      "width": 11550,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/7062dda1-cdad-9892-370f-32c41ef87978/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/7062dda1-cdad-9892-370f-32c41ef87978",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11550,
-                  "height": 7628,
-                  "sizes": [
-                    {
-                      "width": 180,
-                      "height": 119
-                    },
-                    {
-                      "width": 360,
-                      "height": 238
-                    },
-                    {
-                      "width": 721,
-                      "height": 476
-                    },
-                    {
-                      "width": 1443,
-                      "height": 953
-                    },
-                    {
-                      "width": 2887,
-                      "height": 1907
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/1f710a59-d100-8f36-905d-6241db6a7a1d#xywh=0,0,11550,7628",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/a1909b4c-96fa-d4bf-2dc7-058eef73bd48",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/2f9383e6-c6a2-b4ba-5ac7-53449eefd455"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/1f710a59-d100-8f36-905d-6241db6a7a1d"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie I, blad 01 (MIN08176I01)"
-        ]
-      },
-      "height": 7680,
-      "width": 11876,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/d8442f86-b8a8-78e2-5188-edd92577a613/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/d8442f86-b8a8-78e2-5188-edd92577a613",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11876,
-                  "height": 7680,
-                  "sizes": [
-                    {
-                      "width": 185,
-                      "height": 120
-                    },
-                    {
-                      "width": 371,
-                      "height": 240
-                    },
-                    {
-                      "width": 742,
-                      "height": 480
-                    },
-                    {
-                      "width": 1484,
-                      "height": 960
-                    },
-                    {
-                      "width": 2969,
-                      "height": 1920
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/676df686-547f-8514-07f3-f8d55e278ea2#xywh=0,0,11876,7680",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/31f2f2ca-a49d-4a37-e1fb-d57aae2afc9a",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/da1f3351-507a-2050-fd44-6e9a1c5562da"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/676df686-547f-8514-07f3-f8d55e278ea2"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie K, blad 01 (MIN08176K01)"
-        ]
-      },
-      "height": 7524,
-      "width": 11724,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/aebe9dff-810c-e6ef-5f4c-9b18fb41e56b/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/aebe9dff-810c-e6ef-5f4c-9b18fb41e56b",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11724,
-                  "height": 7524,
-                  "sizes": [
-                    {
-                      "width": 183,
-                      "height": 117
-                    },
-                    {
-                      "width": 366,
-                      "height": 235
-                    },
-                    {
-                      "width": 732,
-                      "height": 470
-                    },
-                    {
-                      "width": 1465,
-                      "height": 940
-                    },
-                    {
-                      "width": 2931,
-                      "height": 1881
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/d0f206b8-eb29-8c2e-d833-07ee35808b22#xywh=0,0,11724,7524",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/8ec1c200-af8e-e2b6-05cf-a469db6f39e1",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/225ffe42-58ea-403d-a346-8dbd7b988624"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/d0f206b8-eb29-8c2e-d833-07ee35808b22"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie L, blad 01 (MIN08176L01)"
-        ]
-      },
-      "height": 7676,
-      "width": 11906,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/f921b865-b657-ef90-5f03-f6ab6542b913/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/f921b865-b657-ef90-5f03-f6ab6542b913",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11906,
-                  "height": 7676,
-                  "sizes": [
-                    {
-                      "width": 186,
-                      "height": 119
-                    },
-                    {
-                      "width": 372,
-                      "height": 239
-                    },
-                    {
-                      "width": 744,
-                      "height": 479
-                    },
-                    {
-                      "width": 1488,
-                      "height": 959
-                    },
-                    {
-                      "width": 2976,
-                      "height": 1919
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/559955cd-7056-49f5-5635-04fb4d2ec22d#xywh=0,0,11906,7676",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/9ed8b343-9825-607f-5995-54a8308e8ad1",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/1abf242d-1150-451d-83b6-036e0102b184"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/559955cd-7056-49f5-5635-04fb4d2ec22d"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie M, blad 01 (MIN08176M01)"
-        ]
-      },
-      "height": 7684,
-      "width": 11716,
-      "type": "Canvas",
-      "items": [
-        {
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "type": "Annotation",
-              "body": {
-                "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/c66c5c7a-75b1-53fe-12a1-d40a6f53537a/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/c66c5c7a-75b1-53fe-12a1-d40a6f53537a",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11716,
-                  "height": 7684,
-                  "sizes": [
-                    {
-                      "width": 183,
-                      "height": 120
-                    },
-                    {
-                      "width": 366,
-                      "height": 240
-                    },
-                    {
-                      "width": 732,
-                      "height": 480
-                    },
-                    {
-                      "width": 1464,
-                      "height": 960
-                    },
-                    {
-                      "width": 2929,
-                      "height": 1921
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/32f5eb6b-4a35-c007-a2ab-ebcb73529f22#xywh=0,0,11716,7684",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/88519fe2-6a34-aa0f-2e1e-c8672081c4b9",
-              "motivation": "painting"
-            }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/ea07bc58-b5d4-23ee-895c-2c4318ab64c5"
-        }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/32f5eb6b-4a35-c007-a2ab-ebcb73529f22"
-    },
-    {
-      "label": {
-        "en": [
-          "sectie O, blad 01 (MIN08176O01)"
-        ]
-      },
       "height": 7700,
-      "width": 11718,
-      "type": "Canvas",
       "items": [
         {
+          "id": "https://example.com/manifest/annotation-page/1",
           "type": "AnnotationPage",
           "items": [
             {
+              "id": "https://images.memorix.nl/rce/iiif/8f85022c-1610-8f5d-d30a-b32db3e6bfc2/full/full/0/default.jpg",
               "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/8f85022c-1610-8f5d-d30a-b32db3e6bfc2/info.json",
               "body": {
+                "id": "https://images.memorix.nl/rce/iiif/8f85022c-1610-8f5d-d30a-b32db3e6bfc2/full/full/0/default.jpg",
                 "type": "Image",
-                "id": "https://images.memorix.nl/rce/iiif/ab39ebde-54e4-0b0b-72b6-a477eacfa2b4/full/full/0/default.jpg",
-                "width": 200,
-                "height": 300,
-                "service": {
-                  "id": "https://images.memorix.nl/rce/iiif/ab39ebde-54e4-0b0b-72b6-a477eacfa2b4",
-                  "type": "ImageService2",
-                  "profile": [
-                    "http://iiif.io/api/image/2/level1.json",
-                    {
-                      "formats": [
-                        "jpg"
-                      ],
-                      "qualities": [
-                        "native",
-                        "color",
-                        "gray"
-                      ],
-                      "supports": [
-                        "regionByPct",
-                        "regionSquare",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "sizeAboveFull",
-                        "rotationBy90s",
-                        "mirroring"
-                      ]
-                    }
-                  ],
-                  "width": 11718,
-                  "height": 7700,
-                  "sizes": [
-                    {
-                      "width": 183,
-                      "height": 120
-                    },
-                    {
-                      "width": 366,
-                      "height": 240
-                    },
-                    {
-                      "width": 732,
-                      "height": 481
-                    },
-                    {
-                      "width": 1464,
-                      "height": 962
-                    },
-                    {
-                      "width": 2929,
-                      "height": 1925
-                    }
-                  ]
-                }
-              },
-              "target": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/1ed7190b-5d7d-9bb2-0faa-f5782d476c1a#xywh=0,0,11718,7700",
-              "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/annotation/17ea5b0d-30fc-5f4c-21f5-65efb4d02342",
-              "motivation": "painting"
+                "width": 11904,
+                "height": 7700,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/8f85022c-1610-8f5d-d30a-b32db3e6bfc2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
             }
-          ],
-          "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/list/10b02d55-346f-e83d-867b-9ea65272a34c"
+          ]
         }
-      ],
-      "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/canvas/1ed7190b-5d7d-9bb2-0faa-f5782d476c1a"
-    }
-  ],
-  "id": "https://heritage.tudelft.nl/iiif/4c74c31e-5617-b0de-81e2-5d46d59cff41/manifest",
-  "summary": {
-    "en": [
-      "Kadastrale kaart 1811-1832: minuutplan Rotterdam, Zuid Holland"
-    ]
-  },
-  "metadata": [
+      ]
+    },
     {
-      "label": {
-        "en": [
-          "Bron"
-        ]
-      },
-      "value": {
-        "en": [
-          "<a href=\"https://beeldbank.cultureelerfgoed.nl/rce-mediabank/?q=min08176*\" rel=\"noopener noreferrer\" target=\"_blank\">Rijksdienst voor het Cultureel Erfgoed</a>"
-        ]
-      }
+      "id": "https://images.memorix.nl/rce/iiif/26a53286-0468-4553-870f-a74801df097a/info.json",
+      "type": "Canvas",
+      "width": 11620,
+      "height": 7632,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/26a53286-0468-4553-870f-a74801df097a/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/26a53286-0468-4553-870f-a74801df097a/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/26a53286-0468-4553-870f-a74801df097a/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11620,
+                "height": 7632,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/26a53286-0468-4553-870f-a74801df097a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/b0e9df99-a2ff-b595-3976-c3e733a6e679/info.json",
+      "type": "Canvas",
+      "width": 11948,
+      "height": 7688,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/b0e9df99-a2ff-b595-3976-c3e733a6e679/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/b0e9df99-a2ff-b595-3976-c3e733a6e679/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/b0e9df99-a2ff-b595-3976-c3e733a6e679/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11948,
+                "height": 7688,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/b0e9df99-a2ff-b595-3976-c3e733a6e679",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/3b565cba-244a-d885-3535-3159b4a44f1e/info.json",
+      "type": "Canvas",
+      "width": 11784,
+      "height": 7652,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/3b565cba-244a-d885-3535-3159b4a44f1e/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/3b565cba-244a-d885-3535-3159b4a44f1e/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/3b565cba-244a-d885-3535-3159b4a44f1e/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11784,
+                "height": 7652,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/3b565cba-244a-d885-3535-3159b4a44f1e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/d4081351-dc41-91e7-018d-1bce6b15395c/info.json",
+      "type": "Canvas",
+      "width": 11764,
+      "height": 7564,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/d4081351-dc41-91e7-018d-1bce6b15395c/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/d4081351-dc41-91e7-018d-1bce6b15395c/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/d4081351-dc41-91e7-018d-1bce6b15395c/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11764,
+                "height": 7564,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/d4081351-dc41-91e7-018d-1bce6b15395c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/ef0141c6-a888-e7c7-aec6-d541d1d8cd89/info.json",
+      "type": "Canvas",
+      "width": 11580,
+      "height": 7724,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/ef0141c6-a888-e7c7-aec6-d541d1d8cd89/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/ef0141c6-a888-e7c7-aec6-d541d1d8cd89/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/ef0141c6-a888-e7c7-aec6-d541d1d8cd89/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11580,
+                "height": 7724,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/ef0141c6-a888-e7c7-aec6-d541d1d8cd89",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/051d807d-5926-74b6-2397-e4c82a4d59e9/info.json",
+      "type": "Canvas",
+      "width": 11772,
+      "height": 7662,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/051d807d-5926-74b6-2397-e4c82a4d59e9/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/051d807d-5926-74b6-2397-e4c82a4d59e9/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/051d807d-5926-74b6-2397-e4c82a4d59e9/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11772,
+                "height": 7662,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/051d807d-5926-74b6-2397-e4c82a4d59e9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/9e2ef0d9-d1db-cf34-d509-1024bfb322e1/info.json",
+      "type": "Canvas",
+      "width": 11704,
+      "height": 7664,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/9e2ef0d9-d1db-cf34-d509-1024bfb322e1/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/9e2ef0d9-d1db-cf34-d509-1024bfb322e1/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/9e2ef0d9-d1db-cf34-d509-1024bfb322e1/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11704,
+                "height": 7664,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/9e2ef0d9-d1db-cf34-d509-1024bfb322e1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/d5db8643-7dc2-0edf-d44f-1c2e55e4b4f5/info.json",
+      "type": "Canvas",
+      "width": 11608,
+      "height": 7670,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/d5db8643-7dc2-0edf-d44f-1c2e55e4b4f5/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/d5db8643-7dc2-0edf-d44f-1c2e55e4b4f5/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/d5db8643-7dc2-0edf-d44f-1c2e55e4b4f5/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11608,
+                "height": 7670,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/d5db8643-7dc2-0edf-d44f-1c2e55e4b4f5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/39b66c6d-7a1b-d100-84b7-9aecbbd3cd9e/info.json",
+      "type": "Canvas",
+      "width": 11760,
+      "height": 7598,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/10",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/39b66c6d-7a1b-d100-84b7-9aecbbd3cd9e/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/39b66c6d-7a1b-d100-84b7-9aecbbd3cd9e/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/39b66c6d-7a1b-d100-84b7-9aecbbd3cd9e/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11760,
+                "height": 7598,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/39b66c6d-7a1b-d100-84b7-9aecbbd3cd9e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/d186b633-b424-8729-341d-6ae308c9e202/info.json",
+      "type": "Canvas",
+      "width": 11764,
+      "height": 7634,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/11",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/d186b633-b424-8729-341d-6ae308c9e202/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/d186b633-b424-8729-341d-6ae308c9e202/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/d186b633-b424-8729-341d-6ae308c9e202/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11764,
+                "height": 7634,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/d186b633-b424-8729-341d-6ae308c9e202",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/7381e07d-857a-0609-e6ff-f889e374991a/info.json",
+      "type": "Canvas",
+      "width": 11660,
+      "height": 7604,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/12",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/7381e07d-857a-0609-e6ff-f889e374991a/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/7381e07d-857a-0609-e6ff-f889e374991a/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/7381e07d-857a-0609-e6ff-f889e374991a/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11660,
+                "height": 7604,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/7381e07d-857a-0609-e6ff-f889e374991a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/1cf50090-348e-24ef-bcfd-59a93ae7ffd6/info.json",
+      "type": "Canvas",
+      "width": 11972,
+      "height": 7680,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/13",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/1cf50090-348e-24ef-bcfd-59a93ae7ffd6/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/1cf50090-348e-24ef-bcfd-59a93ae7ffd6/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/1cf50090-348e-24ef-bcfd-59a93ae7ffd6/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11972,
+                "height": 7680,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/1cf50090-348e-24ef-bcfd-59a93ae7ffd6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/5b5120d5-fa1b-fc1d-ae3d-06dfac6a69ff/info.json",
+      "type": "Canvas",
+      "width": 11518,
+      "height": 7470,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/14",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/5b5120d5-fa1b-fc1d-ae3d-06dfac6a69ff/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/5b5120d5-fa1b-fc1d-ae3d-06dfac6a69ff/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/5b5120d5-fa1b-fc1d-ae3d-06dfac6a69ff/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11518,
+                "height": 7470,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/5b5120d5-fa1b-fc1d-ae3d-06dfac6a69ff",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/65786d35-65cb-1413-dec1-39e808220ca4/info.json",
+      "type": "Canvas",
+      "width": 11930,
+      "height": 7660,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/15",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/65786d35-65cb-1413-dec1-39e808220ca4/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/65786d35-65cb-1413-dec1-39e808220ca4/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/65786d35-65cb-1413-dec1-39e808220ca4/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11930,
+                "height": 7660,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/65786d35-65cb-1413-dec1-39e808220ca4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/7062dda1-cdad-9892-370f-32c41ef87978/info.json",
+      "type": "Canvas",
+      "width": 11550,
+      "height": 7628,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/16",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/7062dda1-cdad-9892-370f-32c41ef87978/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/7062dda1-cdad-9892-370f-32c41ef87978/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/7062dda1-cdad-9892-370f-32c41ef87978/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11550,
+                "height": 7628,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/7062dda1-cdad-9892-370f-32c41ef87978",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/d8442f86-b8a8-78e2-5188-edd92577a613/info.json",
+      "type": "Canvas",
+      "width": 11876,
+      "height": 7680,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/17",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/d8442f86-b8a8-78e2-5188-edd92577a613/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/d8442f86-b8a8-78e2-5188-edd92577a613/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/d8442f86-b8a8-78e2-5188-edd92577a613/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11876,
+                "height": 7680,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/d8442f86-b8a8-78e2-5188-edd92577a613",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/aebe9dff-810c-e6ef-5f4c-9b18fb41e56b/info.json",
+      "type": "Canvas",
+      "width": 11724,
+      "height": 7524,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/18",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/aebe9dff-810c-e6ef-5f4c-9b18fb41e56b/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/aebe9dff-810c-e6ef-5f4c-9b18fb41e56b/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/aebe9dff-810c-e6ef-5f4c-9b18fb41e56b/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11724,
+                "height": 7524,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/aebe9dff-810c-e6ef-5f4c-9b18fb41e56b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/f921b865-b657-ef90-5f03-f6ab6542b913/info.json",
+      "type": "Canvas",
+      "width": 11906,
+      "height": 7676,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/19",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/f921b865-b657-ef90-5f03-f6ab6542b913/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/f921b865-b657-ef90-5f03-f6ab6542b913/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/f921b865-b657-ef90-5f03-f6ab6542b913/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11906,
+                "height": 7676,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/f921b865-b657-ef90-5f03-f6ab6542b913",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/c66c5c7a-75b1-53fe-12a1-d40a6f53537a/info.json",
+      "type": "Canvas",
+      "width": 11716,
+      "height": 7684,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/20",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/c66c5c7a-75b1-53fe-12a1-d40a6f53537a/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/c66c5c7a-75b1-53fe-12a1-d40a6f53537a/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/c66c5c7a-75b1-53fe-12a1-d40a6f53537a/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11716,
+                "height": 7684,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/c66c5c7a-75b1-53fe-12a1-d40a6f53537a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/rce/iiif/ab39ebde-54e4-0b0b-72b6-a477eacfa2b4/info.json",
+      "type": "Canvas",
+      "width": 11718,
+      "height": 7700,
+      "items": [
+        {
+          "id": "https://example.com/manifest/annotation-page/21",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/ab39ebde-54e4-0b0b-72b6-a477eacfa2b4/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/rce/iiif/ab39ebde-54e4-0b0b-72b6-a477eacfa2b4/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/ab39ebde-54e4-0b0b-72b6-a477eacfa2b4/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 11718,
+                "height": 7700,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/rce/iiif/ab39ebde-54e4-0b0b-72b6-a477eacfa2b4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
