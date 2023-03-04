@@ -12,7 +12,7 @@
       },
     "items": [
       {
-        "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-2/info.json/info.json",
+        "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-2/info.json",
         "type": "Canvas",
         "width": 6570,
         "height": 4522,
@@ -25,7 +25,7 @@
                 "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-2/info.json/full/full/0/default.jpg",
                 "type": "Annotation",
                 "motivation": "painting",
-                "target": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-2/info.json/info.json",
+                "target": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-2/info.json",
                 "body": {
                   "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-2/info.json/full/full/0/default.jpg",
                   "type": "Image",
@@ -46,7 +46,7 @@
         ]
       },
       {
-        "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-5/info.json/info.json",
+        "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-5/info.json",
         "type": "Canvas",
         "width": 6594,
         "height": 4834,
@@ -59,7 +59,7 @@
                 "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-5/info.json/full/full/0/default.jpg",
                 "type": "Annotation",
                 "motivation": "painting",
-                "target": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-5/info.json/info.json",
+                "target": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-5/info.json",
                 "body": {
                   "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-5/info.json/full/full/0/default.jpg",
                   "type": "Image",
