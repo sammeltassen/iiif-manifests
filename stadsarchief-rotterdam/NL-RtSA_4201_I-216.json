@@ -12,13 +12,47 @@
       },
     "items": [
       {
+        "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-1/info.json",
+        "type": "Canvas",
+        "width": 6318,
+        "height": 4498,
+        "items": [
+          {
+            "id": "https://example.com/manifest/annotation-page/0",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-1/full/full/0/default.jpg",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-1/info.json",
+                "body": {
+                  "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-1/full/full/0/default.jpg",
+                  "type": "Image",
+                  "width": 6318,
+                  "height": 4498,
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "@id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-1/info.json",
+                      "@type": "ImageService2",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-2/info.json",
         "type": "Canvas",
         "width": 6570,
         "height": 4522,
         "items": [
           {
-            "id": "https://example.com/manifest/annotation-page/0",
+            "id": "https://example.com/manifest/annotation-page/1",
             "type": "AnnotationPage",
             "items": [
               {
@@ -46,13 +80,47 @@
         ]
       },
       {
+        "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-4/info.json",
+        "type": "Canvas",
+        "width": 6246,
+        "height": 4738,
+        "items": [
+          {
+            "id": "https://example.com/manifest/annotation-page/2",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-4/full/full/0/default.jpg",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-4/info.json",
+                "body": {
+                  "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-4/full/full/0/default.jpg",
+                  "type": "Image",
+                  "width": 6246,
+                  "height": 4738,
+                  "format": "image/jpeg",
+                  "service": [
+                    {
+                      "@id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-4/info.json",
+                      "@type": "ImageService2",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-5/info.json",
         "type": "Canvas",
         "width": 6594,
         "height": 4834,
         "items": [
           {
-            "id": "https://example.com/manifest/annotation-page/1",
+            "id": "https://example.com/manifest/annotation-page/3",
             "type": "AnnotationPage",
             "items": [
               {
