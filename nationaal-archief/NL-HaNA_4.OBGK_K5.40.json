@@ -5,7 +5,7 @@
     "http://iiif.io/api/presentation/3/context.json"
   ],
   "type": "Manifest",
-  "label": { "nl": [ "Kaart van de Provincie Zuid Holland (1846" ] },
+  "label": { "nl": [ "Kaart van de Provincie Zuid Holland (1846)" ] },
   "items": [
     {
       "id": "https://service.archief.nl/iipsrv?IIIF=/61/e1/0b/1b/37/6a/4b/19/9b/d7/54/7b/70/af/69/dc/bb3ac834-11e5-402c-9092-4df05fcefd84.jp2/info.json",
