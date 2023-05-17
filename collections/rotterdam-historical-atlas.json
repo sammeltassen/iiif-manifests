@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://example.org/iiif/collection/top",
+    "id": "https://sammeltassen.nl/iiif-manifests/collections/rotterdam-historical-atlas.json",
     "type": "Collection",
     "label": {
         "en": [
