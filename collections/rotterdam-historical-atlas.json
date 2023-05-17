@@ -1,0 +1,129 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.org/iiif/collection/top",
+    "type": "Collection",
+    "label": {
+        "en": [
+            "Rotterdam Historical Atlas"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.VTHR_4636.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Nieuwe plattegrond der stad Rotterdam"
+                ]
+            }
+        },
+        {
+            "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-rotterdam.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Kadastrale kaart 1811-1832"
+                ]
+            }
+        },
+        {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.OBGK_K5.40.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Kaart van de Provincie Zuid Holland"
+                ]
+            }
+        },
+        {
+            "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-118.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Plattegrond van Rotterdam in 10 bladen"
+                ]
+            }
+        },
+        {
+            "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:2891/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "River Nieuwe Maas"
+                ]
+            }
+        },
+        {
+            "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:1654/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Plattegrond van Rotterdam"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/bertspaan/rotterdams-publiek/master/manifests/plattegrond-van-rotterdam-in-25-bladen-1910.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Plattegrond van Rotterdam in 25 bladen"
+                ]
+            }
+        },
+        {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/dudo/DUDO.110280108.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Warenhuis De Bijenkorf"
+                ]
+            }
+        },
+        {
+            "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_2006-886.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Plattegrond van Rotterdam in 20 bladen"
+                ]
+            }
+        },
+        {
+            "id": "https://www.loc.gov/item/2003630738/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "US Army Map"
+                ]
+            }
+        },
+        {
+            "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-216.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Plattegrond van Rotterdam in 49 bladen"
+                ]
+            }
+        },
+        {
+            "id": "https://cdm17272.contentdm.oclc.org/iiif/info/agdm/2814/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Toeristische plattegrond"
+                ]
+            }
+        },
+        {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/omar/OMAR.110621885.json",
+            "type": "Manifest",
+            "label": {
+                "en": [
+                    "Boompjes"
+                ]
+            }
+        }
+    ]
+}
