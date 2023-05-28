@@ -1,701 +1,701 @@
 {
-    "type": "AnnotationPage",
-    "@context": [
-      "http://www.w3.org/ns/anno.jsonld"
-    ],
-    "items": [
-      {
-        "id": "a340f0e050750817",
-        "type": "Annotation",
-        "@context": [
-          "http://www.w3.org/ns/anno.jsonld",
-          "http://geojson.org/geojson-ld/geojson-context.jsonld",
-          "http://iiif.io/api/presentation/3/context.json"
-        ],
-        "motivation": "georeferencing",
-        "target": {
-          "type": "Image",
-          "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2011699/full/!1000,1000/0/default.jpg",
-          "service": [
-            {
-              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2011699",
-              "type": "ImageService2"
-            }
-          ],
-          "selector": {
-            "type": "SvgSelector",
-            "value": "<svg width=\"9774\" height=\"9796\"><polygon points=\"572,642 9257,642 9257,9336 572,9336\" /></svg>"
+  "type": "AnnotationPage",
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld"
+  ],
+  "items": [
+    {
+      "id": "7c2047c1306cf4f6",
+      "type": "Annotation",
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "Image",
+        "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2011699/full/pct:50/0/default.jpg",
+        "service": [
+          {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2011699",
+            "type": "ImageService2"
           }
-        },
-        "body": {
-          "type": "FeatureCollection",
-          "transformation": {
-            "type": "polynomial",
-            "options": {
-              "order": 1
-            }
-          },
-          "features": [
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  572,
-                  642
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.575555555556,
-                  -6.86611111111111
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9257,
-                  642
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.86611111111111
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  572,
-                  9336
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.575555555556,
-                  -6.89972222222222
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9257,
-                  9257
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.89972222222222
-                ]
-              }
-            }
-          ]
+        ],
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"9774\" height=\"9796\"><polygon points=\"572,642 9257,642 9257,9336 572,9336\" /></svg>"
         }
       },
-      {
-        "id": "84e00dad0e840213",
-        "type": "Annotation",
-        "@context": [
-          "http://www.w3.org/ns/anno.jsonld",
-          "http://geojson.org/geojson-ld/geojson-context.jsonld",
-          "http://iiif.io/api/presentation/3/context.json"
-        ],
-        "motivation": "georeferencing",
-        "target": {
-          "type": "Image",
-          "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2012135/full/!1000,1000/0/default.jpg",
-          "service": [
-            {
-              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2012135",
-              "type": "ImageService2"
-            }
-          ],
-          "selector": {
-            "type": "SvgSelector",
-            "value": "<svg width=\"9786\" height=\"9765\"><polygon points=\"572,559 9223,559 9223,9243 572,9243\" /></svg>"
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
           }
         },
-        "body": {
-          "type": "FeatureCollection",
-          "transformation": {
-            "type": "polynomial",
-            "options": {
-              "order": 1
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                572,
+                642
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.575555555556,
+                -6.86611111111111
+              ]
             }
           },
-          "features": [
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  572,
-                  559
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.86611111111111
-                ]
-              }
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9257,
+                642
+              ]
             },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9223,
-                  559
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.86611111111111
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  572,
-                  9243
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.89944444444444
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9223,
-                  9223
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.89944444444444
-                ]
-              }
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.86611111111111
+              ]
             }
-          ]
-        }
-      },
-      {
-        "id": "abc30e31b55cd8d5",
-        "type": "Annotation",
-        "@context": [
-          "http://www.w3.org/ns/anno.jsonld",
-          "http://geojson.org/geojson-ld/geojson-context.jsonld",
-          "http://iiif.io/api/presentation/3/context.json"
-        ],
-        "motivation": "georeferencing",
-        "target": {
-          "type": "Image",
-          "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2011511/full/!1000,1000/0/default.jpg",
-          "service": [
-            {
-              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2011511",
-              "type": "ImageService2"
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9257,
+                9336
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.89972222222222
+              ]
             }
-          ],
-          "selector": {
-            "type": "SvgSelector",
-            "value": "<svg width=\"9809\" height=\"9809\"><polygon points=\"600,572 9255,572 9255,9268 600,9268\" /></svg>"
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                572,
+                9336
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.575555555556,
+                -6.89972222222222
+              ]
+            }
           }
-        },
-        "body": {
-          "type": "FeatureCollection",
-          "transformation": {
-            "type": "polynomial",
-            "options": {
-              "order": 1
-            }
-          },
-          "features": [
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  600,
-                  572
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.542777777778,
-                  -6.89944444444444
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9255,
-                  572
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.575833333333,
-                  -6.89944444444444
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  600,
-                  9268
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.542777777778,
-                  -6.93277777777778
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9255,
-                  9255
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.575833333333,
-                  -6.93277777777778
-                ]
-              }
-            }
-          ]
-        }
-      },
-      {
-        "id": "28d25597acb5034a",
-        "type": "Annotation",
-        "@context": [
-          "http://www.w3.org/ns/anno.jsonld",
-          "http://geojson.org/geojson-ld/geojson-context.jsonld",
-          "http://iiif.io/api/presentation/3/context.json"
-        ],
-        "motivation": "georeferencing",
-        "target": {
-          "type": "Image",
-          "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2012207/full/!1000,1000/0/default.jpg",
-          "service": [
-            {
-              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2012207",
-              "type": "ImageService2"
-            }
-          ],
-          "selector": {
-            "type": "SvgSelector",
-            "value": "<svg width=\"9796\" height=\"9795\"><polygon points=\"586,586 9231,586 9231,9314 586,9314\" /></svg>"
-          }
-        },
-        "body": {
-          "type": "FeatureCollection",
-          "transformation": {
-            "type": "polynomial",
-            "options": {
-              "order": 1
-            }
-          },
-          "features": [
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  586,
-                  586
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.575833333333,
-                  -6.89944444444444
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9231,
-                  586
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.89944444444444
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  586,
-                  9314
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.575833333333,
-                  -6.93277777777778
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9231,
-                  9231
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.93277777777778
-                ]
-              }
-            }
-          ]
-        }
-      },
-      {
-        "id": "728ebd80e6eb1f0e",
-        "type": "Annotation",
-        "@context": [
-          "http://www.w3.org/ns/anno.jsonld",
-          "http://geojson.org/geojson-ld/geojson-context.jsonld",
-          "http://iiif.io/api/presentation/3/context.json"
-        ],
-        "motivation": "georeferencing",
-        "target": {
-          "type": "Image",
-          "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2011561/full/!1000,1000/0/default.jpg",
-          "service": [
-            {
-              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2011561",
-              "type": "ImageService2"
-            }
-          ],
-          "selector": {
-            "type": "SvgSelector",
-            "value": "<svg width=\"9778\" height=\"9779\"><polygon points=\"643,573 9303,573 9303,9262 643,9262\" /></svg>"
-          }
-        },
-        "body": {
-          "type": "FeatureCollection",
-          "transformation": {
-            "type": "polynomial",
-            "options": {
-              "order": 1
-            }
-          },
-          "features": [
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  643,
-                  573
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.89944444444444
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9303,
-                  573
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.642222222222,
-                  -6.89944444444444
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  643,
-                  9262
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.93277777777778
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9303,
-                  9303
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.642222222222,
-                  -6.93277777777778
-                ]
-              }
-            }
-          ]
-        }
-      },
-      {
-        "id": "72d2884cddbf4847",
-        "type": "Annotation",
-        "@context": [
-          "http://www.w3.org/ns/anno.jsonld",
-          "http://geojson.org/geojson-ld/geojson-context.jsonld",
-          "http://iiif.io/api/presentation/3/context.json"
-        ],
-        "motivation": "georeferencing",
-        "target": {
-          "type": "Image",
-          "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2011496/full/!1000,1000/0/default.jpg",
-          "service": [
-            {
-              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2011496",
-              "type": "ImageService2"
-            }
-          ],
-          "selector": {
-            "type": "SvgSelector",
-            "value": "<svg width=\"9737\" height=\"9764\"><polygon points=\"556,612 9236,612 9236,9305 556,9305\" /></svg>"
-          }
-        },
-        "body": {
-          "type": "FeatureCollection",
-          "transformation": {
-            "type": "polynomial",
-            "options": {
-              "order": 1
-            }
-          },
-          "features": [
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  556,
-                  612
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.575833333333,
-                  -6.93277777777778
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9236,
-                  612
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.93277777777778
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  556,
-                  9305
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.575833333333,
-                  -6.96777777777778
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9236,
-                  9236
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.96777777777778
-                ]
-              }
-            }
-          ]
-        }
-      },
-      {
-        "id": "3cc58c3feff6cf83",
-        "type": "Annotation",
-        "@context": [
-          "http://www.w3.org/ns/anno.jsonld",
-          "http://geojson.org/geojson-ld/geojson-context.jsonld",
-          "http://iiif.io/api/presentation/3/context.json"
-        ],
-        "motivation": "georeferencing",
-        "target": {
-          "type": "Image",
-          "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2011047/full/!1000,1000/0/default.jpg",
-          "service": [
-            {
-              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2011047",
-              "type": "ImageService2"
-            }
-          ],
-          "selector": {
-            "type": "SvgSelector",
-            "value": "<svg width=\"9834\" height=\"9842\"><polygon points=\"627,502 9271,502 9271,9265 627,9265\" /></svg>"
-          }
-        },
-        "body": {
-          "type": "FeatureCollection",
-          "transformation": {
-            "type": "polynomial",
-            "options": {
-              "order": 1
-            }
-          },
-          "features": [
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  627,
-                  502
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.93277777777778
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9271,
-                  502
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.642222222222,
-                  -6.93277777777778
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  627,
-                  9265
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.608888888889,
-                  -6.96777777777778
-                ]
-              }
-            },
-            {
-              "type": "Feature",
-              "properties": {
-                "pixelCoords": [
-                  9271,
-                  9271
-                ]
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": [
-                  107.642222222222,
-                  -6.96777777777778
-                ]
-              }
-            }
-          ]
-        }
+        ]
       }
-    ]
-  }
+    },
+    {
+      "id": "8fe9f10a67b367ca",
+      "type": "Annotation",
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "Image",
+        "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2012135/full/pct:50/0/default.jpg",
+        "service": [
+          {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2012135",
+            "type": "ImageService2"
+          }
+        ],
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"9786\" height=\"9765\"><polygon points=\"572,559 9223,559 9223,9243 572,9243\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                572,
+                559
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.86611111111111
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9223,
+                559
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.86611111111111
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9223,
+                9243
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.89944444444444
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                572,
+                9243
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.89944444444444
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "f675b123b965b6b1",
+      "type": "Annotation",
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "Image",
+        "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2011511/full/pct:50/0/default.jpg",
+        "service": [
+          {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2011511",
+            "type": "ImageService2"
+          }
+        ],
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"9809\" height=\"9809\"><polygon points=\"600,572 9255,572 9255,9268 600,9268\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                600,
+                572
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.542777777778,
+                -6.89944444444444
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9255,
+                572
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.575833333333,
+                -6.89944444444444
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9255,
+                9268
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.575833333333,
+                -6.93277777777778
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                600,
+                9268
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.542777777778,
+                -6.93277777777778
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "2628716d52555ab2",
+      "type": "Annotation",
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "Image",
+        "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2012207/full/pct:50/0/default.jpg",
+        "service": [
+          {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2012207",
+            "type": "ImageService2"
+          }
+        ],
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"9796\" height=\"9795\"><polygon points=\"586,586 9231,586 9231,9314 586,9314\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                586,
+                586
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.575833333333,
+                -6.89944444444444
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9231,
+                586
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.89944444444444
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9231,
+                9314
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.93277777777778
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                586,
+                9314
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.575833333333,
+                -6.93277777777778
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "5bfb43949668a5ab",
+      "type": "Annotation",
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "Image",
+        "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2011561/full/pct:50/0/default.jpg",
+        "service": [
+          {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2011561",
+            "type": "ImageService2"
+          }
+        ],
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"9778\" height=\"9779\"><polygon points=\"643,573 9303,573 9303,9262 643,9262\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                643,
+                573
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.89944444444444
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9303,
+                573
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.642222222222,
+                -6.89944444444444
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9303,
+                9262
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.642222222222,
+                -6.93277777777778
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                643,
+                9262
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.93277777777778
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "3849656d5fa80073",
+      "type": "Annotation",
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "Image",
+        "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2011496/full/pct:50/0/default.jpg",
+        "service": [
+          {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2011496",
+            "type": "ImageService2"
+          }
+        ],
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"9737\" height=\"9764\"><polygon points=\"556,612 9236,612 9236,9305 556,9305\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                556,
+                612
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.575833333333,
+                -6.93277777777778
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9236,
+                612
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.93277777777778
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9236,
+                9305
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.96777777777778
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                556,
+                9305
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.575833333333,
+                -6.96777777777778
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "c3f8094cce156983",
+      "type": "Annotation",
+      "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "Image",
+        "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2011047/full/pct:50/0/default.jpg",
+        "service": [
+          {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2011047",
+            "type": "ImageService2"
+          }
+        ],
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"9834\" height=\"9842\"><polygon points=\"627,502 9271,502 9271,9265 627,9265\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                627,
+                502
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.93277777777778
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9271,
+                502
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.642222222222,
+                -6.93277777777778
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                9271,
+                9265
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.642222222222,
+                -6.96777777777778
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "pixelCoords": [
+                627,
+                9265
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                107.608888888889,
+                -6.96777777777778
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
