@@ -1,5 +1,5 @@
 {
-    "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.DEF.json.json",
+    "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.DEF.json",
     "@context": [
       "http://www.w3.org/ns/anno.jsonld",
       "http://iiif.io/api/presentation/3/context.json"
