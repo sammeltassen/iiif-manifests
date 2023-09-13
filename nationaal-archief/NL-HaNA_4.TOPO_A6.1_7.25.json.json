@@ -1,0 +1,1080 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json",
+    "type": "Manifest",
+    "label": {
+      "en": [
+        "7.25 Amsterdam"
+      ]
+    },
+    "items": [
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/0",
+        "type": "Canvas",
+        "height": 6126,
+        "width": 4845,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/0/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/d6/e3/ae/9a/eb/bc/4c/e5/ad/c9/44/64/bf/31/41/5f/cd8a0586-5ade-4244-8307-9dd5c98bab3d.jp2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/0",
+                "body": {
+                  "id": "https://service.archief.nl/iipsrv?IIIF=/d6/e3/ae/9a/eb/bc/4c/e5/ad/c9/44/64/bf/31/41/5f/cd8a0586-5ade-4244-8307-9dd5c98bab3d.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 6126,
+                  "width": 4845,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4845,
+                      "height": 6126,
+                      "sizes": [
+                        {
+                          "width": 151,
+                          "height": 191
+                        },
+                        {
+                          "width": 302,
+                          "height": 382
+                        },
+                        {
+                          "width": 605,
+                          "height": 765
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1531
+                        },
+                        {
+                          "width": 2422,
+                          "height": 3063
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "@id": "https://service.archief.nl/iipsrv?IIIF=/d6/e3/ae/9a/eb/bc/4c/e5/ad/c9/44/64/bf/31/41/5f/cd8a0586-5ade-4244-8307-9dd5c98bab3d.jp2",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray",
+                            "bitonal"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "sizeUpscaling",
+                            "rotationBy90s",
+                            "mirroring"
+                          ],
+                          "maxWidth": 5000,
+                          "maxHeight": 5000
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/1",
+        "type": "Canvas",
+        "height": 5027,
+        "width": 4765,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/1/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/e1/01/aa/7c/1c/4f/45/3f/ac/5a/e3/ff/d7/7f/67/2b/5dbc891b-8b61-4fb5-986a-27217334b465.jp2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/1",
+                "body": {
+                  "id": "https://service.archief.nl/iipsrv?IIIF=/e1/01/aa/7c/1c/4f/45/3f/ac/5a/e3/ff/d7/7f/67/2b/5dbc891b-8b61-4fb5-986a-27217334b465.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5027,
+                  "width": 4765,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4765,
+                      "height": 5027,
+                      "sizes": [
+                        {
+                          "width": 148,
+                          "height": 157
+                        },
+                        {
+                          "width": 297,
+                          "height": 314
+                        },
+                        {
+                          "width": 595,
+                          "height": 628
+                        },
+                        {
+                          "width": 1191,
+                          "height": 1256
+                        },
+                        {
+                          "width": 2382,
+                          "height": 2513
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "@id": "https://service.archief.nl/iipsrv?IIIF=/e1/01/aa/7c/1c/4f/45/3f/ac/5a/e3/ff/d7/7f/67/2b/5dbc891b-8b61-4fb5-986a-27217334b465.jp2",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray",
+                            "bitonal"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "sizeUpscaling",
+                            "rotationBy90s",
+                            "mirroring"
+                          ],
+                          "maxWidth": 10000,
+                          "maxHeight": 10000
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/2",
+        "type": "Canvas",
+        "height": 6287,
+        "width": 4782,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/2/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/90/cc/d4/f2/7a/05/40/65/95/40/ca/7b/35/65/39/ec/e497e462-b6b5-46d9-a4b8-6126cc46a62a.jp2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/2",
+                "body": {
+                  "id": "https://service.archief.nl/iipsrv?IIIF=/90/cc/d4/f2/7a/05/40/65/95/40/ca/7b/35/65/39/ec/e497e462-b6b5-46d9-a4b8-6126cc46a62a.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 6287,
+                  "width": 4782,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4782,
+                      "height": 6287,
+                      "sizes": [
+                        {
+                          "width": 149,
+                          "height": 196
+                        },
+                        {
+                          "width": 298,
+                          "height": 392
+                        },
+                        {
+                          "width": 597,
+                          "height": 785
+                        },
+                        {
+                          "width": 1195,
+                          "height": 1571
+                        },
+                        {
+                          "width": 2391,
+                          "height": 3143
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "@id": "https://service.archief.nl/iipsrv?IIIF=/90/cc/d4/f2/7a/05/40/65/95/40/ca/7b/35/65/39/ec/e497e462-b6b5-46d9-a4b8-6126cc46a62a.jp2",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray",
+                            "bitonal"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "sizeUpscaling",
+                            "rotationBy90s",
+                            "mirroring"
+                          ],
+                          "maxWidth": 10000,
+                          "maxHeight": 10000
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/3",
+        "type": "Canvas",
+        "height": 5368,
+        "width": 1965,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/3/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/a2/8d/78/dc/38/b2/43/5a/88/6c/c7/0c/42/f5/49/ad/f227ac3d-2743-4cf0-9026-289e06f86fe5.jp2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/3",
+                "body": {
+                  "id": "https://service.archief.nl/iipsrv?IIIF=/a2/8d/78/dc/38/b2/43/5a/88/6c/c7/0c/42/f5/49/ad/f227ac3d-2743-4cf0-9026-289e06f86fe5.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5368,
+                  "width": 1965,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 1965,
+                      "height": 5368,
+                      "sizes": [
+                        {
+                          "width": 61,
+                          "height": 167
+                        },
+                        {
+                          "width": 122,
+                          "height": 335
+                        },
+                        {
+                          "width": 245,
+                          "height": 671
+                        },
+                        {
+                          "width": 491,
+                          "height": 1342
+                        },
+                        {
+                          "width": 982,
+                          "height": 2684
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "@id": "https://service.archief.nl/iipsrv?IIIF=/a2/8d/78/dc/38/b2/43/5a/88/6c/c7/0c/42/f5/49/ad/f227ac3d-2743-4cf0-9026-289e06f86fe5.jp2",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray",
+                            "bitonal"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "sizeUpscaling",
+                            "rotationBy90s",
+                            "mirroring"
+                          ],
+                          "maxWidth": 5000,
+                          "maxHeight": 5000
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/4",
+        "type": "Canvas",
+        "height": 1713,
+        "width": 2694,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/4/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/f8/6e/9e/62/63/c3/4a/bd/bb/a6/84/aa/f9/c5/0c/10/3fb7bfdb-3a36-49c0-a032-2c944beb61ed.jp2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/4",
+                "body": {
+                  "id": "https://service.archief.nl/iipsrv?IIIF=/f8/6e/9e/62/63/c3/4a/bd/bb/a6/84/aa/f9/c5/0c/10/3fb7bfdb-3a36-49c0-a032-2c944beb61ed.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 1713,
+                  "width": 2694,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 2694,
+                      "height": 1713,
+                      "sizes": [
+                        {
+                          "width": 168,
+                          "height": 107
+                        },
+                        {
+                          "width": 336,
+                          "height": 214
+                        },
+                        {
+                          "width": 673,
+                          "height": 428
+                        },
+                        {
+                          "width": 1347,
+                          "height": 856
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16
+                          ]
+                        }
+                      ],
+                      "@id": "https://service.archief.nl/iipsrv?IIIF=/f8/6e/9e/62/63/c3/4a/bd/bb/a6/84/aa/f9/c5/0c/10/3fb7bfdb-3a36-49c0-a032-2c944beb61ed.jp2",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray",
+                            "bitonal"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "sizeUpscaling",
+                            "rotationBy90s",
+                            "mirroring"
+                          ],
+                          "maxWidth": 10000,
+                          "maxHeight": 10000
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/5",
+        "type": "Canvas",
+        "height": 5848,
+        "width": 4439,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/5/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/35/c3/4f/c6/36/ab/48/bc/84/8b/9b/8d/90/e7/2c/cf/8c2d17b2-bcce-4a9e-8024-75bc828d76d5.jp2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/5",
+                "body": {
+                  "id": "https://service.archief.nl/iipsrv?IIIF=/35/c3/4f/c6/36/ab/48/bc/84/8b/9b/8d/90/e7/2c/cf/8c2d17b2-bcce-4a9e-8024-75bc828d76d5.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5848,
+                  "width": 4439,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4439,
+                      "height": 5848,
+                      "sizes": [
+                        {
+                          "width": 138,
+                          "height": 182
+                        },
+                        {
+                          "width": 277,
+                          "height": 365
+                        },
+                        {
+                          "width": 554,
+                          "height": 731
+                        },
+                        {
+                          "width": 1109,
+                          "height": 1462
+                        },
+                        {
+                          "width": 2219,
+                          "height": 2924
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "@id": "https://service.archief.nl/iipsrv?IIIF=/35/c3/4f/c6/36/ab/48/bc/84/8b/9b/8d/90/e7/2c/cf/8c2d17b2-bcce-4a9e-8024-75bc828d76d5.jp2",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray",
+                            "bitonal"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "sizeUpscaling",
+                            "rotationBy90s",
+                            "mirroring"
+                          ],
+                          "maxWidth": 10000,
+                          "maxHeight": 10000
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/6",
+        "type": "Canvas",
+        "height": 2286,
+        "width": 4192,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/6/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/82/49/ec/4e/03/90/4f/68/99/2c/fe/68/c1/f3/6c/d8/10cd141a-b731-42e5-859c-63ea8a59df95.jp2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/6",
+                "body": {
+                  "id": "https://service.archief.nl/iipsrv?IIIF=/82/49/ec/4e/03/90/4f/68/99/2c/fe/68/c1/f3/6c/d8/10cd141a-b731-42e5-859c-63ea8a59df95.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 2286,
+                  "width": 4192,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4192,
+                      "height": 2286,
+                      "sizes": [
+                        {
+                          "width": 131,
+                          "height": 71
+                        },
+                        {
+                          "width": 262,
+                          "height": 142
+                        },
+                        {
+                          "width": 524,
+                          "height": 285
+                        },
+                        {
+                          "width": 1048,
+                          "height": 571
+                        },
+                        {
+                          "width": 2096,
+                          "height": 1143
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "@id": "https://service.archief.nl/iipsrv?IIIF=/82/49/ec/4e/03/90/4f/68/99/2c/fe/68/c1/f3/6c/d8/10cd141a-b731-42e5-859c-63ea8a59df95.jp2",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray",
+                            "bitonal"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "sizeUpscaling",
+                            "rotationBy90s",
+                            "mirroring"
+                          ],
+                          "maxWidth": 5000,
+                          "maxHeight": 5000
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/7",
+        "type": "Canvas",
+        "height": 5872,
+        "width": 4765,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/7/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/5c/c6/da/5c/b4/30/43/fc/9e/71/74/71/33/27/4a/be/76dff21f-b23f-4f30-9c82-78bd29545432.jp2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/7",
+                "body": {
+                  "id": "https://service.archief.nl/iipsrv?IIIF=/5c/c6/da/5c/b4/30/43/fc/9e/71/74/71/33/27/4a/be/76dff21f-b23f-4f30-9c82-78bd29545432.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5872,
+                  "width": 4765,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4765,
+                      "height": 5872,
+                      "sizes": [
+                        {
+                          "width": 148,
+                          "height": 183
+                        },
+                        {
+                          "width": 297,
+                          "height": 367
+                        },
+                        {
+                          "width": 595,
+                          "height": 734
+                        },
+                        {
+                          "width": 1191,
+                          "height": 1468
+                        },
+                        {
+                          "width": 2382,
+                          "height": 2936
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "@id": "https://service.archief.nl/iipsrv?IIIF=/5c/c6/da/5c/b4/30/43/fc/9e/71/74/71/33/27/4a/be/76dff21f-b23f-4f30-9c82-78bd29545432.jp2",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray",
+                            "bitonal"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "sizeUpscaling",
+                            "rotationBy90s",
+                            "mirroring"
+                          ],
+                          "maxWidth": 10000,
+                          "maxHeight": 10000
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/8",
+        "type": "Canvas",
+        "height": 2420,
+        "width": 2401,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/8/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/4b/79/06/da/f7/e0/4b/f3/92/19/f7/95/1a/dc/26/af/d3128b60-b2e5-445c-bbec-e7d9e740d805.jp2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/8",
+                "body": {
+                  "id": "https://service.archief.nl/iipsrv?IIIF=/4b/79/06/da/f7/e0/4b/f3/92/19/f7/95/1a/dc/26/af/d3128b60-b2e5-445c-bbec-e7d9e740d805.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 2420,
+                  "width": 2401,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 2401,
+                      "height": 2420,
+                      "sizes": [
+                        {
+                          "width": 150,
+                          "height": 151
+                        },
+                        {
+                          "width": 300,
+                          "height": 302
+                        },
+                        {
+                          "width": 600,
+                          "height": 605
+                        },
+                        {
+                          "width": 1200,
+                          "height": 1210
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16
+                          ]
+                        }
+                      ],
+                      "@id": "https://service.archief.nl/iipsrv?IIIF=/4b/79/06/da/f7/e0/4b/f3/92/19/f7/95/1a/dc/26/af/d3128b60-b2e5-445c-bbec-e7d9e740d805.jp2",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray",
+                            "bitonal"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "sizeUpscaling",
+                            "rotationBy90s",
+                            "mirroring"
+                          ],
+                          "maxWidth": 10000,
+                          "maxHeight": 10000
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/9",
+        "type": "Canvas",
+        "height": 5926,
+        "width": 4648,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/9/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/d8/5d/a9/e3/d3/11/42/77/8f/ca/df/ce/91/3f/21/c5/4bd72736-94a9-48ad-b9bf-9395b86b0678.jp2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/9",
+                "body": {
+                  "id": "https://service.archief.nl/iipsrv?IIIF=/d8/5d/a9/e3/d3/11/42/77/8f/ca/df/ce/91/3f/21/c5/4bd72736-94a9-48ad-b9bf-9395b86b0678.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5926,
+                  "width": 4648,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4648,
+                      "height": 5926,
+                      "sizes": [
+                        {
+                          "width": 145,
+                          "height": 185
+                        },
+                        {
+                          "width": 290,
+                          "height": 370
+                        },
+                        {
+                          "width": 581,
+                          "height": 740
+                        },
+                        {
+                          "width": 1162,
+                          "height": 1481
+                        },
+                        {
+                          "width": 2324,
+                          "height": 2963
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "@id": "https://service.archief.nl/iipsrv?IIIF=/d8/5d/a9/e3/d3/11/42/77/8f/ca/df/ce/91/3f/21/c5/4bd72736-94a9-48ad-b9bf-9395b86b0678.jp2",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray",
+                            "bitonal"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "sizeUpscaling",
+                            "rotationBy90s",
+                            "mirroring"
+                          ],
+                          "maxWidth": 5000,
+                          "maxHeight": 5000
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/10",
+        "type": "Canvas",
+        "height": 4263,
+        "width": 5152,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/10/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/1a/ed/d8/44/67/d8/46/f1/9e/4d/58/21/48/01/c9/a1/2a57b27b-8688-45b5-8d31-c1556c7a53f0.jp2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/nationaal-archief/NL-HaNA_4.TOPO_A6.1_7.25.json/canvas/10",
+                "body": {
+                  "id": "https://service.archief.nl/iipsrv?IIIF=/1a/ed/d8/44/67/d8/46/f1/9e/4d/58/21/48/01/c9/a1/2a57b27b-8688-45b5-8d31-c1556c7a53f0.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 4263,
+                  "width": 5152,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5152,
+                      "height": 4263,
+                      "sizes": [
+                        {
+                          "width": 161,
+                          "height": 133
+                        },
+                        {
+                          "width": 322,
+                          "height": 266
+                        },
+                        {
+                          "width": 644,
+                          "height": 532
+                        },
+                        {
+                          "width": 1288,
+                          "height": 1065
+                        },
+                        {
+                          "width": 2576,
+                          "height": 2131
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "@id": "https://service.archief.nl/iipsrv?IIIF=/1a/ed/d8/44/67/d8/46/f1/9e/4d/58/21/48/01/c9/a1/2a57b27b-8688-45b5-8d31-c1556c7a53f0.jp2",
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray",
+                            "bitonal"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "sizeUpscaling",
+                            "rotationBy90s",
+                            "mirroring"
+                          ],
+                          "maxWidth": 10000,
+                          "maxHeight": 10000
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
