@@ -1,0 +1,2567 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json",
+    "type": "Manifest",
+    "label": {
+      "en": [
+        "Brochure Tuinstad Slotermeer (EEST1.421)"
+      ]
+    },
+    "items": [
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/0",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 2590,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/0/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/a0a2434c-ac6b-122a-154b-f54b7fbda842",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/0",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/a0a2434c-ac6b-122a-154b-f54b7fbda842/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 2590,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/a0a2434c-ac6b-122a-154b-f54b7fbda842",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 2590,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 161,
+                          "height": 221
+                        },
+                        {
+                          "width": 323,
+                          "height": 443
+                        },
+                        {
+                          "width": 647,
+                          "height": 887
+                        },
+                        {
+                          "width": 1295,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "a0a2434c-ac6b-122a-154b-f54b7fbda842"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/1",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 5020,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/1/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/22f5f801-b1ac-d29e-59c7-cb1ce00e9034",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/1",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/22f5f801-b1ac-d29e-59c7-cb1ce00e9034/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 5020,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/22f5f801-b1ac-d29e-59c7-cb1ce00e9034",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5020,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 156,
+                          "height": 110
+                        },
+                        {
+                          "width": 313,
+                          "height": 221
+                        },
+                        {
+                          "width": 627,
+                          "height": 443
+                        },
+                        {
+                          "width": 1255,
+                          "height": 887
+                        },
+                        {
+                          "width": 2510,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "22f5f801-b1ac-d29e-59c7-cb1ce00e9034"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/2",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 5020,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/2/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/bfff88d2-6081-3261-2058-d72649084880",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/2",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/bfff88d2-6081-3261-2058-d72649084880/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 5020,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/bfff88d2-6081-3261-2058-d72649084880",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5020,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 156,
+                          "height": 110
+                        },
+                        {
+                          "width": 313,
+                          "height": 221
+                        },
+                        {
+                          "width": 627,
+                          "height": 443
+                        },
+                        {
+                          "width": 1255,
+                          "height": 887
+                        },
+                        {
+                          "width": 2510,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "bfff88d2-6081-3261-2058-d72649084880"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/3",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 5030,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/3/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/9eae0ff4-6c58-9e72-3b4f-3395884bd44a",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/3",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/9eae0ff4-6c58-9e72-3b4f-3395884bd44a/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 5030,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/9eae0ff4-6c58-9e72-3b4f-3395884bd44a",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5030,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 110
+                        },
+                        {
+                          "width": 314,
+                          "height": 221
+                        },
+                        {
+                          "width": 628,
+                          "height": 443
+                        },
+                        {
+                          "width": 1257,
+                          "height": 887
+                        },
+                        {
+                          "width": 2515,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "9eae0ff4-6c58-9e72-3b4f-3395884bd44a"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/4",
+        "type": "Canvas",
+        "height": 3560,
+        "width": 5030,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/4/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/0ac48701-c049-d114-84ad-6f31ed548caa",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/4",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/0ac48701-c049-d114-84ad-6f31ed548caa/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3560,
+                  "width": 5030,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/0ac48701-c049-d114-84ad-6f31ed548caa",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5030,
+                      "height": 3560,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 111
+                        },
+                        {
+                          "width": 314,
+                          "height": 222
+                        },
+                        {
+                          "width": 628,
+                          "height": 445
+                        },
+                        {
+                          "width": 1257,
+                          "height": 890
+                        },
+                        {
+                          "width": 2515,
+                          "height": 1780
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "0ac48701-c049-d114-84ad-6f31ed548caa"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/5",
+        "type": "Canvas",
+        "height": 3560,
+        "width": 5030,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/5/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/4af9d421-d62b-5f0a-68d9-6f61165c0950",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/5",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/4af9d421-d62b-5f0a-68d9-6f61165c0950/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3560,
+                  "width": 5030,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/4af9d421-d62b-5f0a-68d9-6f61165c0950",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5030,
+                      "height": 3560,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 111
+                        },
+                        {
+                          "width": 314,
+                          "height": 222
+                        },
+                        {
+                          "width": 628,
+                          "height": 445
+                        },
+                        {
+                          "width": 1257,
+                          "height": 890
+                        },
+                        {
+                          "width": 2515,
+                          "height": 1780
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "4af9d421-d62b-5f0a-68d9-6f61165c0950"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/6",
+        "type": "Canvas",
+        "height": 3560,
+        "width": 5030,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/6/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/c9f182fc-df92-3334-09da-7b3eafdd4ce6",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/6",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/c9f182fc-df92-3334-09da-7b3eafdd4ce6/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3560,
+                  "width": 5030,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/c9f182fc-df92-3334-09da-7b3eafdd4ce6",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5030,
+                      "height": 3560,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 111
+                        },
+                        {
+                          "width": 314,
+                          "height": 222
+                        },
+                        {
+                          "width": 628,
+                          "height": 445
+                        },
+                        {
+                          "width": 1257,
+                          "height": 890
+                        },
+                        {
+                          "width": 2515,
+                          "height": 1780
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "c9f182fc-df92-3334-09da-7b3eafdd4ce6"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/7",
+        "type": "Canvas",
+        "height": 3560,
+        "width": 5030,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/7/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/bac7079f-a088-6fe6-0a86-f2473e7d1a9b",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/7",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/bac7079f-a088-6fe6-0a86-f2473e7d1a9b/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3560,
+                  "width": 5030,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/bac7079f-a088-6fe6-0a86-f2473e7d1a9b",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5030,
+                      "height": 3560,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 111
+                        },
+                        {
+                          "width": 314,
+                          "height": 222
+                        },
+                        {
+                          "width": 628,
+                          "height": 445
+                        },
+                        {
+                          "width": 1257,
+                          "height": 890
+                        },
+                        {
+                          "width": 2515,
+                          "height": 1780
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "bac7079f-a088-6fe6-0a86-f2473e7d1a9b"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/8",
+        "type": "Canvas",
+        "height": 3560,
+        "width": 5030,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/8/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/67add43c-9ffd-17e2-37d9-588f265adc45",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/8",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/67add43c-9ffd-17e2-37d9-588f265adc45/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3560,
+                  "width": 5030,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/67add43c-9ffd-17e2-37d9-588f265adc45",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5030,
+                      "height": 3560,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 111
+                        },
+                        {
+                          "width": 314,
+                          "height": 222
+                        },
+                        {
+                          "width": 628,
+                          "height": 445
+                        },
+                        {
+                          "width": 1257,
+                          "height": 890
+                        },
+                        {
+                          "width": 2515,
+                          "height": 1780
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "67add43c-9ffd-17e2-37d9-588f265adc45"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/9",
+        "type": "Canvas",
+        "height": 3560,
+        "width": 5040,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/9/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/cc01e42c-3114-ede9-ed8c-7d2a3c027362",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/9",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/cc01e42c-3114-ede9-ed8c-7d2a3c027362/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3560,
+                  "width": 5040,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/cc01e42c-3114-ede9-ed8c-7d2a3c027362",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5040,
+                      "height": 3560,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 111
+                        },
+                        {
+                          "width": 315,
+                          "height": 222
+                        },
+                        {
+                          "width": 630,
+                          "height": 445
+                        },
+                        {
+                          "width": 1260,
+                          "height": 890
+                        },
+                        {
+                          "width": 2520,
+                          "height": 1780
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "cc01e42c-3114-ede9-ed8c-7d2a3c027362"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/10",
+        "type": "Canvas",
+        "height": 3560,
+        "width": 5050,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/10/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/4512b6a2-b657-67a5-7bfa-86ad33b2d4d3",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/10",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/4512b6a2-b657-67a5-7bfa-86ad33b2d4d3/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3560,
+                  "width": 5050,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/4512b6a2-b657-67a5-7bfa-86ad33b2d4d3",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5050,
+                      "height": 3560,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 111
+                        },
+                        {
+                          "width": 315,
+                          "height": 222
+                        },
+                        {
+                          "width": 631,
+                          "height": 445
+                        },
+                        {
+                          "width": 1262,
+                          "height": 890
+                        },
+                        {
+                          "width": 2525,
+                          "height": 1780
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "4512b6a2-b657-67a5-7bfa-86ad33b2d4d3"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/11",
+        "type": "Canvas",
+        "height": 3560,
+        "width": 5050,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/11/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/c4e9768a-67f7-1a31-4aec-32f7fa93f7c1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/11",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/c4e9768a-67f7-1a31-4aec-32f7fa93f7c1/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3560,
+                  "width": 5050,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/c4e9768a-67f7-1a31-4aec-32f7fa93f7c1",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5050,
+                      "height": 3560,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 111
+                        },
+                        {
+                          "width": 315,
+                          "height": 222
+                        },
+                        {
+                          "width": 631,
+                          "height": 445
+                        },
+                        {
+                          "width": 1262,
+                          "height": 890
+                        },
+                        {
+                          "width": 2525,
+                          "height": 1780
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "c4e9768a-67f7-1a31-4aec-32f7fa93f7c1"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/12",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 5050,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/12/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/563eabdb-a601-c903-b805-b5a898b0521c",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/12",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/563eabdb-a601-c903-b805-b5a898b0521c/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 5050,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/563eabdb-a601-c903-b805-b5a898b0521c",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5050,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 110
+                        },
+                        {
+                          "width": 315,
+                          "height": 221
+                        },
+                        {
+                          "width": 631,
+                          "height": 443
+                        },
+                        {
+                          "width": 1262,
+                          "height": 887
+                        },
+                        {
+                          "width": 2525,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "563eabdb-a601-c903-b805-b5a898b0521c"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/13",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 5040,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/13/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/f6e8e8dc-4c14-d5c4-8ab4-225c25097391",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/13",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/f6e8e8dc-4c14-d5c4-8ab4-225c25097391/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 5040,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/f6e8e8dc-4c14-d5c4-8ab4-225c25097391",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5040,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 110
+                        },
+                        {
+                          "width": 315,
+                          "height": 221
+                        },
+                        {
+                          "width": 630,
+                          "height": 443
+                        },
+                        {
+                          "width": 1260,
+                          "height": 887
+                        },
+                        {
+                          "width": 2520,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "f6e8e8dc-4c14-d5c4-8ab4-225c25097391"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/14",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 5050,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/14/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/8e6c7b67-323e-cd11-3827-0ed824846eab",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/14",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/8e6c7b67-323e-cd11-3827-0ed824846eab/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 5050,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/8e6c7b67-323e-cd11-3827-0ed824846eab",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5050,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 157,
+                          "height": 110
+                        },
+                        {
+                          "width": 315,
+                          "height": 221
+                        },
+                        {
+                          "width": 631,
+                          "height": 443
+                        },
+                        {
+                          "width": 1262,
+                          "height": 887
+                        },
+                        {
+                          "width": 2525,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "8e6c7b67-323e-cd11-3827-0ed824846eab"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/15",
+        "type": "Canvas",
+        "height": 3570,
+        "width": 5060,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/15/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/0d3b287a-b2c3-75e1-6a9a-58aba3fc42f9",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/15",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/0d3b287a-b2c3-75e1-6a9a-58aba3fc42f9/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3570,
+                  "width": 5060,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/0d3b287a-b2c3-75e1-6a9a-58aba3fc42f9",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5060,
+                      "height": 3570,
+                      "sizes": [
+                        {
+                          "width": 158,
+                          "height": 111
+                        },
+                        {
+                          "width": 316,
+                          "height": 223
+                        },
+                        {
+                          "width": 632,
+                          "height": 446
+                        },
+                        {
+                          "width": 1265,
+                          "height": 892
+                        },
+                        {
+                          "width": 2530,
+                          "height": 1785
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "0d3b287a-b2c3-75e1-6a9a-58aba3fc42f9"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/16",
+        "type": "Canvas",
+        "height": 3560,
+        "width": 5080,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/16/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/ad224025-72ec-972f-2b9e-37917fbe405d",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/16",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/ad224025-72ec-972f-2b9e-37917fbe405d/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3560,
+                  "width": 5080,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/ad224025-72ec-972f-2b9e-37917fbe405d",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5080,
+                      "height": 3560,
+                      "sizes": [
+                        {
+                          "width": 158,
+                          "height": 111
+                        },
+                        {
+                          "width": 317,
+                          "height": 222
+                        },
+                        {
+                          "width": 635,
+                          "height": 445
+                        },
+                        {
+                          "width": 1270,
+                          "height": 890
+                        },
+                        {
+                          "width": 2540,
+                          "height": 1780
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "ad224025-72ec-972f-2b9e-37917fbe405d"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/17",
+        "type": "Canvas",
+        "height": 3570,
+        "width": 5080,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/17/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/d799bde5-5f87-b3ab-bc58-cf00640e1ffe",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/17",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/d799bde5-5f87-b3ab-bc58-cf00640e1ffe/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3570,
+                  "width": 5080,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/d799bde5-5f87-b3ab-bc58-cf00640e1ffe",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5080,
+                      "height": 3570,
+                      "sizes": [
+                        {
+                          "width": 158,
+                          "height": 111
+                        },
+                        {
+                          "width": 317,
+                          "height": 223
+                        },
+                        {
+                          "width": 635,
+                          "height": 446
+                        },
+                        {
+                          "width": 1270,
+                          "height": 892
+                        },
+                        {
+                          "width": 2540,
+                          "height": 1785
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "d799bde5-5f87-b3ab-bc58-cf00640e1ffe"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/18",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 5070,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/18/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/6b9f0050-fd86-4a8a-43e9-7c7a37ba5c48",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/18",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/6b9f0050-fd86-4a8a-43e9-7c7a37ba5c48/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 5070,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/6b9f0050-fd86-4a8a-43e9-7c7a37ba5c48",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5070,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 158,
+                          "height": 110
+                        },
+                        {
+                          "width": 316,
+                          "height": 221
+                        },
+                        {
+                          "width": 633,
+                          "height": 443
+                        },
+                        {
+                          "width": 1267,
+                          "height": 887
+                        },
+                        {
+                          "width": 2535,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "6b9f0050-fd86-4a8a-43e9-7c7a37ba5c48"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/19",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 5080,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/19/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/e0d154ef-4e4b-7b86-d337-f4981841a198",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/19",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/e0d154ef-4e4b-7b86-d337-f4981841a198/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 5080,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/e0d154ef-4e4b-7b86-d337-f4981841a198",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5080,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 158,
+                          "height": 110
+                        },
+                        {
+                          "width": 317,
+                          "height": 221
+                        },
+                        {
+                          "width": 635,
+                          "height": 443
+                        },
+                        {
+                          "width": 1270,
+                          "height": 887
+                        },
+                        {
+                          "width": 2540,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "e0d154ef-4e4b-7b86-d337-f4981841a198"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/20",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 5070,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/20/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/d3ed6021-9afe-12b2-000d-89c711be7c58",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/20",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/d3ed6021-9afe-12b2-000d-89c711be7c58/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 5070,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/d3ed6021-9afe-12b2-000d-89c711be7c58",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5070,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 158,
+                          "height": 110
+                        },
+                        {
+                          "width": 316,
+                          "height": 221
+                        },
+                        {
+                          "width": 633,
+                          "height": 443
+                        },
+                        {
+                          "width": 1267,
+                          "height": 887
+                        },
+                        {
+                          "width": 2535,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "d3ed6021-9afe-12b2-000d-89c711be7c58"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/21",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 5070,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/21/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/4b188979-2f52-532e-27e5-b5e6d2735455",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/21",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/4b188979-2f52-532e-27e5-b5e6d2735455/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 5070,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/4b188979-2f52-532e-27e5-b5e6d2735455",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5070,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 158,
+                          "height": 110
+                        },
+                        {
+                          "width": 316,
+                          "height": 221
+                        },
+                        {
+                          "width": 633,
+                          "height": 443
+                        },
+                        {
+                          "width": 1267,
+                          "height": 887
+                        },
+                        {
+                          "width": 2535,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "4b188979-2f52-532e-27e5-b5e6d2735455"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/22",
+        "type": "Canvas",
+        "height": 3550,
+        "width": 5060,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/22/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/f93e73a0-53da-8ce7-fe50-cd2eefee26a1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/22",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/f93e73a0-53da-8ce7-fe50-cd2eefee26a1/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3550,
+                  "width": 5060,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/f93e73a0-53da-8ce7-fe50-cd2eefee26a1",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5060,
+                      "height": 3550,
+                      "sizes": [
+                        {
+                          "width": 158,
+                          "height": 110
+                        },
+                        {
+                          "width": 316,
+                          "height": 221
+                        },
+                        {
+                          "width": 632,
+                          "height": 443
+                        },
+                        {
+                          "width": 1265,
+                          "height": 887
+                        },
+                        {
+                          "width": 2530,
+                          "height": 1775
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "f93e73a0-53da-8ce7-fe50-cd2eefee26a1"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/23",
+        "type": "Canvas",
+        "height": 3540,
+        "width": 5070,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/23/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/7cd0738e-5c81-858f-c545-3ec901870d67",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/23",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/7cd0738e-5c81-858f-c545-3ec901870d67/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3540,
+                  "width": 5070,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/7cd0738e-5c81-858f-c545-3ec901870d67",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5070,
+                      "height": 3540,
+                      "sizes": [
+                        {
+                          "width": 158,
+                          "height": 110
+                        },
+                        {
+                          "width": 316,
+                          "height": 221
+                        },
+                        {
+                          "width": 633,
+                          "height": 442
+                        },
+                        {
+                          "width": 1267,
+                          "height": 885
+                        },
+                        {
+                          "width": 2535,
+                          "height": 1770
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "7cd0738e-5c81-858f-c545-3ec901870d67"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/24",
+        "type": "Canvas",
+        "height": 3540,
+        "width": 5070,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/24/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/d2b2fdbf-55ac-7432-da41-62ab3f39150e",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/24",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/d2b2fdbf-55ac-7432-da41-62ab3f39150e/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3540,
+                  "width": 5070,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/d2b2fdbf-55ac-7432-da41-62ab3f39150e",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5070,
+                      "height": 3540,
+                      "sizes": [
+                        {
+                          "width": 158,
+                          "height": 110
+                        },
+                        {
+                          "width": 316,
+                          "height": 221
+                        },
+                        {
+                          "width": 633,
+                          "height": 442
+                        },
+                        {
+                          "width": 1267,
+                          "height": 885
+                        },
+                        {
+                          "width": 2535,
+                          "height": 1770
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "d2b2fdbf-55ac-7432-da41-62ab3f39150e"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/25",
+        "type": "Canvas",
+        "height": 3540,
+        "width": 5070,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/25/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/1d756c17-2618-1366-551e-fc9ab5e4ded5",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/25",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/1d756c17-2618-1366-551e-fc9ab5e4ded5/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3540,
+                  "width": 5070,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/1d756c17-2618-1366-551e-fc9ab5e4ded5",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5070,
+                      "height": 3540,
+                      "sizes": [
+                        {
+                          "width": 158,
+                          "height": 110
+                        },
+                        {
+                          "width": 316,
+                          "height": 221
+                        },
+                        {
+                          "width": 633,
+                          "height": 442
+                        },
+                        {
+                          "width": 1267,
+                          "height": 885
+                        },
+                        {
+                          "width": 2535,
+                          "height": 1770
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "1d756c17-2618-1366-551e-fc9ab5e4ded5"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/26",
+        "type": "Canvas",
+        "height": 3540,
+        "width": 2580,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/26/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/74d5161b-5d52-c2b6-339c-8cb2b9a0915b",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/eest/EEST1.421.json/canvas/26",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/74d5161b-5d52-c2b6-339c-8cb2b9a0915b/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3540,
+                  "width": 2580,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/74d5161b-5d52-c2b6-339c-8cb2b9a0915b",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 2580,
+                      "height": 3540,
+                      "sizes": [
+                        {
+                          "width": 161,
+                          "height": 221
+                        },
+                        {
+                          "width": 322,
+                          "height": 442
+                        },
+                        {
+                          "width": 645,
+                          "height": 885
+                        },
+                        {
+                          "width": 1290,
+                          "height": 1770
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "74d5161b-5d52-c2b6-339c-8cb2b9a0915b"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
