@@ -1,0 +1,3789 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json",
+    "type": "Manifest",
+    "label": {
+      "en": [
+        "Architectenbureau Van den Broek en Bakema, Stadion Feijenoord (BROX290)"
+      ]
+    },
+    "items": [
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/0",
+        "type": "Canvas",
+        "height": 6087,
+        "width": 8972,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/0/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/00bf2b35-4212-f578-ceaa-60d12c442843",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/0",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/00bf2b35-4212-f578-ceaa-60d12c442843/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 6087,
+                  "width": 8972,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/00bf2b35-4212-f578-ceaa-60d12c442843",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 8972,
+                      "height": 6087,
+                      "sizes": [
+                        {
+                          "width": 140,
+                          "height": 95
+                        },
+                        {
+                          "width": 280,
+                          "height": 190
+                        },
+                        {
+                          "width": 560,
+                          "height": 380
+                        },
+                        {
+                          "width": 1121,
+                          "height": 760
+                        },
+                        {
+                          "width": 2243,
+                          "height": 1521
+                        },
+                        {
+                          "width": 4486,
+                          "height": 3043
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "00bf2b35-4212-f578-ceaa-60d12c442843"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/1",
+        "type": "Canvas",
+        "height": 2255,
+        "width": 3263,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/1/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/fe4f4aa5-a3ee-9531-6e5d-745a47342512",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/1",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/fe4f4aa5-a3ee-9531-6e5d-745a47342512/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 2255,
+                  "width": 3263,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/fe4f4aa5-a3ee-9531-6e5d-745a47342512",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 3263,
+                      "height": 2255,
+                      "sizes": [
+                        {
+                          "width": 203,
+                          "height": 140
+                        },
+                        {
+                          "width": 407,
+                          "height": 281
+                        },
+                        {
+                          "width": 815,
+                          "height": 563
+                        },
+                        {
+                          "width": 1631,
+                          "height": 1127
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "fe4f4aa5-a3ee-9531-6e5d-745a47342512"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/2",
+        "type": "Canvas",
+        "height": 2586,
+        "width": 2944,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/2/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/2e7da3f8-8ba7-713f-2b84-44cec883b408",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/2",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/2e7da3f8-8ba7-713f-2b84-44cec883b408/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 2586,
+                  "width": 2944,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/2e7da3f8-8ba7-713f-2b84-44cec883b408",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 2944,
+                      "height": 2586,
+                      "sizes": [
+                        {
+                          "width": 184,
+                          "height": 161
+                        },
+                        {
+                          "width": 368,
+                          "height": 323
+                        },
+                        {
+                          "width": 736,
+                          "height": 646
+                        },
+                        {
+                          "width": 1472,
+                          "height": 1293
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "2e7da3f8-8ba7-713f-2b84-44cec883b408"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/3",
+        "type": "Canvas",
+        "height": 5207,
+        "width": 6382,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/3/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/ca9d06f2-9f00-07c8-4560-c5f2482aa54b",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/3",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/ca9d06f2-9f00-07c8-4560-c5f2482aa54b/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5207,
+                  "width": 6382,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/ca9d06f2-9f00-07c8-4560-c5f2482aa54b",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 6382,
+                      "height": 5207,
+                      "sizes": [
+                        {
+                          "width": 199,
+                          "height": 162
+                        },
+                        {
+                          "width": 398,
+                          "height": 325
+                        },
+                        {
+                          "width": 797,
+                          "height": 650
+                        },
+                        {
+                          "width": 1595,
+                          "height": 1301
+                        },
+                        {
+                          "width": 3191,
+                          "height": 2603
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "ca9d06f2-9f00-07c8-4560-c5f2482aa54b"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/4",
+        "type": "Canvas",
+        "height": 4883,
+        "width": 6655,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/4/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/3ecaf989-15a3-ca1c-4286-029f882bc903",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/4",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/3ecaf989-15a3-ca1c-4286-029f882bc903/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 4883,
+                  "width": 6655,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/3ecaf989-15a3-ca1c-4286-029f882bc903",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 6655,
+                      "height": 4883,
+                      "sizes": [
+                        {
+                          "width": 207,
+                          "height": 152
+                        },
+                        {
+                          "width": 415,
+                          "height": 305
+                        },
+                        {
+                          "width": 831,
+                          "height": 610
+                        },
+                        {
+                          "width": 1663,
+                          "height": 1220
+                        },
+                        {
+                          "width": 3327,
+                          "height": 2441
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "3ecaf989-15a3-ca1c-4286-029f882bc903"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/5",
+        "type": "Canvas",
+        "height": 6782,
+        "width": 8960,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/5/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/fb54cad1-3d90-fb33-864a-f2b95489bafa",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/5",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/fb54cad1-3d90-fb33-864a-f2b95489bafa/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 6782,
+                  "width": 8960,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/fb54cad1-3d90-fb33-864a-f2b95489bafa",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 8960,
+                      "height": 6782,
+                      "sizes": [
+                        {
+                          "width": 140,
+                          "height": 105
+                        },
+                        {
+                          "width": 280,
+                          "height": 211
+                        },
+                        {
+                          "width": 560,
+                          "height": 423
+                        },
+                        {
+                          "width": 1120,
+                          "height": 847
+                        },
+                        {
+                          "width": 2240,
+                          "height": 1695
+                        },
+                        {
+                          "width": 4480,
+                          "height": 3391
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "fb54cad1-3d90-fb33-864a-f2b95489bafa"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/6",
+        "type": "Canvas",
+        "height": 3428,
+        "width": 4281,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/6/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/7d3b2b6e-b473-5b68-efa1-2587356dfc46",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/6",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/7d3b2b6e-b473-5b68-efa1-2587356dfc46/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3428,
+                  "width": 4281,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/7d3b2b6e-b473-5b68-efa1-2587356dfc46",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4281,
+                      "height": 3428,
+                      "sizes": [
+                        {
+                          "width": 133,
+                          "height": 107
+                        },
+                        {
+                          "width": 267,
+                          "height": 214
+                        },
+                        {
+                          "width": 535,
+                          "height": 428
+                        },
+                        {
+                          "width": 1070,
+                          "height": 857
+                        },
+                        {
+                          "width": 2140,
+                          "height": 1714
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "7d3b2b6e-b473-5b68-efa1-2587356dfc46"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/7",
+        "type": "Canvas",
+        "height": 3440,
+        "width": 4311,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/7/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/3b764daf-b9f7-d216-b825-6feebad3a85d",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/7",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/3b764daf-b9f7-d216-b825-6feebad3a85d/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3440,
+                  "width": 4311,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/3b764daf-b9f7-d216-b825-6feebad3a85d",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4311,
+                      "height": 3440,
+                      "sizes": [
+                        {
+                          "width": 134,
+                          "height": 107
+                        },
+                        {
+                          "width": 269,
+                          "height": 215
+                        },
+                        {
+                          "width": 538,
+                          "height": 430
+                        },
+                        {
+                          "width": 1077,
+                          "height": 860
+                        },
+                        {
+                          "width": 2155,
+                          "height": 1720
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "3b764daf-b9f7-d216-b825-6feebad3a85d"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/8",
+        "type": "Canvas",
+        "height": 3440,
+        "width": 4326,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/8/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/cf85fdc8-7583-111d-ce29-5b17c402ae7a",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/8",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/cf85fdc8-7583-111d-ce29-5b17c402ae7a/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3440,
+                  "width": 4326,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/cf85fdc8-7583-111d-ce29-5b17c402ae7a",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4326,
+                      "height": 3440,
+                      "sizes": [
+                        {
+                          "width": 135,
+                          "height": 107
+                        },
+                        {
+                          "width": 270,
+                          "height": 215
+                        },
+                        {
+                          "width": 540,
+                          "height": 430
+                        },
+                        {
+                          "width": 1081,
+                          "height": 860
+                        },
+                        {
+                          "width": 2163,
+                          "height": 1720
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "cf85fdc8-7583-111d-ce29-5b17c402ae7a"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/9",
+        "type": "Canvas",
+        "height": 7382,
+        "width": 10672,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/9/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/a208b03d-969e-7fe7-83e7-5cbf19a58042",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/9",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/a208b03d-969e-7fe7-83e7-5cbf19a58042/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 7382,
+                  "width": 10672,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/a208b03d-969e-7fe7-83e7-5cbf19a58042",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 10672,
+                      "height": 7382,
+                      "sizes": [
+                        {
+                          "width": 166,
+                          "height": 115
+                        },
+                        {
+                          "width": 333,
+                          "height": 230
+                        },
+                        {
+                          "width": 667,
+                          "height": 461
+                        },
+                        {
+                          "width": 1334,
+                          "height": 922
+                        },
+                        {
+                          "width": 2668,
+                          "height": 1845
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "a208b03d-969e-7fe7-83e7-5cbf19a58042"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/10",
+        "type": "Canvas",
+        "height": 7358,
+        "width": 10788,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/10/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/e201a1d1-3bed-ad53-918f-7d0f144a199a",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/10",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/e201a1d1-3bed-ad53-918f-7d0f144a199a/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 7358,
+                  "width": 10788,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/e201a1d1-3bed-ad53-918f-7d0f144a199a",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 10788,
+                      "height": 7358,
+                      "sizes": [
+                        {
+                          "width": 168,
+                          "height": 114
+                        },
+                        {
+                          "width": 337,
+                          "height": 229
+                        },
+                        {
+                          "width": 674,
+                          "height": 459
+                        },
+                        {
+                          "width": 1348,
+                          "height": 919
+                        },
+                        {
+                          "width": 2697,
+                          "height": 1839
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "e201a1d1-3bed-ad53-918f-7d0f144a199a"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/11",
+        "type": "Canvas",
+        "height": 4242,
+        "width": 9216,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/11/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/64403175-0b77-1437-1d47-0edd013a5963",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/11",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/64403175-0b77-1437-1d47-0edd013a5963/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 4242,
+                  "width": 9216,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/64403175-0b77-1437-1d47-0edd013a5963",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 9216,
+                      "height": 4242,
+                      "sizes": [
+                        {
+                          "width": 144,
+                          "height": 66
+                        },
+                        {
+                          "width": 288,
+                          "height": 132
+                        },
+                        {
+                          "width": 576,
+                          "height": 265
+                        },
+                        {
+                          "width": 1152,
+                          "height": 530
+                        },
+                        {
+                          "width": 2304,
+                          "height": 1060
+                        },
+                        {
+                          "width": 4608,
+                          "height": 2121
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "64403175-0b77-1437-1d47-0edd013a5963"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/12",
+        "type": "Canvas",
+        "height": 4026,
+        "width": 9896,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/12/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/37b1d5df-40f4-de19-34f9-fb32712e6848",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/12",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/37b1d5df-40f4-de19-34f9-fb32712e6848/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 4026,
+                  "width": 9896,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/37b1d5df-40f4-de19-34f9-fb32712e6848",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 9896,
+                      "height": 4026,
+                      "sizes": [
+                        {
+                          "width": 154,
+                          "height": 62
+                        },
+                        {
+                          "width": 309,
+                          "height": 125
+                        },
+                        {
+                          "width": 618,
+                          "height": 251
+                        },
+                        {
+                          "width": 1237,
+                          "height": 503
+                        },
+                        {
+                          "width": 2474,
+                          "height": 1006
+                        },
+                        {
+                          "width": 4948,
+                          "height": 2013
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "37b1d5df-40f4-de19-34f9-fb32712e6848"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/13",
+        "type": "Canvas",
+        "height": 7358,
+        "width": 10965,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/13/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/53979420-93aa-5e6e-11ac-e693b12f1253",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/13",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/53979420-93aa-5e6e-11ac-e693b12f1253/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 7358,
+                  "width": 10965,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/53979420-93aa-5e6e-11ac-e693b12f1253",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 10965,
+                      "height": 7358,
+                      "sizes": [
+                        {
+                          "width": 171,
+                          "height": 114
+                        },
+                        {
+                          "width": 342,
+                          "height": 229
+                        },
+                        {
+                          "width": 685,
+                          "height": 459
+                        },
+                        {
+                          "width": 1370,
+                          "height": 919
+                        },
+                        {
+                          "width": 2741,
+                          "height": 1839
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "53979420-93aa-5e6e-11ac-e693b12f1253"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/14",
+        "type": "Canvas",
+        "height": 7262,
+        "width": 9046,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/14/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/f27e61ba-5560-dff3-b1e2-734a84ecf14d",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/14",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/f27e61ba-5560-dff3-b1e2-734a84ecf14d/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 7262,
+                  "width": 9046,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/f27e61ba-5560-dff3-b1e2-734a84ecf14d",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 9046,
+                      "height": 7262,
+                      "sizes": [
+                        {
+                          "width": 141,
+                          "height": 113
+                        },
+                        {
+                          "width": 282,
+                          "height": 226
+                        },
+                        {
+                          "width": 565,
+                          "height": 453
+                        },
+                        {
+                          "width": 1130,
+                          "height": 907
+                        },
+                        {
+                          "width": 2261,
+                          "height": 1815
+                        },
+                        {
+                          "width": 4523,
+                          "height": 3631
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "f27e61ba-5560-dff3-b1e2-734a84ecf14d"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/15",
+        "type": "Canvas",
+        "height": 7262,
+        "width": 9982,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/15/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/7e6eacf2-1c20-bf94-cfc9-c0d4d987b995",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/15",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/7e6eacf2-1c20-bf94-cfc9-c0d4d987b995/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 7262,
+                  "width": 9982,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/7e6eacf2-1c20-bf94-cfc9-c0d4d987b995",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 9982,
+                      "height": 7262,
+                      "sizes": [
+                        {
+                          "width": 155,
+                          "height": 113
+                        },
+                        {
+                          "width": 311,
+                          "height": 226
+                        },
+                        {
+                          "width": 623,
+                          "height": 453
+                        },
+                        {
+                          "width": 1247,
+                          "height": 907
+                        },
+                        {
+                          "width": 2495,
+                          "height": 1815
+                        },
+                        {
+                          "width": 4991,
+                          "height": 3631
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "7e6eacf2-1c20-bf94-cfc9-c0d4d987b995"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/16",
+        "type": "Canvas",
+        "height": 5230,
+        "width": 8841,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/16/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/1292686c-582d-4fc8-e15e-ad75ee88b2e7",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/16",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/1292686c-582d-4fc8-e15e-ad75ee88b2e7/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5230,
+                  "width": 8841,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/1292686c-582d-4fc8-e15e-ad75ee88b2e7",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 8841,
+                      "height": 5230,
+                      "sizes": [
+                        {
+                          "width": 138,
+                          "height": 81
+                        },
+                        {
+                          "width": 276,
+                          "height": 163
+                        },
+                        {
+                          "width": 552,
+                          "height": 326
+                        },
+                        {
+                          "width": 1105,
+                          "height": 653
+                        },
+                        {
+                          "width": 2210,
+                          "height": 1307
+                        },
+                        {
+                          "width": 4420,
+                          "height": 2615
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "1292686c-582d-4fc8-e15e-ad75ee88b2e7"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/17",
+        "type": "Canvas",
+        "height": 5009,
+        "width": 8788,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/17/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/aeaefefb-ac3c-2781-354a-960cf18e39f9",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/17",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/aeaefefb-ac3c-2781-354a-960cf18e39f9/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5009,
+                  "width": 8788,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/aeaefefb-ac3c-2781-354a-960cf18e39f9",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 8788,
+                      "height": 5009,
+                      "sizes": [
+                        {
+                          "width": 137,
+                          "height": 78
+                        },
+                        {
+                          "width": 274,
+                          "height": 156
+                        },
+                        {
+                          "width": 549,
+                          "height": 313
+                        },
+                        {
+                          "width": 1098,
+                          "height": 626
+                        },
+                        {
+                          "width": 2197,
+                          "height": 1252
+                        },
+                        {
+                          "width": 4394,
+                          "height": 2504
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "aeaefefb-ac3c-2781-354a-960cf18e39f9"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/18",
+        "type": "Canvas",
+        "height": 5159,
+        "width": 7238,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/18/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/de6ad270-f2f6-70e7-8e6d-aa83198fca8e",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/18",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/de6ad270-f2f6-70e7-8e6d-aa83198fca8e/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5159,
+                  "width": 7238,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/de6ad270-f2f6-70e7-8e6d-aa83198fca8e",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 7238,
+                      "height": 5159,
+                      "sizes": [
+                        {
+                          "width": 226,
+                          "height": 161
+                        },
+                        {
+                          "width": 452,
+                          "height": 322
+                        },
+                        {
+                          "width": 904,
+                          "height": 644
+                        },
+                        {
+                          "width": 1809,
+                          "height": 1289
+                        },
+                        {
+                          "width": 3619,
+                          "height": 2579
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "de6ad270-f2f6-70e7-8e6d-aa83198fca8e"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/19",
+        "type": "Canvas",
+        "height": 5180,
+        "width": 8788,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/19/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/9f4202e8-5c83-b758-fe7e-2904f3ed6db7",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/19",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/9f4202e8-5c83-b758-fe7e-2904f3ed6db7/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5180,
+                  "width": 8788,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/9f4202e8-5c83-b758-fe7e-2904f3ed6db7",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 8788,
+                      "height": 5180,
+                      "sizes": [
+                        {
+                          "width": 137,
+                          "height": 80
+                        },
+                        {
+                          "width": 274,
+                          "height": 161
+                        },
+                        {
+                          "width": 549,
+                          "height": 323
+                        },
+                        {
+                          "width": 1098,
+                          "height": 647
+                        },
+                        {
+                          "width": 2197,
+                          "height": 1295
+                        },
+                        {
+                          "width": 4394,
+                          "height": 2590
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "9f4202e8-5c83-b758-fe7e-2904f3ed6db7"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/20",
+        "type": "Canvas",
+        "height": 7310,
+        "width": 9525,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/20/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/4b721882-407d-4dea-1e2d-1ccabbfc4dcd",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/20",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/4b721882-407d-4dea-1e2d-1ccabbfc4dcd/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 7310,
+                  "width": 9525,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/4b721882-407d-4dea-1e2d-1ccabbfc4dcd",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 9525,
+                      "height": 7310,
+                      "sizes": [
+                        {
+                          "width": 148,
+                          "height": 114
+                        },
+                        {
+                          "width": 297,
+                          "height": 228
+                        },
+                        {
+                          "width": 595,
+                          "height": 456
+                        },
+                        {
+                          "width": 1190,
+                          "height": 913
+                        },
+                        {
+                          "width": 2381,
+                          "height": 1827
+                        },
+                        {
+                          "width": 4762,
+                          "height": 3655
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "4b721882-407d-4dea-1e2d-1ccabbfc4dcd"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/21",
+        "type": "Canvas",
+        "height": 5129,
+        "width": 8755,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/21/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/2fd41da5-8137-95cb-acd3-ea0682baba8f",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/21",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/2fd41da5-8137-95cb-acd3-ea0682baba8f/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5129,
+                  "width": 8755,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/2fd41da5-8137-95cb-acd3-ea0682baba8f",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 8755,
+                      "height": 5129,
+                      "sizes": [
+                        {
+                          "width": 136,
+                          "height": 80
+                        },
+                        {
+                          "width": 273,
+                          "height": 160
+                        },
+                        {
+                          "width": 547,
+                          "height": 320
+                        },
+                        {
+                          "width": 1094,
+                          "height": 641
+                        },
+                        {
+                          "width": 2188,
+                          "height": 1282
+                        },
+                        {
+                          "width": 4377,
+                          "height": 2564
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "2fd41da5-8137-95cb-acd3-ea0682baba8f"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/22",
+        "type": "Canvas",
+        "height": 5087,
+        "width": 7346,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/22/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/775fe4a3-e075-dc0f-193f-7626bbc0d58f",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/22",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/775fe4a3-e075-dc0f-193f-7626bbc0d58f/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5087,
+                  "width": 7346,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/775fe4a3-e075-dc0f-193f-7626bbc0d58f",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 7346,
+                      "height": 5087,
+                      "sizes": [
+                        {
+                          "width": 229,
+                          "height": 158
+                        },
+                        {
+                          "width": 459,
+                          "height": 317
+                        },
+                        {
+                          "width": 918,
+                          "height": 635
+                        },
+                        {
+                          "width": 1836,
+                          "height": 1271
+                        },
+                        {
+                          "width": 3673,
+                          "height": 2543
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "775fe4a3-e075-dc0f-193f-7626bbc0d58f"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/23",
+        "type": "Canvas",
+        "height": 3622,
+        "width": 6027,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/23/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/fd42a9aa-a442-b649-7e84-587b1e002977",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/23",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/fd42a9aa-a442-b649-7e84-587b1e002977/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3622,
+                  "width": 6027,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/fd42a9aa-a442-b649-7e84-587b1e002977",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 6027,
+                      "height": 3622,
+                      "sizes": [
+                        {
+                          "width": 188,
+                          "height": 113
+                        },
+                        {
+                          "width": 376,
+                          "height": 226
+                        },
+                        {
+                          "width": 753,
+                          "height": 452
+                        },
+                        {
+                          "width": 1506,
+                          "height": 905
+                        },
+                        {
+                          "width": 3013,
+                          "height": 1811
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "fd42a9aa-a442-b649-7e84-587b1e002977"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/24",
+        "type": "Canvas",
+        "height": 6129,
+        "width": 10435,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/24/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/1c899352-102d-0d52-7fe5-fbebae5ac7a1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/24",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/1c899352-102d-0d52-7fe5-fbebae5ac7a1/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 6129,
+                  "width": 10435,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/1c899352-102d-0d52-7fe5-fbebae5ac7a1",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 10435,
+                      "height": 6129,
+                      "sizes": [
+                        {
+                          "width": 163,
+                          "height": 95
+                        },
+                        {
+                          "width": 326,
+                          "height": 191
+                        },
+                        {
+                          "width": 652,
+                          "height": 383
+                        },
+                        {
+                          "width": 1304,
+                          "height": 766
+                        },
+                        {
+                          "width": 2608,
+                          "height": 1532
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "1c899352-102d-0d52-7fe5-fbebae5ac7a1"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/25",
+        "type": "Canvas",
+        "height": 7310,
+        "width": 10245,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/25/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/10c7d8fb-793a-a413-bfc6-61210f2ddf2c",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/25",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/10c7d8fb-793a-a413-bfc6-61210f2ddf2c/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 7310,
+                  "width": 10245,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/10c7d8fb-793a-a413-bfc6-61210f2ddf2c",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 10245,
+                      "height": 7310,
+                      "sizes": [
+                        {
+                          "width": 160,
+                          "height": 114
+                        },
+                        {
+                          "width": 320,
+                          "height": 228
+                        },
+                        {
+                          "width": 640,
+                          "height": 456
+                        },
+                        {
+                          "width": 1280,
+                          "height": 913
+                        },
+                        {
+                          "width": 2561,
+                          "height": 1827
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "10c7d8fb-793a-a413-bfc6-61210f2ddf2c"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/26",
+        "type": "Canvas",
+        "height": 4897,
+        "width": 7202,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/26/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/81144cc9-11f0-663d-34f0-3c2cd2b3f026",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/26",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/81144cc9-11f0-663d-34f0-3c2cd2b3f026/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 4897,
+                  "width": 7202,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/81144cc9-11f0-663d-34f0-3c2cd2b3f026",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 7202,
+                      "height": 4897,
+                      "sizes": [
+                        {
+                          "width": 225,
+                          "height": 153
+                        },
+                        {
+                          "width": 450,
+                          "height": 306
+                        },
+                        {
+                          "width": 900,
+                          "height": 612
+                        },
+                        {
+                          "width": 1800,
+                          "height": 1224
+                        },
+                        {
+                          "width": 3601,
+                          "height": 2448
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "81144cc9-11f0-663d-34f0-3c2cd2b3f026"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/27",
+        "type": "Canvas",
+        "height": 5047,
+        "width": 7202,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/27/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/c01f6344-1ac8-b15f-1cc8-8b3e53bffc4c",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/27",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/c01f6344-1ac8-b15f-1cc8-8b3e53bffc4c/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 5047,
+                  "width": 7202,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/c01f6344-1ac8-b15f-1cc8-8b3e53bffc4c",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 7202,
+                      "height": 5047,
+                      "sizes": [
+                        {
+                          "width": 225,
+                          "height": 157
+                        },
+                        {
+                          "width": 450,
+                          "height": 315
+                        },
+                        {
+                          "width": 900,
+                          "height": 630
+                        },
+                        {
+                          "width": 1800,
+                          "height": 1261
+                        },
+                        {
+                          "width": 3601,
+                          "height": 2523
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "c01f6344-1ac8-b15f-1cc8-8b3e53bffc4c"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/28",
+        "type": "Canvas",
+        "height": 6088,
+        "width": 9884,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/28/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/e0d5ba6b-dc81-0101-2903-b20c3955f8b9",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/28",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/e0d5ba6b-dc81-0101-2903-b20c3955f8b9/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 6088,
+                  "width": 9884,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/e0d5ba6b-dc81-0101-2903-b20c3955f8b9",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 9884,
+                      "height": 6088,
+                      "sizes": [
+                        {
+                          "width": 154,
+                          "height": 95
+                        },
+                        {
+                          "width": 308,
+                          "height": 190
+                        },
+                        {
+                          "width": 617,
+                          "height": 380
+                        },
+                        {
+                          "width": 1235,
+                          "height": 761
+                        },
+                        {
+                          "width": 2471,
+                          "height": 1522
+                        },
+                        {
+                          "width": 4942,
+                          "height": 3044
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "e0d5ba6b-dc81-0101-2903-b20c3955f8b9"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/29",
+        "type": "Canvas",
+        "height": 6116,
+        "width": 8829,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/29/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/5d0dbdc6-78ff-2848-6bd2-428335849d56",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/29",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/5d0dbdc6-78ff-2848-6bd2-428335849d56/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 6116,
+                  "width": 8829,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/5d0dbdc6-78ff-2848-6bd2-428335849d56",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 8829,
+                      "height": 6116,
+                      "sizes": [
+                        {
+                          "width": 137,
+                          "height": 95
+                        },
+                        {
+                          "width": 275,
+                          "height": 191
+                        },
+                        {
+                          "width": 551,
+                          "height": 382
+                        },
+                        {
+                          "width": 1103,
+                          "height": 764
+                        },
+                        {
+                          "width": 2207,
+                          "height": 1529
+                        },
+                        {
+                          "width": 4414,
+                          "height": 3058
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "5d0dbdc6-78ff-2848-6bd2-428335849d56"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/30",
+        "type": "Canvas",
+        "height": 3900,
+        "width": 4151,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/30/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/806cc5cc-7ec2-a973-99a0-7f2813222344",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/30",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/806cc5cc-7ec2-a973-99a0-7f2813222344/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3900,
+                  "width": 4151,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/806cc5cc-7ec2-a973-99a0-7f2813222344",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4151,
+                      "height": 3900,
+                      "sizes": [
+                        {
+                          "width": 129,
+                          "height": 121
+                        },
+                        {
+                          "width": 259,
+                          "height": 243
+                        },
+                        {
+                          "width": 518,
+                          "height": 487
+                        },
+                        {
+                          "width": 1037,
+                          "height": 975
+                        },
+                        {
+                          "width": 2075,
+                          "height": 1950
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "806cc5cc-7ec2-a973-99a0-7f2813222344"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/31",
+        "type": "Canvas",
+        "height": 4481,
+        "width": 5904,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/31/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/544fcea9-a3dd-040b-26b3-e9e4ba2a2fd2",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/31",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/544fcea9-a3dd-040b-26b3-e9e4ba2a2fd2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 4481,
+                  "width": 5904,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/544fcea9-a3dd-040b-26b3-e9e4ba2a2fd2",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 5904,
+                      "height": 4481,
+                      "sizes": [
+                        {
+                          "width": 184,
+                          "height": 140
+                        },
+                        {
+                          "width": 369,
+                          "height": 280
+                        },
+                        {
+                          "width": 738,
+                          "height": 560
+                        },
+                        {
+                          "width": 1476,
+                          "height": 1120
+                        },
+                        {
+                          "width": 2952,
+                          "height": 2240
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "544fcea9-a3dd-040b-26b3-e9e4ba2a2fd2"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/32",
+        "type": "Canvas",
+        "height": 3835,
+        "width": 4255,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/32/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/0fa0ebc9-2b79-c474-3e2e-1fdf50aa5014",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/32",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/0fa0ebc9-2b79-c474-3e2e-1fdf50aa5014/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3835,
+                  "width": 4255,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/0fa0ebc9-2b79-c474-3e2e-1fdf50aa5014",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4255,
+                      "height": 3835,
+                      "sizes": [
+                        {
+                          "width": 132,
+                          "height": 119
+                        },
+                        {
+                          "width": 265,
+                          "height": 239
+                        },
+                        {
+                          "width": 531,
+                          "height": 479
+                        },
+                        {
+                          "width": 1063,
+                          "height": 958
+                        },
+                        {
+                          "width": 2127,
+                          "height": 1917
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "0fa0ebc9-2b79-c474-3e2e-1fdf50aa5014"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/33",
+        "type": "Canvas",
+        "height": 7350,
+        "width": 11395,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/33/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/abd06261-9d61-6411-a1a6-b0af9a57b80c",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/33",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/abd06261-9d61-6411-a1a6-b0af9a57b80c/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 7350,
+                  "width": 11395,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/abd06261-9d61-6411-a1a6-b0af9a57b80c",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 11395,
+                      "height": 7350,
+                      "sizes": [
+                        {
+                          "width": 178,
+                          "height": 114
+                        },
+                        {
+                          "width": 356,
+                          "height": 229
+                        },
+                        {
+                          "width": 712,
+                          "height": 459
+                        },
+                        {
+                          "width": 1424,
+                          "height": 918
+                        },
+                        {
+                          "width": 2848,
+                          "height": 1837
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "abd06261-9d61-6411-a1a6-b0af9a57b80c"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/34",
+        "type": "Canvas",
+        "height": 4014,
+        "width": 6236,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/34/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/3377880e-f2c4-2b3b-3a51-15d9b0d76dfc",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/34",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/3377880e-f2c4-2b3b-3a51-15d9b0d76dfc/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 4014,
+                  "width": 6236,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/3377880e-f2c4-2b3b-3a51-15d9b0d76dfc",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 6236,
+                      "height": 4014,
+                      "sizes": [
+                        {
+                          "width": 194,
+                          "height": 125
+                        },
+                        {
+                          "width": 389,
+                          "height": 250
+                        },
+                        {
+                          "width": 779,
+                          "height": 501
+                        },
+                        {
+                          "width": 1559,
+                          "height": 1003
+                        },
+                        {
+                          "width": 3118,
+                          "height": 2007
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "3377880e-f2c4-2b3b-3a51-15d9b0d76dfc"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/35",
+        "type": "Canvas",
+        "height": 7334,
+        "width": 9541,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/35/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/87701303-3209-9ff3-4f88-2108c837be0e",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/35",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/87701303-3209-9ff3-4f88-2108c837be0e/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 7334,
+                  "width": 9541,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/87701303-3209-9ff3-4f88-2108c837be0e",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 9541,
+                      "height": 7334,
+                      "sizes": [
+                        {
+                          "width": 149,
+                          "height": 114
+                        },
+                        {
+                          "width": 298,
+                          "height": 229
+                        },
+                        {
+                          "width": 596,
+                          "height": 458
+                        },
+                        {
+                          "width": 1192,
+                          "height": 916
+                        },
+                        {
+                          "width": 2385,
+                          "height": 1833
+                        },
+                        {
+                          "width": 4770,
+                          "height": 3667
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "87701303-3209-9ff3-4f88-2108c837be0e"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/36",
+        "type": "Canvas",
+        "height": 3396,
+        "width": 4252,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/36/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/879e3769-c83a-2ab9-820c-28d527c3304f",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/36",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/879e3769-c83a-2ab9-820c-28d527c3304f/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3396,
+                  "width": 4252,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/879e3769-c83a-2ab9-820c-28d527c3304f",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 4252,
+                      "height": 3396,
+                      "sizes": [
+                        {
+                          "width": 132,
+                          "height": 106
+                        },
+                        {
+                          "width": 265,
+                          "height": 212
+                        },
+                        {
+                          "width": 531,
+                          "height": 424
+                        },
+                        {
+                          "width": 1063,
+                          "height": 849
+                        },
+                        {
+                          "width": 2126,
+                          "height": 1698
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "879e3769-c83a-2ab9-820c-28d527c3304f"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/37",
+        "type": "Canvas",
+        "height": 6926,
+        "width": 9477,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/37/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/ff94cc7d-1ef1-6323-6aac-00cd7cde20da",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/37",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/ff94cc7d-1ef1-6323-6aac-00cd7cde20da/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 6926,
+                  "width": 9477,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/ff94cc7d-1ef1-6323-6aac-00cd7cde20da",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 9477,
+                      "height": 6926,
+                      "sizes": [
+                        {
+                          "width": 148,
+                          "height": 108
+                        },
+                        {
+                          "width": 296,
+                          "height": 216
+                        },
+                        {
+                          "width": 592,
+                          "height": 432
+                        },
+                        {
+                          "width": 1184,
+                          "height": 865
+                        },
+                        {
+                          "width": 2369,
+                          "height": 1731
+                        },
+                        {
+                          "width": 4738,
+                          "height": 3463
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "ff94cc7d-1ef1-6323-6aac-00cd7cde20da"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/38",
+        "type": "Canvas",
+        "height": 4027,
+        "width": 10229,
+        "items": [
+          {
+            "id": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/38/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://images.memorix.nl/nai/iiif/b15a9210-4b19-c836-d641-ef9c9198cedf",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://sammeltassen.nl/iiif-manifests/hni/brox/BROX290.json/canvas/38",
+                "body": {
+                  "id": "https://images.memorix.nl/nai/iiif/b15a9210-4b19-c836-d641-ef9c9198cedf/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 4027,
+                  "width": 10229,
+                  "service": [
+                    {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://images.memorix.nl/nai/iiif/b15a9210-4b19-c836-d641-ef9c9198cedf",
+                      "protocol": "http://iiif.io/api/image",
+                      "width": 10229,
+                      "height": 4027,
+                      "sizes": [
+                        {
+                          "width": 159,
+                          "height": 62
+                        },
+                        {
+                          "width": 319,
+                          "height": 125
+                        },
+                        {
+                          "width": 639,
+                          "height": 251
+                        },
+                        {
+                          "width": 1278,
+                          "height": 503
+                        },
+                        {
+                          "width": 2557,
+                          "height": 1006
+                        }
+                      ],
+                      "tiles": [
+                        {
+                          "width": 256,
+                          "height": 256,
+                          "scaleFactors": [
+                            1,
+                            2,
+                            4,
+                            8,
+                            16,
+                            32,
+                            64
+                          ]
+                        }
+                      ],
+                      "profile": [
+                        "http://iiif.io/api/image/2/level1.json",
+                        {
+                          "formats": [
+                            "jpg"
+                          ],
+                          "qualities": [
+                            "native",
+                            "color",
+                            "gray"
+                          ],
+                          "supports": [
+                            "regionByPct",
+                            "regionSquare",
+                            "sizeByForcedWh",
+                            "sizeByWh",
+                            "sizeAboveFull",
+                            "rotationBy90s",
+                            "mirroring"
+                          ]
+                        }
+                      ],
+                      "identifier": "b15a9210-4b19-c836-d641-ef9c9198cedf"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
