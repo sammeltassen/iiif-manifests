@@ -1,1 +1,1 @@
-# Testing IIIF-manifests
+# Testing IIIF-manifests and Georeference Annotations
