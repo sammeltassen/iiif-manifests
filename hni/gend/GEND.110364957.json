@@ -1,0 +1,1647 @@
+{
+  "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json",
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Kantoorgebouw Ned. Handels Mij., Nieuwe Spiegelstraat en Herengracht 466, Amsterdam (GEND.110364957)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://images.memorix.nl/nai/iiif/8bb989cd-a902-69cc-79bd-c0853c23d967/info.json",
+      "type": "Canvas",
+      "width": 6230,
+      "height": 4336,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/8bb989cd-a902-69cc-79bd-c0853c23d967/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/8bb989cd-a902-69cc-79bd-c0853c23d967/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/8bb989cd-a902-69cc-79bd-c0853c23d967/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 6230,
+                "height": 4336,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/8bb989cd-a902-69cc-79bd-c0853c23d967",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/cb0f0b70-f031-f422-9e41-196354a7d89f/info.json",
+      "type": "Canvas",
+      "width": 4018,
+      "height": 5348,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/cb0f0b70-f031-f422-9e41-196354a7d89f/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/cb0f0b70-f031-f422-9e41-196354a7d89f/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/cb0f0b70-f031-f422-9e41-196354a7d89f/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4018,
+                "height": 5348,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/cb0f0b70-f031-f422-9e41-196354a7d89f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/9cdb4eaa-d34f-c877-7672-a31a0f0ee6e6/info.json",
+      "type": "Canvas",
+      "width": 7922,
+      "height": 6020,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/9cdb4eaa-d34f-c877-7672-a31a0f0ee6e6/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/9cdb4eaa-d34f-c877-7672-a31a0f0ee6e6/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/9cdb4eaa-d34f-c877-7672-a31a0f0ee6e6/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 7922,
+                "height": 6020,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/9cdb4eaa-d34f-c877-7672-a31a0f0ee6e6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/f025334a-3608-8928-2f3c-3c019525542e/info.json",
+      "type": "Canvas",
+      "width": 5324,
+      "height": 5495,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/f025334a-3608-8928-2f3c-3c019525542e/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/f025334a-3608-8928-2f3c-3c019525542e/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/f025334a-3608-8928-2f3c-3c019525542e/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5324,
+                "height": 5495,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/f025334a-3608-8928-2f3c-3c019525542e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/9890b24c-4c9b-d576-3a0f-c851841d60c5/info.json",
+      "type": "Canvas",
+      "width": 6112,
+      "height": 4969,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/9890b24c-4c9b-d576-3a0f-c851841d60c5/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/9890b24c-4c9b-d576-3a0f-c851841d60c5/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/9890b24c-4c9b-d576-3a0f-c851841d60c5/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 6112,
+                "height": 4969,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/9890b24c-4c9b-d576-3a0f-c851841d60c5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/ac0f2a3e-70d3-585d-0b1e-b022ab8e4664/info.json",
+      "type": "Canvas",
+      "width": 4357,
+      "height": 5926,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/ac0f2a3e-70d3-585d-0b1e-b022ab8e4664/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/ac0f2a3e-70d3-585d-0b1e-b022ab8e4664/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/ac0f2a3e-70d3-585d-0b1e-b022ab8e4664/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4357,
+                "height": 5926,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/ac0f2a3e-70d3-585d-0b1e-b022ab8e4664",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/fe946736-8f96-ac68-b165-27827ccc9b39/info.json",
+      "type": "Canvas",
+      "width": 4344,
+      "height": 5880,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/fe946736-8f96-ac68-b165-27827ccc9b39/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/fe946736-8f96-ac68-b165-27827ccc9b39/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/fe946736-8f96-ac68-b165-27827ccc9b39/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4344,
+                "height": 5880,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/fe946736-8f96-ac68-b165-27827ccc9b39",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/50bf064e-3c42-4a46-e7cc-e02d117ff2c1/info.json",
+      "type": "Canvas",
+      "width": 4320,
+      "height": 5635,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/50bf064e-3c42-4a46-e7cc-e02d117ff2c1/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/50bf064e-3c42-4a46-e7cc-e02d117ff2c1/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/50bf064e-3c42-4a46-e7cc-e02d117ff2c1/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4320,
+                "height": 5635,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/50bf064e-3c42-4a46-e7cc-e02d117ff2c1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/7ce29d7b-2645-6edd-8fd1-076394093289/info.json",
+      "type": "Canvas",
+      "width": 6187,
+      "height": 3920,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/7ce29d7b-2645-6edd-8fd1-076394093289/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/7ce29d7b-2645-6edd-8fd1-076394093289/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/7ce29d7b-2645-6edd-8fd1-076394093289/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 6187,
+                "height": 3920,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/7ce29d7b-2645-6edd-8fd1-076394093289",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/3de1ebbb-d4c9-d659-49b7-0c8413ced560/info.json",
+      "type": "Canvas",
+      "width": 6506,
+      "height": 8850,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/3de1ebbb-d4c9-d659-49b7-0c8413ced560/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/3de1ebbb-d4c9-d659-49b7-0c8413ced560/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/3de1ebbb-d4c9-d659-49b7-0c8413ced560/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 6506,
+                "height": 8850,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/3de1ebbb-d4c9-d659-49b7-0c8413ced560",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/7dd177ad-2f70-5e80-e106-7f2a7708fb60/info.json",
+      "type": "Canvas",
+      "width": 4327,
+      "height": 5866,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/10",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/7dd177ad-2f70-5e80-e106-7f2a7708fb60/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/7dd177ad-2f70-5e80-e106-7f2a7708fb60/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/7dd177ad-2f70-5e80-e106-7f2a7708fb60/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4327,
+                "height": 5866,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/7dd177ad-2f70-5e80-e106-7f2a7708fb60",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/5211dff9-d4ee-f153-ca5e-b17eaa9604af/info.json",
+      "type": "Canvas",
+      "width": 5860,
+      "height": 4232,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/11",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/5211dff9-d4ee-f153-ca5e-b17eaa9604af/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/5211dff9-d4ee-f153-ca5e-b17eaa9604af/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/5211dff9-d4ee-f153-ca5e-b17eaa9604af/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5860,
+                "height": 4232,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/5211dff9-d4ee-f153-ca5e-b17eaa9604af",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/dd7f7cfe-87a8-7b24-354c-70299ea020c3/info.json",
+      "type": "Canvas",
+      "width": 5826,
+      "height": 4319,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/12",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/dd7f7cfe-87a8-7b24-354c-70299ea020c3/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/dd7f7cfe-87a8-7b24-354c-70299ea020c3/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/dd7f7cfe-87a8-7b24-354c-70299ea020c3/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5826,
+                "height": 4319,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/dd7f7cfe-87a8-7b24-354c-70299ea020c3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/ef493cee-f9c2-9cca-ad0f-d996cc7feaeb/info.json",
+      "type": "Canvas",
+      "width": 5932,
+      "height": 4337,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/13",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/ef493cee-f9c2-9cca-ad0f-d996cc7feaeb/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/ef493cee-f9c2-9cca-ad0f-d996cc7feaeb/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/ef493cee-f9c2-9cca-ad0f-d996cc7feaeb/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5932,
+                "height": 4337,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/ef493cee-f9c2-9cca-ad0f-d996cc7feaeb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/d683dd6b-fc24-e28f-663b-67772869695e/info.json",
+      "type": "Canvas",
+      "width": 4061,
+      "height": 4392,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/14",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/d683dd6b-fc24-e28f-663b-67772869695e/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/d683dd6b-fc24-e28f-663b-67772869695e/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/d683dd6b-fc24-e28f-663b-67772869695e/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4061,
+                "height": 4392,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/d683dd6b-fc24-e28f-663b-67772869695e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/f67c7966-b980-8d18-13aa-f3c1e02cbd84/info.json",
+      "type": "Canvas",
+      "width": 6144,
+      "height": 3840,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/15",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/f67c7966-b980-8d18-13aa-f3c1e02cbd84/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/f67c7966-b980-8d18-13aa-f3c1e02cbd84/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/f67c7966-b980-8d18-13aa-f3c1e02cbd84/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 6144,
+                "height": 3840,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/f67c7966-b980-8d18-13aa-f3c1e02cbd84",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/7543d9c4-daee-78d1-8547-e4a5def06012/info.json",
+      "type": "Canvas",
+      "width": 8100,
+      "height": 5337,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/16",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/7543d9c4-daee-78d1-8547-e4a5def06012/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/7543d9c4-daee-78d1-8547-e4a5def06012/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/7543d9c4-daee-78d1-8547-e4a5def06012/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 8100,
+                "height": 5337,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/7543d9c4-daee-78d1-8547-e4a5def06012",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/55196bb5-03ee-ed4e-b2f0-73b8afb99224/info.json",
+      "type": "Canvas",
+      "width": 4558,
+      "height": 6690,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/17",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/55196bb5-03ee-ed4e-b2f0-73b8afb99224/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/55196bb5-03ee-ed4e-b2f0-73b8afb99224/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/55196bb5-03ee-ed4e-b2f0-73b8afb99224/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4558,
+                "height": 6690,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/55196bb5-03ee-ed4e-b2f0-73b8afb99224",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/83c4e0e7-7b68-9bc3-8657-9645920d4080/info.json",
+      "type": "Canvas",
+      "width": 4821,
+      "height": 6861,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/18",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/83c4e0e7-7b68-9bc3-8657-9645920d4080/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/83c4e0e7-7b68-9bc3-8657-9645920d4080/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/83c4e0e7-7b68-9bc3-8657-9645920d4080/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4821,
+                "height": 6861,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/83c4e0e7-7b68-9bc3-8657-9645920d4080",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/8354e42b-5f0e-09fc-e5b3-7bdafb194ec9/info.json",
+      "type": "Canvas",
+      "width": 7180,
+      "height": 4905,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/19",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/8354e42b-5f0e-09fc-e5b3-7bdafb194ec9/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/8354e42b-5f0e-09fc-e5b3-7bdafb194ec9/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/8354e42b-5f0e-09fc-e5b3-7bdafb194ec9/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 7180,
+                "height": 4905,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/8354e42b-5f0e-09fc-e5b3-7bdafb194ec9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/b6fb4bf6-7080-6355-fca5-28fd1024a1a4/info.json",
+      "type": "Canvas",
+      "width": 5181,
+      "height": 6579,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/20",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/b6fb4bf6-7080-6355-fca5-28fd1024a1a4/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/b6fb4bf6-7080-6355-fca5-28fd1024a1a4/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/b6fb4bf6-7080-6355-fca5-28fd1024a1a4/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5181,
+                "height": 6579,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/b6fb4bf6-7080-6355-fca5-28fd1024a1a4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/1a78beec-9664-0f84-3d62-af1dd23e7026/info.json",
+      "type": "Canvas",
+      "width": 4312,
+      "height": 5920,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/21",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/1a78beec-9664-0f84-3d62-af1dd23e7026/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/1a78beec-9664-0f84-3d62-af1dd23e7026/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/1a78beec-9664-0f84-3d62-af1dd23e7026/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4312,
+                "height": 5920,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/1a78beec-9664-0f84-3d62-af1dd23e7026",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/3ca3dd98-4b9a-3099-a3c2-c5eb76b51740/info.json",
+      "type": "Canvas",
+      "width": 6035,
+      "height": 5582,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/22",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/3ca3dd98-4b9a-3099-a3c2-c5eb76b51740/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/3ca3dd98-4b9a-3099-a3c2-c5eb76b51740/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/3ca3dd98-4b9a-3099-a3c2-c5eb76b51740/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 6035,
+                "height": 5582,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/3ca3dd98-4b9a-3099-a3c2-c5eb76b51740",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/1ff74f43-2509-a90a-1828-6d8ddf66ede9/info.json",
+      "type": "Canvas",
+      "width": 8113,
+      "height": 5384,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/23",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/1ff74f43-2509-a90a-1828-6d8ddf66ede9/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/1ff74f43-2509-a90a-1828-6d8ddf66ede9/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/1ff74f43-2509-a90a-1828-6d8ddf66ede9/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 8113,
+                "height": 5384,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/1ff74f43-2509-a90a-1828-6d8ddf66ede9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/5f207aa3-4db1-18bb-5010-7b003d70e38d/info.json",
+      "type": "Canvas",
+      "width": 5472,
+      "height": 4049,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/24",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/5f207aa3-4db1-18bb-5010-7b003d70e38d/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/5f207aa3-4db1-18bb-5010-7b003d70e38d/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/5f207aa3-4db1-18bb-5010-7b003d70e38d/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5472,
+                "height": 4049,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/5f207aa3-4db1-18bb-5010-7b003d70e38d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/602bcffd-b4e5-f543-24d1-e8b4d35d12c5/info.json",
+      "type": "Canvas",
+      "width": 5208,
+      "height": 3896,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/25",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/602bcffd-b4e5-f543-24d1-e8b4d35d12c5/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/602bcffd-b4e5-f543-24d1-e8b4d35d12c5/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/602bcffd-b4e5-f543-24d1-e8b4d35d12c5/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5208,
+                "height": 3896,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/602bcffd-b4e5-f543-24d1-e8b4d35d12c5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/23bfb8be-f6c5-30d7-03cf-7d3dc4dcc768/info.json",
+      "type": "Canvas",
+      "width": 5544,
+      "height": 4056,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/26",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/23bfb8be-f6c5-30d7-03cf-7d3dc4dcc768/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/23bfb8be-f6c5-30d7-03cf-7d3dc4dcc768/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/23bfb8be-f6c5-30d7-03cf-7d3dc4dcc768/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5544,
+                "height": 4056,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/23bfb8be-f6c5-30d7-03cf-7d3dc4dcc768",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/b8df3fcd-62f0-4522-563e-31dde7d299cc/info.json",
+      "type": "Canvas",
+      "width": 5109,
+      "height": 6156,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/27",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/b8df3fcd-62f0-4522-563e-31dde7d299cc/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/b8df3fcd-62f0-4522-563e-31dde7d299cc/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/b8df3fcd-62f0-4522-563e-31dde7d299cc/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5109,
+                "height": 6156,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/b8df3fcd-62f0-4522-563e-31dde7d299cc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/6bca5f68-7459-a34e-71f5-09b370e02928/info.json",
+      "type": "Canvas",
+      "width": 5466,
+      "height": 4418,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/28",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/6bca5f68-7459-a34e-71f5-09b370e02928/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/6bca5f68-7459-a34e-71f5-09b370e02928/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/6bca5f68-7459-a34e-71f5-09b370e02928/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5466,
+                "height": 4418,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/6bca5f68-7459-a34e-71f5-09b370e02928",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/f5007fd4-7077-9caf-9535-31120a24f33b/info.json",
+      "type": "Canvas",
+      "width": 4632,
+      "height": 4082,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/29",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/f5007fd4-7077-9caf-9535-31120a24f33b/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/f5007fd4-7077-9caf-9535-31120a24f33b/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/f5007fd4-7077-9caf-9535-31120a24f33b/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4632,
+                "height": 4082,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/f5007fd4-7077-9caf-9535-31120a24f33b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/22b244ac-67f4-5c21-5fcc-191dd230a417/info.json",
+      "type": "Canvas",
+      "width": 6839,
+      "height": 4279,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/30",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/22b244ac-67f4-5c21-5fcc-191dd230a417/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/22b244ac-67f4-5c21-5fcc-191dd230a417/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/22b244ac-67f4-5c21-5fcc-191dd230a417/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 6839,
+                "height": 4279,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/22b244ac-67f4-5c21-5fcc-191dd230a417",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/fca1e54f-58cd-db17-de9b-3f06ceebd110/info.json",
+      "type": "Canvas",
+      "width": 10375,
+      "height": 4063,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/31",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/fca1e54f-58cd-db17-de9b-3f06ceebd110/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/fca1e54f-58cd-db17-de9b-3f06ceebd110/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/fca1e54f-58cd-db17-de9b-3f06ceebd110/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 10375,
+                "height": 4063,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/fca1e54f-58cd-db17-de9b-3f06ceebd110",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/d6e9d297-2f0a-6f03-305d-7b41659742b6/info.json",
+      "type": "Canvas",
+      "width": 7543,
+      "height": 6019,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/32",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/d6e9d297-2f0a-6f03-305d-7b41659742b6/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/d6e9d297-2f0a-6f03-305d-7b41659742b6/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/d6e9d297-2f0a-6f03-305d-7b41659742b6/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 7543,
+                "height": 6019,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/d6e9d297-2f0a-6f03-305d-7b41659742b6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/6931f5d2-91aa-a0c6-196f-850ab77f084b/info.json",
+      "type": "Canvas",
+      "width": 6418,
+      "height": 5536,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/33",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/6931f5d2-91aa-a0c6-196f-850ab77f084b/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/6931f5d2-91aa-a0c6-196f-850ab77f084b/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/6931f5d2-91aa-a0c6-196f-850ab77f084b/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 6418,
+                "height": 5536,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/6931f5d2-91aa-a0c6-196f-850ab77f084b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/9a3c3aac-cdb4-ec88-9647-b8443fc51622/info.json",
+      "type": "Canvas",
+      "width": 4519,
+      "height": 5178,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/34",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/9a3c3aac-cdb4-ec88-9647-b8443fc51622/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/9a3c3aac-cdb4-ec88-9647-b8443fc51622/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/9a3c3aac-cdb4-ec88-9647-b8443fc51622/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4519,
+                "height": 5178,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/9a3c3aac-cdb4-ec88-9647-b8443fc51622",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/80ba0094-66cd-5369-5e48-87331a26e569/info.json",
+      "type": "Canvas",
+      "width": 3407,
+      "height": 6526,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/35",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/80ba0094-66cd-5369-5e48-87331a26e569/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/80ba0094-66cd-5369-5e48-87331a26e569/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/80ba0094-66cd-5369-5e48-87331a26e569/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 3407,
+                "height": 6526,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/80ba0094-66cd-5369-5e48-87331a26e569",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/06ea4e94-76fb-d86e-19c1-7224a49e5607/info.json",
+      "type": "Canvas",
+      "width": 6439,
+      "height": 8229,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/36",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/06ea4e94-76fb-d86e-19c1-7224a49e5607/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/06ea4e94-76fb-d86e-19c1-7224a49e5607/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/06ea4e94-76fb-d86e-19c1-7224a49e5607/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 6439,
+                "height": 8229,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/06ea4e94-76fb-d86e-19c1-7224a49e5607",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/51edb4c1-f762-4a1f-b57c-ed0cd29ed0ae/info.json",
+      "type": "Canvas",
+      "width": 8540,
+      "height": 3369,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/37",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/51edb4c1-f762-4a1f-b57c-ed0cd29ed0ae/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/51edb4c1-f762-4a1f-b57c-ed0cd29ed0ae/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/51edb4c1-f762-4a1f-b57c-ed0cd29ed0ae/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 8540,
+                "height": 3369,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/51edb4c1-f762-4a1f-b57c-ed0cd29ed0ae",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/cdf8fe1d-0096-09a5-2ca4-bd9e98c40900/info.json",
+      "type": "Canvas",
+      "width": 6284,
+      "height": 8657,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/38",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/cdf8fe1d-0096-09a5-2ca4-bd9e98c40900/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/cdf8fe1d-0096-09a5-2ca4-bd9e98c40900/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/cdf8fe1d-0096-09a5-2ca4-bd9e98c40900/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 6284,
+                "height": 8657,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/cdf8fe1d-0096-09a5-2ca4-bd9e98c40900",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/bd17adb9-f87b-0125-ea8e-6363cf76a1b5/info.json",
+      "type": "Canvas",
+      "width": 7662,
+      "height": 3998,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/39",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/bd17adb9-f87b-0125-ea8e-6363cf76a1b5/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/bd17adb9-f87b-0125-ea8e-6363cf76a1b5/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/bd17adb9-f87b-0125-ea8e-6363cf76a1b5/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 7662,
+                "height": 3998,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/bd17adb9-f87b-0125-ea8e-6363cf76a1b5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/9619ec5c-0592-deb9-3b43-318ee140f50e/info.json",
+      "type": "Canvas",
+      "width": 4458,
+      "height": 3564,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/40",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/9619ec5c-0592-deb9-3b43-318ee140f50e/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/9619ec5c-0592-deb9-3b43-318ee140f50e/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/9619ec5c-0592-deb9-3b43-318ee140f50e/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 4458,
+                "height": 3564,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/9619ec5c-0592-deb9-3b43-318ee140f50e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/eb6a2cf8-13ea-9515-754e-7a851b0118d1/info.json",
+      "type": "Canvas",
+      "width": 7028,
+      "height": 6818,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/41",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/eb6a2cf8-13ea-9515-754e-7a851b0118d1/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/eb6a2cf8-13ea-9515-754e-7a851b0118d1/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/eb6a2cf8-13ea-9515-754e-7a851b0118d1/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 7028,
+                "height": 6818,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/eb6a2cf8-13ea-9515-754e-7a851b0118d1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/921573cb-a841-fffa-a764-a052deda2289/info.json",
+      "type": "Canvas",
+      "width": 5794,
+      "height": 4448,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/42",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/921573cb-a841-fffa-a764-a052deda2289/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/921573cb-a841-fffa-a764-a052deda2289/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/921573cb-a841-fffa-a764-a052deda2289/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5794,
+                "height": 4448,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/921573cb-a841-fffa-a764-a052deda2289",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/b9baac79-2263-13b5-cf9e-da48a2d52695/info.json",
+      "type": "Canvas",
+      "width": 8088,
+      "height": 2807,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/43",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/b9baac79-2263-13b5-cf9e-da48a2d52695/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/b9baac79-2263-13b5-cf9e-da48a2d52695/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/b9baac79-2263-13b5-cf9e-da48a2d52695/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 8088,
+                "height": 2807,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/b9baac79-2263-13b5-cf9e-da48a2d52695",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/259aadf4-4a69-fbb7-a956-2bbdde178061/info.json",
+      "type": "Canvas",
+      "width": 1644,
+      "height": 3978,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/44",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/259aadf4-4a69-fbb7-a956-2bbdde178061/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/259aadf4-4a69-fbb7-a956-2bbdde178061/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/259aadf4-4a69-fbb7-a956-2bbdde178061/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 1644,
+                "height": 3978,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/259aadf4-4a69-fbb7-a956-2bbdde178061",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/00f64000-82e1-7aab-ca7e-9525c3bec35b/info.json",
+      "type": "Canvas",
+      "width": 5794,
+      "height": 4389,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/45",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/00f64000-82e1-7aab-ca7e-9525c3bec35b/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/00f64000-82e1-7aab-ca7e-9525c3bec35b/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/00f64000-82e1-7aab-ca7e-9525c3bec35b/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 5794,
+                "height": 4389,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/00f64000-82e1-7aab-ca7e-9525c3bec35b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/c01a6d01-d518-baf6-25b3-65a0a6e1b450/info.json",
+      "type": "Canvas",
+      "width": 6576,
+      "height": 5465,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/46",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/c01a6d01-d518-baf6-25b3-65a0a6e1b450/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/c01a6d01-d518-baf6-25b3-65a0a6e1b450/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/c01a6d01-d518-baf6-25b3-65a0a6e1b450/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 6576,
+                "height": 5465,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/c01a6d01-d518-baf6-25b3-65a0a6e1b450",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.memorix.nl/nai/iiif/e96c7397-a45b-f1d2-7012-d80f4a54f830/info.json",
+      "type": "Canvas",
+      "width": 7745,
+      "height": 3598,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/gend/GEND.110364957.json/annotation-page/47",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/e96c7397-a45b-f1d2-7012-d80f4a54f830/full/full/0/default.jpg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://images.memorix.nl/nai/iiif/e96c7397-a45b-f1d2-7012-d80f4a54f830/info.json",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/e96c7397-a45b-f1d2-7012-d80f4a54f830/full/full/0/default.jpg",
+                "type": "Image",
+                "width": 7745,
+                "height": 3598,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://images.memorix.nl/nai/iiif/e96c7397-a45b-f1d2-7012-d80f4a54f830",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
