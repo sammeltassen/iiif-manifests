@@ -1,0 +1,3290 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json",
+  "type": "Manifest",
+  "label": {
+    "en": ["Kadastrale kaart 1811-1832: minuutplan Baarle Nassau"]
+  },
+  "items": [
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/0",
+      "type": "Canvas",
+      "height": 8226,
+      "width": 12408,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/430609d8-1e18-7c71-5f3e-273ef87a113e",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/0",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/430609d8-1e18-7c71-5f3e-273ef87a113e/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8226,
+                "width": 12408,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/430609d8-1e18-7c71-5f3e-273ef87a113e",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12408,
+                    "height": 8226,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 128
+                      },
+                      {
+                        "width": 387,
+                        "height": 257
+                      },
+                      {
+                        "width": 775,
+                        "height": 514
+                      },
+                      {
+                        "width": 1551,
+                        "height": 1028
+                      },
+                      {
+                        "width": 3102,
+                        "height": 2056
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "430609d8-1e18-7c71-5f3e-273ef87a113e"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/1",
+      "type": "Canvas",
+      "height": 7896,
+      "width": 12378,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/1/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/986e0e22-1718-7c51-ba4b-f072731ee48c",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/1",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/986e0e22-1718-7c51-ba4b-f072731ee48c/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7896,
+                "width": 12378,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/986e0e22-1718-7c51-ba4b-f072731ee48c",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12378,
+                    "height": 7896,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 123
+                      },
+                      {
+                        "width": 386,
+                        "height": 246
+                      },
+                      {
+                        "width": 773,
+                        "height": 493
+                      },
+                      {
+                        "width": 1547,
+                        "height": 987
+                      },
+                      {
+                        "width": 3094,
+                        "height": 1974
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "986e0e22-1718-7c51-ba4b-f072731ee48c"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/2",
+      "type": "Canvas",
+      "height": 7926,
+      "width": 12348,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/2/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/cb9c9077-1592-baf4-2c97-0949dc85ab7c",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/2",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/cb9c9077-1592-baf4-2c97-0949dc85ab7c/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7926,
+                "width": 12348,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/cb9c9077-1592-baf4-2c97-0949dc85ab7c",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12348,
+                    "height": 7926,
+                    "sizes": [
+                      {
+                        "width": 192,
+                        "height": 123
+                      },
+                      {
+                        "width": 385,
+                        "height": 247
+                      },
+                      {
+                        "width": 771,
+                        "height": 495
+                      },
+                      {
+                        "width": 1543,
+                        "height": 990
+                      },
+                      {
+                        "width": 3087,
+                        "height": 1981
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "cb9c9077-1592-baf4-2c97-0949dc85ab7c"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/3",
+      "type": "Canvas",
+      "height": 7926,
+      "width": 12378,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/3/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/c6e7d172-f307-84aa-dda7-8bfc686903b4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/3",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/c6e7d172-f307-84aa-dda7-8bfc686903b4/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7926,
+                "width": 12378,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/c6e7d172-f307-84aa-dda7-8bfc686903b4",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12378,
+                    "height": 7926,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 123
+                      },
+                      {
+                        "width": 386,
+                        "height": 247
+                      },
+                      {
+                        "width": 773,
+                        "height": 495
+                      },
+                      {
+                        "width": 1547,
+                        "height": 990
+                      },
+                      {
+                        "width": 3094,
+                        "height": 1981
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "c6e7d172-f307-84aa-dda7-8bfc686903b4"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/4",
+      "type": "Canvas",
+      "height": 7986,
+      "width": 12408,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/4/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/f248b7b8-1ea8-6cd9-eecc-18932389ce5a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/4",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/f248b7b8-1ea8-6cd9-eecc-18932389ce5a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7986,
+                "width": 12408,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/f248b7b8-1ea8-6cd9-eecc-18932389ce5a",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12408,
+                    "height": 7986,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 124
+                      },
+                      {
+                        "width": 387,
+                        "height": 249
+                      },
+                      {
+                        "width": 775,
+                        "height": 499
+                      },
+                      {
+                        "width": 1551,
+                        "height": 998
+                      },
+                      {
+                        "width": 3102,
+                        "height": 1996
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "f248b7b8-1ea8-6cd9-eecc-18932389ce5a"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/5",
+      "type": "Canvas",
+      "height": 7956,
+      "width": 12468,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/5/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/65f46f8a-f912-2b92-d905-9fee24b57968",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/5",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/65f46f8a-f912-2b92-d905-9fee24b57968/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7956,
+                "width": 12468,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/65f46f8a-f912-2b92-d905-9fee24b57968",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12468,
+                    "height": 7956,
+                    "sizes": [
+                      {
+                        "width": 194,
+                        "height": 124
+                      },
+                      {
+                        "width": 389,
+                        "height": 248
+                      },
+                      {
+                        "width": 779,
+                        "height": 497
+                      },
+                      {
+                        "width": 1558,
+                        "height": 994
+                      },
+                      {
+                        "width": 3117,
+                        "height": 1989
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "65f46f8a-f912-2b92-d905-9fee24b57968"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/6",
+      "type": "Canvas",
+      "height": 7896,
+      "width": 12378,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/6/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/a4f212c6-a578-0d0c-384b-d9df59c63305",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/6",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/a4f212c6-a578-0d0c-384b-d9df59c63305/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7896,
+                "width": 12378,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/a4f212c6-a578-0d0c-384b-d9df59c63305",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12378,
+                    "height": 7896,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 123
+                      },
+                      {
+                        "width": 386,
+                        "height": 246
+                      },
+                      {
+                        "width": 773,
+                        "height": 493
+                      },
+                      {
+                        "width": 1547,
+                        "height": 987
+                      },
+                      {
+                        "width": 3094,
+                        "height": 1974
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "a4f212c6-a578-0d0c-384b-d9df59c63305"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/7",
+      "type": "Canvas",
+      "height": 7896,
+      "width": 11686,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/7/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/da3c620f-9c2d-4ba1-d397-3d1c763ea20b",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/7",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/da3c620f-9c2d-4ba1-d397-3d1c763ea20b/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7896,
+                "width": 11686,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/da3c620f-9c2d-4ba1-d397-3d1c763ea20b",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 11686,
+                    "height": 7896,
+                    "sizes": [
+                      {
+                        "width": 182,
+                        "height": 123
+                      },
+                      {
+                        "width": 365,
+                        "height": 246
+                      },
+                      {
+                        "width": 730,
+                        "height": 493
+                      },
+                      {
+                        "width": 1460,
+                        "height": 987
+                      },
+                      {
+                        "width": 2921,
+                        "height": 1974
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "da3c620f-9c2d-4ba1-d397-3d1c763ea20b"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/8",
+      "type": "Canvas",
+      "height": 7896,
+      "width": 11958,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/8/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/ef62622a-cb8b-92ea-b3d5-ba145f9b573f",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/8",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/ef62622a-cb8b-92ea-b3d5-ba145f9b573f/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7896,
+                "width": 11958,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/ef62622a-cb8b-92ea-b3d5-ba145f9b573f",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 11958,
+                    "height": 7896,
+                    "sizes": [
+                      {
+                        "width": 186,
+                        "height": 123
+                      },
+                      {
+                        "width": 373,
+                        "height": 246
+                      },
+                      {
+                        "width": 747,
+                        "height": 493
+                      },
+                      {
+                        "width": 1494,
+                        "height": 987
+                      },
+                      {
+                        "width": 2989,
+                        "height": 1974
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "ef62622a-cb8b-92ea-b3d5-ba145f9b573f"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/9",
+      "type": "Canvas",
+      "height": 7776,
+      "width": 11716,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/9/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/d42eac26-164d-f53b-531f-4aacb53f6798",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/9",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/d42eac26-164d-f53b-531f-4aacb53f6798/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7776,
+                "width": 11716,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/d42eac26-164d-f53b-531f-4aacb53f6798",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 11716,
+                    "height": 7776,
+                    "sizes": [
+                      {
+                        "width": 183,
+                        "height": 121
+                      },
+                      {
+                        "width": 366,
+                        "height": 243
+                      },
+                      {
+                        "width": 732,
+                        "height": 486
+                      },
+                      {
+                        "width": 1464,
+                        "height": 972
+                      },
+                      {
+                        "width": 2929,
+                        "height": 1944
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "d42eac26-164d-f53b-531f-4aacb53f6798"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/10",
+      "type": "Canvas",
+      "height": 7806,
+      "width": 11746,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/10/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/cb767d52-041b-e411-e1c6-796fa34b9ea3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/10",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/cb767d52-041b-e411-e1c6-796fa34b9ea3/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7806,
+                "width": 11746,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/cb767d52-041b-e411-e1c6-796fa34b9ea3",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 11746,
+                    "height": 7806,
+                    "sizes": [
+                      {
+                        "width": 183,
+                        "height": 121
+                      },
+                      {
+                        "width": 367,
+                        "height": 243
+                      },
+                      {
+                        "width": 734,
+                        "height": 487
+                      },
+                      {
+                        "width": 1468,
+                        "height": 975
+                      },
+                      {
+                        "width": 2936,
+                        "height": 1951
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "cb767d52-041b-e411-e1c6-796fa34b9ea3"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/11",
+      "type": "Canvas",
+      "height": 7836,
+      "width": 11838,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/11/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/f2d61b43-14ae-5fbc-f207-634800758dc8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/11",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/f2d61b43-14ae-5fbc-f207-634800758dc8/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7836,
+                "width": 11838,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/f2d61b43-14ae-5fbc-f207-634800758dc8",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 11838,
+                    "height": 7836,
+                    "sizes": [
+                      {
+                        "width": 184,
+                        "height": 122
+                      },
+                      {
+                        "width": 369,
+                        "height": 244
+                      },
+                      {
+                        "width": 739,
+                        "height": 489
+                      },
+                      {
+                        "width": 1479,
+                        "height": 979
+                      },
+                      {
+                        "width": 2959,
+                        "height": 1959
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "f2d61b43-14ae-5fbc-f207-634800758dc8"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/12",
+      "type": "Canvas",
+      "height": 7714,
+      "width": 11776,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/12/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/7a0edda4-a7cf-adde-4b80-c745ca1484ef",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/12",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/7a0edda4-a7cf-adde-4b80-c745ca1484ef/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7714,
+                "width": 11776,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/7a0edda4-a7cf-adde-4b80-c745ca1484ef",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 11776,
+                    "height": 7714,
+                    "sizes": [
+                      {
+                        "width": 184,
+                        "height": 120
+                      },
+                      {
+                        "width": 368,
+                        "height": 241
+                      },
+                      {
+                        "width": 736,
+                        "height": 482
+                      },
+                      {
+                        "width": 1472,
+                        "height": 964
+                      },
+                      {
+                        "width": 2944,
+                        "height": 1928
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "7a0edda4-a7cf-adde-4b80-c745ca1484ef"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/13",
+      "type": "Canvas",
+      "height": 7714,
+      "width": 11776,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/13/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/7172aefb-e56d-b34b-bf19-b6167fb91338",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/13",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/7172aefb-e56d-b34b-bf19-b6167fb91338/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7714,
+                "width": 11776,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/7172aefb-e56d-b34b-bf19-b6167fb91338",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 11776,
+                    "height": 7714,
+                    "sizes": [
+                      {
+                        "width": 184,
+                        "height": 120
+                      },
+                      {
+                        "width": 368,
+                        "height": 241
+                      },
+                      {
+                        "width": 736,
+                        "height": 482
+                      },
+                      {
+                        "width": 1472,
+                        "height": 964
+                      },
+                      {
+                        "width": 2944,
+                        "height": 1928
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "7172aefb-e56d-b34b-bf19-b6167fb91338"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/14",
+      "type": "Canvas",
+      "height": 7896,
+      "width": 11838,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/14/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/ac447679-3ae3-f201-f4ba-9a1741c28367",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/14",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/ac447679-3ae3-f201-f4ba-9a1741c28367/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7896,
+                "width": 11838,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/ac447679-3ae3-f201-f4ba-9a1741c28367",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 11838,
+                    "height": 7896,
+                    "sizes": [
+                      {
+                        "width": 184,
+                        "height": 123
+                      },
+                      {
+                        "width": 369,
+                        "height": 246
+                      },
+                      {
+                        "width": 739,
+                        "height": 493
+                      },
+                      {
+                        "width": 1479,
+                        "height": 987
+                      },
+                      {
+                        "width": 2959,
+                        "height": 1974
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "ac447679-3ae3-f201-f4ba-9a1741c28367"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/15",
+      "type": "Canvas",
+      "height": 7866,
+      "width": 11958,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/15/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/731c453c-a53c-d686-1487-246ce6c9d9fa",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/15",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/731c453c-a53c-d686-1487-246ce6c9d9fa/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7866,
+                "width": 11958,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/731c453c-a53c-d686-1487-246ce6c9d9fa",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 11958,
+                    "height": 7866,
+                    "sizes": [
+                      {
+                        "width": 186,
+                        "height": 122
+                      },
+                      {
+                        "width": 373,
+                        "height": 245
+                      },
+                      {
+                        "width": 747,
+                        "height": 491
+                      },
+                      {
+                        "width": 1494,
+                        "height": 983
+                      },
+                      {
+                        "width": 2989,
+                        "height": 1966
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "731c453c-a53c-d686-1487-246ce6c9d9fa"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/16",
+      "type": "Canvas",
+      "height": 7866,
+      "width": 11898,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/16/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/3c2196d3-ce6d-bf52-1c64-7074e257aa1a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/16",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/3c2196d3-ce6d-bf52-1c64-7074e257aa1a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7866,
+                "width": 11898,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/3c2196d3-ce6d-bf52-1c64-7074e257aa1a",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 11898,
+                    "height": 7866,
+                    "sizes": [
+                      {
+                        "width": 185,
+                        "height": 122
+                      },
+                      {
+                        "width": 371,
+                        "height": 245
+                      },
+                      {
+                        "width": 743,
+                        "height": 491
+                      },
+                      {
+                        "width": 1487,
+                        "height": 983
+                      },
+                      {
+                        "width": 2974,
+                        "height": 1966
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "3c2196d3-ce6d-bf52-1c64-7074e257aa1a"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/17",
+      "type": "Canvas",
+      "height": 7714,
+      "width": 11686,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/17/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/b4a3e1e9-a028-64f8-8057-23c31ed16d8f",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/17",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/b4a3e1e9-a028-64f8-8057-23c31ed16d8f/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7714,
+                "width": 11686,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/b4a3e1e9-a028-64f8-8057-23c31ed16d8f",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 11686,
+                    "height": 7714,
+                    "sizes": [
+                      {
+                        "width": 182,
+                        "height": 120
+                      },
+                      {
+                        "width": 365,
+                        "height": 241
+                      },
+                      {
+                        "width": 730,
+                        "height": 482
+                      },
+                      {
+                        "width": 1460,
+                        "height": 964
+                      },
+                      {
+                        "width": 2921,
+                        "height": 1928
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "b4a3e1e9-a028-64f8-8057-23c31ed16d8f"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/18",
+      "type": "Canvas",
+      "height": 7926,
+      "width": 12438,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/18/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/071d933c-cca1-3ff3-0168-1ef6311918b9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/18",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/071d933c-cca1-3ff3-0168-1ef6311918b9/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7926,
+                "width": 12438,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/071d933c-cca1-3ff3-0168-1ef6311918b9",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12438,
+                    "height": 7926,
+                    "sizes": [
+                      {
+                        "width": 194,
+                        "height": 123
+                      },
+                      {
+                        "width": 388,
+                        "height": 247
+                      },
+                      {
+                        "width": 777,
+                        "height": 495
+                      },
+                      {
+                        "width": 1554,
+                        "height": 990
+                      },
+                      {
+                        "width": 3109,
+                        "height": 1981
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "071d933c-cca1-3ff3-0168-1ef6311918b9"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/19",
+      "type": "Canvas",
+      "height": 7836,
+      "width": 12678,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/19/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/da9c8a6c-ed34-305e-37fd-5704d7e29367",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/19",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/da9c8a6c-ed34-305e-37fd-5704d7e29367/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7836,
+                "width": 12678,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/da9c8a6c-ed34-305e-37fd-5704d7e29367",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12678,
+                    "height": 7836,
+                    "sizes": [
+                      {
+                        "width": 198,
+                        "height": 122
+                      },
+                      {
+                        "width": 396,
+                        "height": 244
+                      },
+                      {
+                        "width": 792,
+                        "height": 489
+                      },
+                      {
+                        "width": 1584,
+                        "height": 979
+                      },
+                      {
+                        "width": 3169,
+                        "height": 1959
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "da9c8a6c-ed34-305e-37fd-5704d7e29367"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/20",
+      "type": "Canvas",
+      "height": 7956,
+      "width": 12348,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/20/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/17860df5-158d-cf21-de20-28bac6b3ad0f",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/20",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/17860df5-158d-cf21-de20-28bac6b3ad0f/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7956,
+                "width": 12348,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/17860df5-158d-cf21-de20-28bac6b3ad0f",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12348,
+                    "height": 7956,
+                    "sizes": [
+                      {
+                        "width": 192,
+                        "height": 124
+                      },
+                      {
+                        "width": 385,
+                        "height": 248
+                      },
+                      {
+                        "width": 771,
+                        "height": 497
+                      },
+                      {
+                        "width": 1543,
+                        "height": 994
+                      },
+                      {
+                        "width": 3087,
+                        "height": 1989
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "17860df5-158d-cf21-de20-28bac6b3ad0f"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/21",
+      "type": "Canvas",
+      "height": 7956,
+      "width": 12378,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/21/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/30f32219-d5ad-e295-dc20-0a386d81a292",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/21",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/30f32219-d5ad-e295-dc20-0a386d81a292/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7956,
+                "width": 12378,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/30f32219-d5ad-e295-dc20-0a386d81a292",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12378,
+                    "height": 7956,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 124
+                      },
+                      {
+                        "width": 386,
+                        "height": 248
+                      },
+                      {
+                        "width": 773,
+                        "height": 497
+                      },
+                      {
+                        "width": 1547,
+                        "height": 994
+                      },
+                      {
+                        "width": 3094,
+                        "height": 1989
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "30f32219-d5ad-e295-dc20-0a386d81a292"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/22",
+      "type": "Canvas",
+      "height": 7866,
+      "width": 12258,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/22/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/d355b26a-039f-0b7c-1dda-3f7d279f96e3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/22",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/d355b26a-039f-0b7c-1dda-3f7d279f96e3/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7866,
+                "width": 12258,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/d355b26a-039f-0b7c-1dda-3f7d279f96e3",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12258,
+                    "height": 7866,
+                    "sizes": [
+                      {
+                        "width": 191,
+                        "height": 122
+                      },
+                      {
+                        "width": 383,
+                        "height": 245
+                      },
+                      {
+                        "width": 766,
+                        "height": 491
+                      },
+                      {
+                        "width": 1532,
+                        "height": 983
+                      },
+                      {
+                        "width": 3064,
+                        "height": 1966
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "d355b26a-039f-0b7c-1dda-3f7d279f96e3"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/23",
+      "type": "Canvas",
+      "height": 7926,
+      "width": 12168,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/23/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/53c6fb59-9728-f575-aeac-993ed7cfafd2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/23",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/53c6fb59-9728-f575-aeac-993ed7cfafd2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7926,
+                "width": 12168,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/53c6fb59-9728-f575-aeac-993ed7cfafd2",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12168,
+                    "height": 7926,
+                    "sizes": [
+                      {
+                        "width": 190,
+                        "height": 123
+                      },
+                      {
+                        "width": 380,
+                        "height": 247
+                      },
+                      {
+                        "width": 760,
+                        "height": 495
+                      },
+                      {
+                        "width": 1521,
+                        "height": 990
+                      },
+                      {
+                        "width": 3042,
+                        "height": 1981
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "53c6fb59-9728-f575-aeac-993ed7cfafd2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/24",
+      "type": "Canvas",
+      "height": 7926,
+      "width": 12198,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/24/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/6ef79079-fadd-9d55-d252-6028da998928",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/24",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/6ef79079-fadd-9d55-d252-6028da998928/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7926,
+                "width": 12198,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/6ef79079-fadd-9d55-d252-6028da998928",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12198,
+                    "height": 7926,
+                    "sizes": [
+                      {
+                        "width": 190,
+                        "height": 123
+                      },
+                      {
+                        "width": 381,
+                        "height": 247
+                      },
+                      {
+                        "width": 762,
+                        "height": 495
+                      },
+                      {
+                        "width": 1524,
+                        "height": 990
+                      },
+                      {
+                        "width": 3049,
+                        "height": 1981
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "6ef79079-fadd-9d55-d252-6028da998928"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/25",
+      "type": "Canvas",
+      "height": 7896,
+      "width": 12528,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/25/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/832d7c86-4f06-2f63-5759-263a7f0bcb3f",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/25",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/832d7c86-4f06-2f63-5759-263a7f0bcb3f/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7896,
+                "width": 12528,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/832d7c86-4f06-2f63-5759-263a7f0bcb3f",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12528,
+                    "height": 7896,
+                    "sizes": [
+                      {
+                        "width": 195,
+                        "height": 123
+                      },
+                      {
+                        "width": 391,
+                        "height": 246
+                      },
+                      {
+                        "width": 783,
+                        "height": 493
+                      },
+                      {
+                        "width": 1566,
+                        "height": 987
+                      },
+                      {
+                        "width": 3132,
+                        "height": 1974
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "832d7c86-4f06-2f63-5759-263a7f0bcb3f"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/26",
+      "type": "Canvas",
+      "height": 7806,
+      "width": 12408,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/26/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/8c9ea82c-18d4-57b4-9a5b-afb37c67e5f8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/26",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/8c9ea82c-18d4-57b4-9a5b-afb37c67e5f8/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7806,
+                "width": 12408,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/8c9ea82c-18d4-57b4-9a5b-afb37c67e5f8",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12408,
+                    "height": 7806,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 121
+                      },
+                      {
+                        "width": 387,
+                        "height": 243
+                      },
+                      {
+                        "width": 775,
+                        "height": 487
+                      },
+                      {
+                        "width": 1551,
+                        "height": 975
+                      },
+                      {
+                        "width": 3102,
+                        "height": 1951
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "8c9ea82c-18d4-57b4-9a5b-afb37c67e5f8"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/27",
+      "type": "Canvas",
+      "height": 7806,
+      "width": 12288,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/27/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/7c881356-3a2c-a7e8-96a9-38ad0fc72f33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/27",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/7c881356-3a2c-a7e8-96a9-38ad0fc72f33/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7806,
+                "width": 12288,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/7c881356-3a2c-a7e8-96a9-38ad0fc72f33",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12288,
+                    "height": 7806,
+                    "sizes": [
+                      {
+                        "width": 192,
+                        "height": 121
+                      },
+                      {
+                        "width": 384,
+                        "height": 243
+                      },
+                      {
+                        "width": 768,
+                        "height": 487
+                      },
+                      {
+                        "width": 1536,
+                        "height": 975
+                      },
+                      {
+                        "width": 3072,
+                        "height": 1951
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "7c881356-3a2c-a7e8-96a9-38ad0fc72f33"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/28",
+      "type": "Canvas",
+      "height": 7896,
+      "width": 12468,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/28/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/ea290c90-5f79-ebde-9384-4845a47a1596",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/28",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/ea290c90-5f79-ebde-9384-4845a47a1596/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7896,
+                "width": 12468,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/ea290c90-5f79-ebde-9384-4845a47a1596",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12468,
+                    "height": 7896,
+                    "sizes": [
+                      {
+                        "width": 194,
+                        "height": 123
+                      },
+                      {
+                        "width": 389,
+                        "height": 246
+                      },
+                      {
+                        "width": 779,
+                        "height": 493
+                      },
+                      {
+                        "width": 1558,
+                        "height": 987
+                      },
+                      {
+                        "width": 3117,
+                        "height": 1974
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "ea290c90-5f79-ebde-9384-4845a47a1596"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/29",
+      "type": "Canvas",
+      "height": 8016,
+      "width": 12468,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/29/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/44e99dfd-ee05-1ea2-5145-1b243a9eee4e",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/29",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/44e99dfd-ee05-1ea2-5145-1b243a9eee4e/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8016,
+                "width": 12468,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/44e99dfd-ee05-1ea2-5145-1b243a9eee4e",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12468,
+                    "height": 8016,
+                    "sizes": [
+                      {
+                        "width": 194,
+                        "height": 125
+                      },
+                      {
+                        "width": 389,
+                        "height": 250
+                      },
+                      {
+                        "width": 779,
+                        "height": 501
+                      },
+                      {
+                        "width": 1558,
+                        "height": 1002
+                      },
+                      {
+                        "width": 3117,
+                        "height": 2004
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "44e99dfd-ee05-1ea2-5145-1b243a9eee4e"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/30",
+      "type": "Canvas",
+      "height": 7926,
+      "width": 12378,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/30/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/ed967ce1-2aa9-7462-befa-5177db3ccfe7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/30",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/ed967ce1-2aa9-7462-befa-5177db3ccfe7/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7926,
+                "width": 12378,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/ed967ce1-2aa9-7462-befa-5177db3ccfe7",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12378,
+                    "height": 7926,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 123
+                      },
+                      {
+                        "width": 386,
+                        "height": 247
+                      },
+                      {
+                        "width": 773,
+                        "height": 495
+                      },
+                      {
+                        "width": 1547,
+                        "height": 990
+                      },
+                      {
+                        "width": 3094,
+                        "height": 1981
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "ed967ce1-2aa9-7462-befa-5177db3ccfe7"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/31",
+      "type": "Canvas",
+      "height": 7896,
+      "width": 12378,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/31/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/41d3d8c9-6ccd-89cd-3762-e717bc87d97e",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/31",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/41d3d8c9-6ccd-89cd-3762-e717bc87d97e/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7896,
+                "width": 12378,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/41d3d8c9-6ccd-89cd-3762-e717bc87d97e",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12378,
+                    "height": 7896,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 123
+                      },
+                      {
+                        "width": 386,
+                        "height": 246
+                      },
+                      {
+                        "width": 773,
+                        "height": 493
+                      },
+                      {
+                        "width": 1547,
+                        "height": 987
+                      },
+                      {
+                        "width": 3094,
+                        "height": 1974
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "41d3d8c9-6ccd-89cd-3762-e717bc87d97e"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/32",
+      "type": "Canvas",
+      "height": 7896,
+      "width": 12258,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/32/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/3d2258ff-0e56-065f-1b96-22bd4f8bf691",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/32",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/3d2258ff-0e56-065f-1b96-22bd4f8bf691/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7896,
+                "width": 12258,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/3d2258ff-0e56-065f-1b96-22bd4f8bf691",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12258,
+                    "height": 7896,
+                    "sizes": [
+                      {
+                        "width": 191,
+                        "height": 123
+                      },
+                      {
+                        "width": 383,
+                        "height": 246
+                      },
+                      {
+                        "width": 766,
+                        "height": 493
+                      },
+                      {
+                        "width": 1532,
+                        "height": 987
+                      },
+                      {
+                        "width": 3064,
+                        "height": 1974
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "3d2258ff-0e56-065f-1b96-22bd4f8bf691"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/33",
+      "type": "Canvas",
+      "height": 7956,
+      "width": 12468,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/33/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/ba6fad7a-0b49-5137-102b-bcb4a5bf0d17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/33",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/ba6fad7a-0b49-5137-102b-bcb4a5bf0d17/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7956,
+                "width": 12468,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/ba6fad7a-0b49-5137-102b-bcb4a5bf0d17",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12468,
+                    "height": 7956,
+                    "sizes": [
+                      {
+                        "width": 194,
+                        "height": 124
+                      },
+                      {
+                        "width": 389,
+                        "height": 248
+                      },
+                      {
+                        "width": 779,
+                        "height": 497
+                      },
+                      {
+                        "width": 1558,
+                        "height": 994
+                      },
+                      {
+                        "width": 3117,
+                        "height": 1989
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "ba6fad7a-0b49-5137-102b-bcb4a5bf0d17"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/34",
+      "type": "Canvas",
+      "height": 7956,
+      "width": 12468,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/34/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/141078ee-4114-853b-5a64-8dccdd46532e",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/34",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/141078ee-4114-853b-5a64-8dccdd46532e/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7956,
+                "width": 12468,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/141078ee-4114-853b-5a64-8dccdd46532e",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12468,
+                    "height": 7956,
+                    "sizes": [
+                      {
+                        "width": 194,
+                        "height": 124
+                      },
+                      {
+                        "width": 389,
+                        "height": 248
+                      },
+                      {
+                        "width": 779,
+                        "height": 497
+                      },
+                      {
+                        "width": 1558,
+                        "height": 994
+                      },
+                      {
+                        "width": 3117,
+                        "height": 1989
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "141078ee-4114-853b-5a64-8dccdd46532e"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/35",
+      "type": "Canvas",
+      "height": 7956,
+      "width": 12408,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/35/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/28f79eda-1e04-0669-4f08-4d4b18b28b2d",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/35",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/28f79eda-1e04-0669-4f08-4d4b18b28b2d/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7956,
+                "width": 12408,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/28f79eda-1e04-0669-4f08-4d4b18b28b2d",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12408,
+                    "height": 7956,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 124
+                      },
+                      {
+                        "width": 387,
+                        "height": 248
+                      },
+                      {
+                        "width": 775,
+                        "height": 497
+                      },
+                      {
+                        "width": 1551,
+                        "height": 994
+                      },
+                      {
+                        "width": 3102,
+                        "height": 1989
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "28f79eda-1e04-0669-4f08-4d4b18b28b2d"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/36",
+      "type": "Canvas",
+      "height": 7956,
+      "width": 12408,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/36/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/bc465888-a4c4-2240-e1a7-9a28db734b26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/36",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/bc465888-a4c4-2240-e1a7-9a28db734b26/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7956,
+                "width": 12408,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/bc465888-a4c4-2240-e1a7-9a28db734b26",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12408,
+                    "height": 7956,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 124
+                      },
+                      {
+                        "width": 387,
+                        "height": 248
+                      },
+                      {
+                        "width": 775,
+                        "height": 497
+                      },
+                      {
+                        "width": 1551,
+                        "height": 994
+                      },
+                      {
+                        "width": 3102,
+                        "height": 1989
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "bc465888-a4c4-2240-e1a7-9a28db734b26"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/37",
+      "type": "Canvas",
+      "height": 7986,
+      "width": 12408,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/37/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/c9bbfe36-2c74-f311-95d5-0293c5719793",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/37",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/c9bbfe36-2c74-f311-95d5-0293c5719793/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7986,
+                "width": 12408,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/c9bbfe36-2c74-f311-95d5-0293c5719793",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12408,
+                    "height": 7986,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 124
+                      },
+                      {
+                        "width": 387,
+                        "height": 249
+                      },
+                      {
+                        "width": 775,
+                        "height": 499
+                      },
+                      {
+                        "width": 1551,
+                        "height": 998
+                      },
+                      {
+                        "width": 3102,
+                        "height": 1996
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "c9bbfe36-2c74-f311-95d5-0293c5719793"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/38",
+      "type": "Canvas",
+      "height": 7986,
+      "width": 12438,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/38/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/3519fd95-331f-655b-ad09-a704b7d134a0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/38",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/3519fd95-331f-655b-ad09-a704b7d134a0/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7986,
+                "width": 12438,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/3519fd95-331f-655b-ad09-a704b7d134a0",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12438,
+                    "height": 7986,
+                    "sizes": [
+                      {
+                        "width": 194,
+                        "height": 124
+                      },
+                      {
+                        "width": 388,
+                        "height": 249
+                      },
+                      {
+                        "width": 777,
+                        "height": 499
+                      },
+                      {
+                        "width": 1554,
+                        "height": 998
+                      },
+                      {
+                        "width": 3109,
+                        "height": 1996
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "3519fd95-331f-655b-ad09-a704b7d134a0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/39",
+      "type": "Canvas",
+      "height": 7926,
+      "width": 12378,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/39/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/rce/iiif/e3842de9-e9ca-fc1f-3510-4163a9c0a64a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json/canvas/39",
+              "body": {
+                "id": "https://images.memorix.nl/rce/iiif/e3842de9-e9ca-fc1f-3510-4163a9c0a64a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7926,
+                "width": 12378,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/rce/iiif/e3842de9-e9ca-fc1f-3510-4163a9c0a64a",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 12378,
+                    "height": 7926,
+                    "sizes": [
+                      {
+                        "width": 193,
+                        "height": 123
+                      },
+                      {
+                        "width": 386,
+                        "height": 247
+                      },
+                      {
+                        "width": 773,
+                        "height": 495
+                      },
+                      {
+                        "width": 1547,
+                        "height": 990
+                      },
+                      {
+                        "width": 3094,
+                        "height": 1981
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "e3842de9-e9ca-fc1f-3510-4163a9c0a64a"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
