@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle.json",
+  "id": "https://sammeltassen.nl/iiif-manifests/rce/minuutplan-baarle@v2.json",
   "type": "Manifest",
   "label": {
     "en": ["Kadastrale kaart 1811-1832: minuutplan Baarle Nassau"]
