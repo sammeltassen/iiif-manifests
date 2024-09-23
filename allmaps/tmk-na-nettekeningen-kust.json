@@ -1,0 +1,144 @@
+{
+  "type": "AnnotationPage",
+  "@context": ["http://www.w3.org/ns/anno.jsonld"],
+  "items": [
+    {
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "@id": "https://service.archief.nl/iipsrv?IIIF=/36/21/e3/ef/9c/1b/47/78/84/97/bc/94/61/46/f8/94/3ed5eef4-6549-4d2f-b2f4-2eb9d9dc802e.jp2",
+          "type": "ImageService2",
+          "height": 6775,
+          "width": 10030
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10030\" height=\"6775\"><polygon points=\"318,6163 9719,6208 9715,332 325,306\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [325, 306]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.004727, 52.260326]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9715, 332]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.590586, 52.263195]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9719, 6208]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.59205, 52.038509]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [318, 6163]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.009132, 52.035654]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "@id": "https://service.archief.nl/iipsrv?IIIF=/6c/3d/fd/c0/ad/2c/4d/7a/ab/27/7c/a8/9d/ad/28/37/3e42f8db-29bd-4cef-aac8-669e7b917776.jp2",
+          "type": "ImageService2",
+          "height": 6845,
+          "width": 10319
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10319\" height=\"6845\"><polygon points=\"462,6336 9858,6378 9854,507 458,459\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [458, 459]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.009132, 52.035654]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9854, 507]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.59205, 52.038509]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9858, 6378]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.593494, 51.813814]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [462, 6336]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.013479, 51.810973]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
