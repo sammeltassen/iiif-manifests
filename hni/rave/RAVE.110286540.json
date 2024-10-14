@@ -1,0 +1,580 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json",
+  "type": "Manifest",
+  "label": {
+    "en": ["RAVE.110286540 Station; Hoek van Holland"]
+  },
+  "items": [
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/0",
+      "type": "Canvas",
+      "height": 2568,
+      "width": 3393,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/f714b311-2ca8-c70f-001d-99950181746a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/0",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/f714b311-2ca8-c70f-001d-99950181746a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2568,
+                "width": 3393,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/nai/iiif/f714b311-2ca8-c70f-001d-99950181746a",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 3393,
+                    "height": 2568,
+                    "sizes": [
+                      {
+                        "width": 212,
+                        "height": 160
+                      },
+                      {
+                        "width": 424,
+                        "height": 321
+                      },
+                      {
+                        "width": 848,
+                        "height": 642
+                      },
+                      {
+                        "width": 1696,
+                        "height": 1284
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "f714b311-2ca8-c70f-001d-99950181746a"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/1",
+      "type": "Canvas",
+      "height": 1722,
+      "width": 2664,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/1/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/032c1cd6-c542-3189-4eff-213c22031ae9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/1",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/032c1cd6-c542-3189-4eff-213c22031ae9/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1722,
+                "width": 2664,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/nai/iiif/032c1cd6-c542-3189-4eff-213c22031ae9",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 2664,
+                    "height": 1722,
+                    "sizes": [
+                      {
+                        "width": 166,
+                        "height": 107
+                      },
+                      {
+                        "width": 333,
+                        "height": 215
+                      },
+                      {
+                        "width": 666,
+                        "height": 430
+                      },
+                      {
+                        "width": 1332,
+                        "height": 861
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "032c1cd6-c542-3189-4eff-213c22031ae9"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/2",
+      "type": "Canvas",
+      "height": 2367,
+      "width": 3279,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/2/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/7eb5c9d4-476d-0cab-a525-a9b06e20a10a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/2",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/7eb5c9d4-476d-0cab-a525-a9b06e20a10a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2367,
+                "width": 3279,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/nai/iiif/7eb5c9d4-476d-0cab-a525-a9b06e20a10a",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 3279,
+                    "height": 2367,
+                    "sizes": [
+                      {
+                        "width": 204,
+                        "height": 147
+                      },
+                      {
+                        "width": 409,
+                        "height": 295
+                      },
+                      {
+                        "width": 819,
+                        "height": 591
+                      },
+                      {
+                        "width": 1639,
+                        "height": 1183
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "7eb5c9d4-476d-0cab-a525-a9b06e20a10a"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/3",
+      "type": "Canvas",
+      "height": 2544,
+      "width": 3447,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/3/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/a613915e-c2a9-c86c-05b8-104b060cc06a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/3",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/a613915e-c2a9-c86c-05b8-104b060cc06a/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2544,
+                "width": 3447,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/nai/iiif/a613915e-c2a9-c86c-05b8-104b060cc06a",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 3447,
+                    "height": 2544,
+                    "sizes": [
+                      {
+                        "width": 215,
+                        "height": 159
+                      },
+                      {
+                        "width": 430,
+                        "height": 318
+                      },
+                      {
+                        "width": 861,
+                        "height": 636
+                      },
+                      {
+                        "width": 1723,
+                        "height": 1272
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "a613915e-c2a9-c86c-05b8-104b060cc06a"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/4",
+      "type": "Canvas",
+      "height": 4643,
+      "width": 8879,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/4/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/246db0ef-1c7d-17a7-212e-2d038cf1eee0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/4",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/246db0ef-1c7d-17a7-212e-2d038cf1eee0/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4643,
+                "width": 8879,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/nai/iiif/246db0ef-1c7d-17a7-212e-2d038cf1eee0",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 8879,
+                    "height": 4643,
+                    "sizes": [
+                      {
+                        "width": 138,
+                        "height": 72
+                      },
+                      {
+                        "width": 277,
+                        "height": 145
+                      },
+                      {
+                        "width": 554,
+                        "height": 290
+                      },
+                      {
+                        "width": 1109,
+                        "height": 580
+                      },
+                      {
+                        "width": 2219,
+                        "height": 1160
+                      },
+                      {
+                        "width": 4439,
+                        "height": 2321
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "246db0ef-1c7d-17a7-212e-2d038cf1eee0"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/5",
+      "type": "Canvas",
+      "height": 4387,
+      "width": 8955,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/5/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/f4d7531a-f384-6df0-c27f-d27244444a5f",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/5",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/f4d7531a-f384-6df0-c27f-d27244444a5f/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4387,
+                "width": 8955,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/nai/iiif/f4d7531a-f384-6df0-c27f-d27244444a5f",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 8955,
+                    "height": 4387,
+                    "sizes": [
+                      {
+                        "width": 139,
+                        "height": 68
+                      },
+                      {
+                        "width": 279,
+                        "height": 137
+                      },
+                      {
+                        "width": 559,
+                        "height": 274
+                      },
+                      {
+                        "width": 1119,
+                        "height": 548
+                      },
+                      {
+                        "width": 2238,
+                        "height": 1096
+                      },
+                      {
+                        "width": 4477,
+                        "height": 2193
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "f4d7531a-f384-6df0-c27f-d27244444a5f"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/6",
+      "type": "Canvas",
+      "height": 6448,
+      "width": 9426,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/6/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.memorix.nl/nai/iiif/2e2232d1-bab5-7ce2-ad02-a09377e72427",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/hni/rave/RAVE.110286540.json/canvas/6",
+              "body": {
+                "id": "https://images.memorix.nl/nai/iiif/2e2232d1-bab5-7ce2-ad02-a09377e72427/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6448,
+                "width": 9426,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://images.memorix.nl/nai/iiif/2e2232d1-bab5-7ce2-ad02-a09377e72427",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 9426,
+                    "height": 6448,
+                    "sizes": [
+                      {
+                        "width": 147,
+                        "height": 100
+                      },
+                      {
+                        "width": 294,
+                        "height": 201
+                      },
+                      {
+                        "width": 589,
+                        "height": 403
+                      },
+                      {
+                        "width": 1178,
+                        "height": 806
+                      },
+                      {
+                        "width": 2356,
+                        "height": 1612
+                      },
+                      {
+                        "width": 4713,
+                        "height": 3224
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level1.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["native", "color", "gray"],
+                        "supports": [
+                          "regionByPct",
+                          "regionSquare",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "sizeAboveFull",
+                          "rotationBy90s",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "identifier": "2e2232d1-bab5-7ce2-ad02-a09377e72427"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
