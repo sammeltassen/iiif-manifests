@@ -1,0 +1,4284 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sammeltassen.nl/iiif-manifests/4tu/mijnkaarten.json",
+  "type": "Manifest",
+  "label": { "en": ["IIIF Manifest for Mijnkaarten"] },
+  "metadata": [
+    {
+      "label": { "en": ["Authors"] },
+      "value": {
+        "none": [
+          "Jan Hartmann",
+          "Roland Bisscheroux",
+          "Jules Schoonman",
+          "Sanne van den Breemer"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://data.4tu.nl/iiif/v3/aa02ab19-e913-4cad-8258-2f959f4b574d/canvas",
+      "type": "Canvas",
+      "height": 7259,
+      "width": 8841,
+      "label": { "none": ["KA_1734_KB_3120.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1734_KB_3120"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1734"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["KB_3120"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/aa02ab19-e913-4cad-8258-2f959f4b574d/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1734_KB_3120.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/aa02ab19-e913-4cad-8258-2f959f4b574d/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/aa02ab19-e913-4cad-8258-2f959f4b574d/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/b47a9360-eaac-410e-8214-5a0fed9ab501/canvas",
+      "type": "Canvas",
+      "height": 6666,
+      "width": 5326,
+      "label": { "none": ["KA_1760-1772_14.D004_1076_00156.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1760-1772_14.D004_1076_00156"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1760-1772"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["14.D004_1076_00156"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/b47a9360-eaac-410e-8214-5a0fed9ab501/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1760-1772_14.D004_1076_00156.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/b47a9360-eaac-410e-8214-5a0fed9ab501/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/b47a9360-eaac-410e-8214-5a0fed9ab501/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/a603d9ba-e59c-40c9-acbc-68516360325d/canvas",
+      "type": "Canvas",
+      "height": 11037,
+      "width": 16051,
+      "label": { "none": ["KA_1762_KBR_3121_Wormdal.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1762_KBR_3121_Wormdal"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1762"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["KBR_3121"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/a603d9ba-e59c-40c9-acbc-68516360325d/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1762_KBR_3121_Wormdal.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/a603d9ba-e59c-40c9-acbc-68516360325d/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/a603d9ba-e59c-40c9-acbc-68516360325d/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/cfbba734-b609-4cd2-9453-b69f798798e8/canvas",
+      "type": "Canvas",
+      "height": 10878,
+      "width": 19470,
+      "label": { "none": ["KA_1762_KBR_3122_Wormdal.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1762_KBR_3122_Wormdal"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1762"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["KBR_3122"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/cfbba734-b609-4cd2-9453-b69f798798e8/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1762_KBR_3122_Wormdal.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/cfbba734-b609-4cd2-9453-b69f798798e8/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/cfbba734-b609-4cd2-9453-b69f798798e8/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/4a6e62ff-5a3d-414d-854b-b91830491504/canvas",
+      "type": "Canvas",
+      "height": 6793,
+      "width": 17761,
+      "label": { "none": ["KA_1762_KBR_3123_Wormdal.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1762_KBR_3123_Wormdal"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1762"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["KBR_3123"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/4a6e62ff-5a3d-414d-854b-b91830491504/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1762_KBR_3123_Wormdal.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/4a6e62ff-5a3d-414d-854b-b91830491504/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/4a6e62ff-5a3d-414d-854b-b91830491504/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/7659eff4-4e96-4896-bef5-0eb1eae32e38/canvas",
+      "type": "Canvas",
+      "height": 8136,
+      "width": 12168,
+      "label": { "none": ["KA_1763_RAL_K_683_Wormdal.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1763_RAL_K_683_Wormdal"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1763"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["RAL_K_683"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/7659eff4-4e96-4896-bef5-0eb1eae32e38/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1763_RAL_K_683_Wormdal.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/7659eff4-4e96-4896-bef5-0eb1eae32e38/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/7659eff4-4e96-4896-bef5-0eb1eae32e38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/877f38e0-750a-42ff-929a-b62599449751/canvas",
+      "type": "Canvas",
+      "height": 11575,
+      "width": 16870,
+      "label": { "none": ["KA_1764_Ferraris_1764–1771.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1764_Ferraris_1764–1771"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1764-1771"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["Ferraris"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/877f38e0-750a-42ff-929a-b62599449751/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1764_Ferraris_1764–1771.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/877f38e0-750a-42ff-929a-b62599449751/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/877f38e0-750a-42ff-929a-b62599449751/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/58f29da6-da84-4037-a6e4-05c9e346bfc2/canvas",
+      "type": "Canvas",
+      "height": 5839,
+      "width": 7355,
+      "label": { "none": ["KA_1767_RAL_K_684_Wormdal.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1767_RAL_K_684_Wormdal"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1767"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["RAL_K_684"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/58f29da6-da84-4037-a6e4-05c9e346bfc2/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1767_RAL_K_684_Wormdal.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/58f29da6-da84-4037-a6e4-05c9e346bfc2/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/58f29da6-da84-4037-a6e4-05c9e346bfc2/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/b3c9979f-1b20-4b62-a6cc-df5816b661f2/canvas",
+      "type": "Canvas",
+      "height": 14158,
+      "width": 21466,
+      "label": { "none": ["KA_1771-1778_KBR_Ferraris.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1771-1778_KBR_Ferraris"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1771-1778"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["Ferraris"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/b3c9979f-1b20-4b62-a6cc-df5816b661f2/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1771-1778_KBR_Ferraris.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/b3c9979f-1b20-4b62-a6cc-df5816b661f2/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/b3c9979f-1b20-4b62-a6cc-df5816b661f2/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/c1a1be00-ac79-487f-8d0d-5ccba6ccac12/canvas",
+      "type": "Canvas",
+      "height": 12700,
+      "width": 8702,
+      "label": { "none": ["KA_1775_KB_3119_Wormdal.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1775_KB_3119_Wormdal"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1775"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["KB_3119"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/c1a1be00-ac79-487f-8d0d-5ccba6ccac12/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1775_KB_3119_Wormdal.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/c1a1be00-ac79-487f-8d0d-5ccba6ccac12/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/c1a1be00-ac79-487f-8d0d-5ccba6ccac12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/1de6524d-cb1e-4524-a605-ed5a07378b88/canvas",
+      "type": "Canvas",
+      "height": 6179,
+      "width": 7517,
+      "label": { "none": ["KA_1775_RHCL_RAL_K_046_Land_s-Hertogenrade.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1775_RHCL_RAL_K_046_Land_s-Hertogenrade"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1775"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RHCL_RAL_K_046"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/1de6524d-cb1e-4524-a605-ed5a07378b88/annotationpage",
+          "type": "AnnotationPage",
+          "label": {
+            "none": ["KA_1775_RHCL_RAL_K_046_Land_s-Hertogenrade.jpg"]
+          },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/1de6524d-cb1e-4524-a605-ed5a07378b88/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/1de6524d-cb1e-4524-a605-ed5a07378b88/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/23e4d99e-b5cf-43c6-baab-bfe1fe83fcda/canvas",
+      "type": "Canvas",
+      "height": 3083,
+      "width": 9159,
+      "label": { "none": ["KA_1780_Wormdal_R_RW_Karten-02468.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1780_Wormdal_R_RW_Karten-02468"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1780"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["R_RW_Karten-02468_DinA0_r"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/23e4d99e-b5cf-43c6-baab-bfe1fe83fcda/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1780_Wormdal_R_RW_Karten-02468.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/23e4d99e-b5cf-43c6-baab-bfe1fe83fcda/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/23e4d99e-b5cf-43c6-baab-bfe1fe83fcda/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/b94f819c-8f29-4183-91cf-f7622870de8c/canvas",
+      "type": "Canvas",
+      "height": 3508,
+      "width": 7448,
+      "label": { "none": ["KA_1781-1783_HSA_RW_Karten_3936_1.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1781-1783_HSA_RW_Karten_3936_1"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1781-1783"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["HSA_RW_Karten_3936_1"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/b94f819c-8f29-4183-91cf-f7622870de8c/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1781-1783_HSA_RW_Karten_3936_1.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/b94f819c-8f29-4183-91cf-f7622870de8c/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/b94f819c-8f29-4183-91cf-f7622870de8c/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/76912c7c-da89-43f6-acd5-801b7fd2037b/canvas",
+      "type": "Canvas",
+      "height": 3316,
+      "width": 7418,
+      "label": { "none": ["KA_1781-1783_HSA_RW_Karten_3936_2.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Hertogenrade"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1781-1783_HSA_RW_Karten_3936_2"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1781-1783"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["HSA_RW_Karten_3936_2"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/76912c7c-da89-43f6-acd5-801b7fd2037b/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1781-1783_HSA_RW_Karten_3936_2.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/76912c7c-da89-43f6-acd5-801b7fd2037b/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/76912c7c-da89-43f6-acd5-801b7fd2037b/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/609e3a56-000b-4582-ba35-a142ffa86414/canvas",
+      "type": "Canvas",
+      "height": 2974,
+      "width": 1979,
+      "label": { "none": ["KA_1790_Kohlenstrassen.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1790_Kohlenstrassen"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1790"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/609e3a56-000b-4582-ba35-a142ffa86414/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1790_Kohlenstrassen.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/609e3a56-000b-4582-ba35-a142ffa86414/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/609e3a56-000b-4582-ba35-a142ffa86414/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/3529f058-b411-4c76-813f-6a90d25ef24c/canvas",
+      "type": "Canvas",
+      "height": 5665,
+      "width": 7731,
+      "label": { "none": ["KA_1800_Prickkoul.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1800_Prickkoul"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1800"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/3529f058-b411-4c76-813f-6a90d25ef24c/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1800_Prickkoul.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/3529f058-b411-4c76-813f-6a90d25ef24c/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/3529f058-b411-4c76-813f-6a90d25ef24c/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/35049557-0caf-467a-9476-00082a439ca7/canvas",
+      "type": "Canvas",
+      "height": 6598,
+      "width": 8828,
+      "label": { "none": ["KA_1800_RAL_K_1451086_concessie_Prickkoul.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1800_RAL_K_1451086_concessie_Prickkoul"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1800"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RAL_K_1451086"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/35049557-0caf-467a-9476-00082a439ca7/annotationpage",
+          "type": "AnnotationPage",
+          "label": {
+            "none": ["KA_1800_RAL_K_1451086_concessie_Prickkoul.jpg"]
+          },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/35049557-0caf-467a-9476-00082a439ca7/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/35049557-0caf-467a-9476-00082a439ca7/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/f6a8f00f-c566-44cc-b4dd-5046ca96d107/canvas",
+      "type": "Canvas",
+      "height": 3912,
+      "width": 5880,
+      "label": { "none": ["KA_1800_RAL_K_146_Plattegrond_Kerkrade.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1800_RAL_K_146_Plattegrond_Kerkrade"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1800"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["RAL_K_146"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/f6a8f00f-c566-44cc-b4dd-5046ca96d107/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1800_RAL_K_146_Plattegrond_Kerkrade.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/f6a8f00f-c566-44cc-b4dd-5046ca96d107/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/f6a8f00f-c566-44cc-b4dd-5046ca96d107/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/90a7708d-3a6e-494f-a79b-70b8431b2066/canvas",
+      "type": "Canvas",
+      "height": 5665,
+      "width": 7731,
+      "label": {
+        "none": [
+          "KA_1800_RAL_K_685_1087_Alte_Prick_Leiendecker_Hankepank_Vockart_Pompenmacher_Spisserlehn_Kochen-Erven.jpg"
+        ]
+      },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": {
+            "nl": [
+              "KA_1800_RAL_K_685_1087_Alte_Prick_Leiendecker_Hankepank_Vockart_Pompenmacher_Spisserlehn_Kochen-Erven"
+            ]
+          }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1800"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RAL_K_685 1087"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/90a7708d-3a6e-494f-a79b-70b8431b2066/annotationpage",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "KA_1800_RAL_K_685_1087_Alte_Prick_Leiendecker_Hankepank_Vockart_Pompenmacher_Spisserlehn_Kochen-Erven.jpg"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/90a7708d-3a6e-494f-a79b-70b8431b2066/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/90a7708d-3a6e-494f-a79b-70b8431b2066/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/972327d0-1d29-424a-ab9d-d8eaa75997ca/canvas",
+      "type": "Canvas",
+      "height": 8105,
+      "width": 11577,
+      "label": { "none": ["KA_1800_RAL_K_726_Souterrain_Kerckraede.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1800_RAL_K_726_Souterrain_Kerckraede"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1800"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["RAL_K_726"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/972327d0-1d29-424a-ab9d-d8eaa75997ca/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1800_RAL_K_726_Souterrain_Kerckraede.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/972327d0-1d29-424a-ab9d-d8eaa75997ca/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/972327d0-1d29-424a-ab9d-d8eaa75997ca/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/6cbc9928-8e39-427c-83a7-d7cd861383e9/canvas",
+      "type": "Canvas",
+      "height": 3912,
+      "width": 5880,
+      "label": { "none": ["KA_1800_RAL_K_726_Souterrain_Kerckraede_2.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1800_RAL_K_726_Souterrain_Kerckraede_2"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1800"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["RAL_K_726"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/6cbc9928-8e39-427c-83a7-d7cd861383e9/annotationpage",
+          "type": "AnnotationPage",
+          "label": {
+            "none": ["KA_1800_RAL_K_726_Souterrain_Kerckraede_2.jpg"]
+          },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/6cbc9928-8e39-427c-83a7-d7cd861383e9/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/6cbc9928-8e39-427c-83a7-d7cd861383e9/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/da6cb43b-37db-42ee-8daf-0488e177c0ff/canvas",
+      "type": "Canvas",
+      "height": 5409,
+      "width": 6234,
+      "label": { "none": ["KA_1800_RHCL_RAL_K_070_Grens_Limburg_Pruisen.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1800_RHCL_RAL_K_070_Grens_Limburg_Pruisen"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1800"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RHCL_RAL_K_070"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/da6cb43b-37db-42ee-8daf-0488e177c0ff/annotationpage",
+          "type": "AnnotationPage",
+          "label": {
+            "none": ["KA_1800_RHCL_RAL_K_070_Grens_Limburg_Pruisen.jpg"]
+          },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/da6cb43b-37db-42ee-8daf-0488e177c0ff/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/da6cb43b-37db-42ee-8daf-0488e177c0ff/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/2539d6d1-7bbc-40d3-b0c3-c8a9ea47e046/canvas",
+      "type": "Canvas",
+      "height": 2109,
+      "width": 2060,
+      "label": { "none": ["KA_1805_Tranchot_76_Herzogenrath.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1805_Tranchot_76_Herzogenrath"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1805"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["Tranchot 76"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/2539d6d1-7bbc-40d3-b0c3-c8a9ea47e046/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1805_Tranchot_76_Herzogenrath.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/2539d6d1-7bbc-40d3-b0c3-c8a9ea47e046/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/2539d6d1-7bbc-40d3-b0c3-c8a9ea47e046/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/35534168-205b-4969-9438-e197c01a791a/canvas",
+      "type": "Canvas",
+      "height": 4674,
+      "width": 5610,
+      "label": { "none": ["KA_1806_0744_5_Commune_de_Kerkrade.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1806_0744_5_Commune_de_Kerkrade"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1806"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["0744_5"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/35534168-205b-4969-9438-e197c01a791a/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1806_0744_5_Commune_de_Kerkrade.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/35534168-205b-4969-9438-e197c01a791a/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/35534168-205b-4969-9438-e197c01a791a/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/83c08ca9-d713-47e5-afa6-b7e9cef7779f/canvas",
+      "type": "Canvas",
+      "height": 5456,
+      "width": 7392,
+      "label": { "none": ["KA_1806_14.D004_2048.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1806_14.D004_2048"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1806"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["14.D004_2048"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/83c08ca9-d713-47e5-afa6-b7e9cef7779f/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1806_14.D004_2048.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/83c08ca9-d713-47e5-afa6-b7e9cef7779f/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/83c08ca9-d713-47e5-afa6-b7e9cef7779f/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/1a737170-6186-46af-a142-2e85f38c90d4/canvas",
+      "type": "Canvas",
+      "height": 5456,
+      "width": 7392,
+      "label": {
+        "none": [
+          "KA_1806_RHCL_14.D004_2048_Concessies_Prickkoul_Bleijerheide_Bostrop.jpg"
+        ]
+      },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": {
+            "nl": [
+              "KA_1806_RHCL_14.D004_2048_Concessies_Prickkoul_Bleijerheide_Bostrop"
+            ]
+          }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1806"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RHCL 14.D004_2048"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/1a737170-6186-46af-a142-2e85f38c90d4/annotationpage",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "KA_1806_RHCL_14.D004_2048_Concessies_Prickkoul_Bleijerheide_Bostrop.jpg"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/1a737170-6186-46af-a142-2e85f38c90d4/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/1a737170-6186-46af-a142-2e85f38c90d4/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/1e931106-a406-4113-9c56-1cb0f54c5600/canvas",
+      "type": "Canvas",
+      "height": 8548,
+      "width": 11729,
+      "label": { "none": ["KA_1808_FRAN_0075_01265_A.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1808_FRAN_0075_01265_A"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1808"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_0075_01265_A"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/1e931106-a406-4113-9c56-1cb0f54c5600/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1808_FRAN_0075_01265_A.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/1e931106-a406-4113-9c56-1cb0f54c5600/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/1e931106-a406-4113-9c56-1cb0f54c5600/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/bde340e4-c5bf-40d3-81b2-1269290a1892/canvas",
+      "type": "Canvas",
+      "height": 3392,
+      "width": 3856,
+      "label": {
+        "none": [
+          "KA_1808_RHCL_14_D004_2049_Concessies_Lenoir_door_Buttgenbach.jpg"
+        ]
+      },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": {
+            "nl": [
+              "KA_1808_RHCL_14_D004_2049_Concessies_Lenoir_door_Buttgenbach"
+            ]
+          }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1808"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RHCL_14_D004_2049"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/bde340e4-c5bf-40d3-81b2-1269290a1892/annotationpage",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "KA_1808_RHCL_14_D004_2049_Concessies_Lenoir_door_Buttgenbach.jpg"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/bde340e4-c5bf-40d3-81b2-1269290a1892/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/bde340e4-c5bf-40d3-81b2-1269290a1892/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/b682ed6c-d48e-46c5-b924-1e1273bbf75c/canvas",
+      "type": "Canvas",
+      "height": 6144,
+      "width": 8683,
+      "label": { "none": ["KA_1810_FRAN_0075_01542_A.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_0075_01542_A"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_0075_01542_A"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/b682ed6c-d48e-46c5-b924-1e1273bbf75c/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_0075_01542_A.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/b682ed6c-d48e-46c5-b924-1e1273bbf75c/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/b682ed6c-d48e-46c5-b924-1e1273bbf75c/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/dfbb2e03-0042-4bb1-8a2d-1436cfff0f3f/canvas",
+      "type": "Canvas",
+      "height": 8311,
+      "width": 11551,
+      "label": { "none": ["KA_1810_FRAN_0075_01590_A.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_0075_01590_A"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_0075_01590_A"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/dfbb2e03-0042-4bb1-8a2d-1436cfff0f3f/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_0075_01590_A.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/dfbb2e03-0042-4bb1-8a2d-1436cfff0f3f/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/dfbb2e03-0042-4bb1-8a2d-1436cfff0f3f/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/2d0d11ad-35ce-4f85-8ad7-b0502c4474c2/canvas",
+      "type": "Canvas",
+      "height": 6540,
+      "width": 4040,
+      "label": { "none": ["KA_1810_NL-MtHCL_03.01_2602_0028.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_NL-MtHCL_03.01_2602_0028"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-MtHCL_03.01_2602_0028"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/2d0d11ad-35ce-4f85-8ad7-b0502c4474c2/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_NL-MtHCL_03.01_2602_0028.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/2d0d11ad-35ce-4f85-8ad7-b0502c4474c2/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/2d0d11ad-35ce-4f85-8ad7-b0502c4474c2/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/1f092046-e63f-4feb-9f76-16d47d15d83d/canvas",
+      "type": "Canvas",
+      "height": 7219,
+      "width": 5940,
+      "label": { "none": ["KA_1810_NL-MtHCL_03.01_2602_0030.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_NL-MtHCL_03.01_2602_0030"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-MtHCL_03.01_2602_0030"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/1f092046-e63f-4feb-9f76-16d47d15d83d/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_NL-MtHCL_03.01_2602_0030.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/1f092046-e63f-4feb-9f76-16d47d15d83d/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/1f092046-e63f-4feb-9f76-16d47d15d83d/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/6a9dfa8e-7753-4208-a0f5-f64a67a65e4f/canvas",
+      "type": "Canvas",
+      "height": 3000,
+      "width": 4100,
+      "label": { "none": ["KA_1810_NL-MtHCL_03.01_2603_0216.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_NL-MtHCL_03.01_2603_0216"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-MtHCL_03.01_2603_0216"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/6a9dfa8e-7753-4208-a0f5-f64a67a65e4f/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_NL-MtHCL_03.01_2603_0216.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/6a9dfa8e-7753-4208-a0f5-f64a67a65e4f/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/6a9dfa8e-7753-4208-a0f5-f64a67a65e4f/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/a741e0a7-090d-47c5-89d7-40ed7fcace68/canvas",
+      "type": "Canvas",
+      "height": 2980,
+      "width": 4700,
+      "label": { "none": ["KA_1810_NL-MtHCL_03.01_2603_0218.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_NL-MtHCL_03.01_2603_0218"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-MtHCL_03.01_2603_0218"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/a741e0a7-090d-47c5-89d7-40ed7fcace68/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_NL-MtHCL_03.01_2603_0218.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/a741e0a7-090d-47c5-89d7-40ed7fcace68/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/a741e0a7-090d-47c5-89d7-40ed7fcace68/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/5feb1376-bbe9-408e-a258-0a89e3c8391c/canvas",
+      "type": "Canvas",
+      "height": 4137,
+      "width": 4976,
+      "label": { "none": ["KA_1810_NL-MtHCL_03.01_2603_0298.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_NL-MtHCL_03.01_2603_0298"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-MtHCL_03.01_2603_0298"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/5feb1376-bbe9-408e-a258-0a89e3c8391c/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_NL-MtHCL_03.01_2603_0298.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/5feb1376-bbe9-408e-a258-0a89e3c8391c/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/5feb1376-bbe9-408e-a258-0a89e3c8391c/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/49b7488c-40ea-4873-9575-f21ea7bb231a/canvas",
+      "type": "Canvas",
+      "height": 7460,
+      "width": 6000,
+      "label": { "none": ["KA_1810_NL-MtHCL_03.01_2606_0004.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_NL-MtHCL_03.01_2606_0004"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-MtHCL_03.01_2606_0004"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/49b7488c-40ea-4873-9575-f21ea7bb231a/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_NL-MtHCL_03.01_2606_0004.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/49b7488c-40ea-4873-9575-f21ea7bb231a/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/49b7488c-40ea-4873-9575-f21ea7bb231a/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/df807ab2-1102-42fc-8425-9fa11344f721/canvas",
+      "type": "Canvas",
+      "height": 4218,
+      "width": 6350,
+      "label": { "none": ["KA_1810_RHCL_03.01_2599_23.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Meuse Inferieure"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_RHCL_03.01_2599_23"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RHCL 03.01_2599_23"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/df807ab2-1102-42fc-8425-9fa11344f721/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_RHCL_03.01_2599_23.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/df807ab2-1102-42fc-8425-9fa11344f721/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/df807ab2-1102-42fc-8425-9fa11344f721/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/a078941b-7b24-461b-beeb-92b80e879faa/canvas",
+      "type": "Canvas",
+      "height": 4218,
+      "width": 6350,
+      "label": { "none": ["KA_1815_RHCL_03.01_2599_23.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1815_RHCL_03.01_2599_23"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1815"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RHCL_03.01_2599_23"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/a078941b-7b24-461b-beeb-92b80e879faa/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1815_RHCL_03.01_2599_23.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/a078941b-7b24-461b-beeb-92b80e879faa/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/a078941b-7b24-461b-beeb-92b80e879faa/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/4a1150a5-7968-4758-8717-ff1b64346bfc/canvas",
+      "type": "Canvas",
+      "height": 6095,
+      "width": 8436,
+      "label": { "none": ["KA_1817_Kerkrade_plattegrond.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1817_Kerkrade_plattegrond"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1817"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-HaNA_4.WCA_11279"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/4a1150a5-7968-4758-8717-ff1b64346bfc/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1817_Kerkrade_plattegrond.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/4a1150a5-7968-4758-8717-ff1b64346bfc/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/4a1150a5-7968-4758-8717-ff1b64346bfc/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/f5ef9da1-37cd-4f72-a34d-ce74f23e21cb/canvas",
+      "type": "Canvas",
+      "height": 6240,
+      "width": 7371,
+      "label": { "none": ["KA_1819_18H_206.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1819_18H_206"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1819"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/f5ef9da1-37cd-4f72-a34d-ce74f23e21cb/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1819_18H_206.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/f5ef9da1-37cd-4f72-a34d-ce74f23e21cb/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/f5ef9da1-37cd-4f72-a34d-ce74f23e21cb/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/961efb48-82d7-4d36-ae97-f65c7b80ab01/canvas",
+      "type": "Canvas",
+      "height": 6455,
+      "width": 7427,
+      "label": { "none": ["KA_1819_18H_207.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1819_18H_207"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1819"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/961efb48-82d7-4d36-ae97-f65c7b80ab01/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1819_18H_207.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/961efb48-82d7-4d36-ae97-f65c7b80ab01/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/961efb48-82d7-4d36-ae97-f65c7b80ab01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/81c15eb0-d894-4003-9ad1-d109e2c37eaf/canvas",
+      "type": "Canvas",
+      "height": 6250,
+      "width": 7099,
+      "label": { "none": ["KA_1819_18H_208.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1819_18H_208"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1819"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/81c15eb0-d894-4003-9ad1-d109e2c37eaf/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1819_18H_208.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/81c15eb0-d894-4003-9ad1-d109e2c37eaf/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/81c15eb0-d894-4003-9ad1-d109e2c37eaf/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/0d123f8f-cb0d-4fee-aebd-c35124ae4905/canvas",
+      "type": "Canvas",
+      "height": 2241,
+      "width": 2048,
+      "label": { "none": ["KA_1819_Industrion_stitched.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1819_Industrion_stitched"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1819"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["Industrion"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/0d123f8f-cb0d-4fee-aebd-c35124ae4905/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1819_Industrion_stitched.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/0d123f8f-cb0d-4fee-aebd-c35124ae4905/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/0d123f8f-cb0d-4fee-aebd-c35124ae4905/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/42c56888-a0fb-4099-8ece-9d9546f2198d/canvas",
+      "type": "Canvas",
+      "height": 8057,
+      "width": 12082,
+      "label": { "none": ["KA_1819_Weg_Kerkrade-Aken.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1819_Weg_Kerkrade-Aken"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1819"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-HaNA_4.WCA_19301"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/42c56888-a0fb-4099-8ece-9d9546f2198d/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1819_Weg_Kerkrade-Aken.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/42c56888-a0fb-4099-8ece-9d9546f2198d/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/42c56888-a0fb-4099-8ece-9d9546f2198d/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/c26b722d-96d3-4e5b-9029-63e936dd6016/canvas",
+      "type": "Canvas",
+      "height": 3364,
+      "width": 3732,
+      "label": { "none": ["KA_1827_14D.004_2051.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1827_14D.004_2051"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1827"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/c26b722d-96d3-4e5b-9029-63e936dd6016/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1827_14D.004_2051.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/c26b722d-96d3-4e5b-9029-63e936dd6016/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/c26b722d-96d3-4e5b-9029-63e936dd6016/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/030637ce-3e46-401d-ad74-688e03280b8c/canvas",
+      "type": "Canvas",
+      "height": 12339,
+      "width": 16103,
+      "label": { "none": ["KA_1828-1830_Mouillers_Domanial.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1828-1830_Mouillers_Domanial"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1828-1830"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-HaNA_2.08.17_542"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/030637ce-3e46-401d-ad74-688e03280b8c/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1828-1830_Mouillers_Domanial.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/030637ce-3e46-401d-ad74-688e03280b8c/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/030637ce-3e46-401d-ad74-688e03280b8c/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/5808a40d-2ec5-4346-83c5-76f2f59fc7d0/canvas",
+      "type": "Canvas",
+      "height": 2200,
+      "width": 3010,
+      "label": { "none": ["KA_DR_33890.6_NL-MtHCL_04_3.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.6_NL-MtHCL_04_3"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/5808a40d-2ec5-4346-83c5-76f2f59fc7d0/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.6_NL-MtHCL_04_3.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/5808a40d-2ec5-4346-83c5-76f2f59fc7d0/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/5808a40d-2ec5-4346-83c5-76f2f59fc7d0/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/180a3b8a-a3b5-4770-8bbc-ca7179db9015/canvas",
+      "type": "Canvas",
+      "height": 4386,
+      "width": 6016,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0083_04_2.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0083_04_2"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/180a3b8a-a3b5-4770-8bbc-ca7179db9015/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0083_04_2.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/180a3b8a-a3b5-4770-8bbc-ca7179db9015/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/180a3b8a-a3b5-4770-8bbc-ca7179db9015/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/eb3ffed6-511e-4a19-8ee1-f146873054ba/canvas",
+      "type": "Canvas",
+      "height": 6068,
+      "width": 7949,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0098_04_5.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0098_04_5"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/eb3ffed6-511e-4a19-8ee1-f146873054ba/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0098_04_5.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/eb3ffed6-511e-4a19-8ee1-f146873054ba/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/eb3ffed6-511e-4a19-8ee1-f146873054ba/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/c131a610-8dab-4aab-ba42-9cdfbbd5be4e/canvas",
+      "type": "Canvas",
+      "height": 8039,
+      "width": 7433,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0146_04_6A.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0146_04_6A"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/c131a610-8dab-4aab-ba42-9cdfbbd5be4e/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0146_04_6A.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/c131a610-8dab-4aab-ba42-9cdfbbd5be4e/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/c131a610-8dab-4aab-ba42-9cdfbbd5be4e/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/98de33ef-42f7-467e-8d7b-300380018663/canvas",
+      "type": "Canvas",
+      "height": 8028,
+      "width": 7366,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0147_04_6B.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0147_04_6B"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/98de33ef-42f7-467e-8d7b-300380018663/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0147_04_6B.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/98de33ef-42f7-467e-8d7b-300380018663/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/98de33ef-42f7-467e-8d7b-300380018663/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/1d43b694-8281-4829-bbc1-13fb68d91bf9/canvas",
+      "type": "Canvas",
+      "height": 5566,
+      "width": 6957,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0155_04_7.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0155_04_7"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/1d43b694-8281-4829-bbc1-13fb68d91bf9/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0155_04_7.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/1d43b694-8281-4829-bbc1-13fb68d91bf9/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/1d43b694-8281-4829-bbc1-13fb68d91bf9/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/2eba9ab0-95ee-439b-a9d1-3c953895c913/canvas",
+      "type": "Canvas",
+      "height": 4500,
+      "width": 5958,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0242_04_8.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0242_04_8"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/2eba9ab0-95ee-439b-a9d1-3c953895c913/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0242_04_8.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/2eba9ab0-95ee-439b-a9d1-3c953895c913/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/2eba9ab0-95ee-439b-a9d1-3c953895c913/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/81b33edc-946b-4dd9-a687-7a7118046333/canvas",
+      "type": "Canvas",
+      "height": 4500,
+      "width": 6145,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0252_04_9.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0252_04_9"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/81b33edc-946b-4dd9-a687-7a7118046333/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0252_04_9.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/81b33edc-946b-4dd9-a687-7a7118046333/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/81b33edc-946b-4dd9-a687-7a7118046333/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/7d84863b-bc07-4877-816d-b4d2f2612f51/canvas",
+      "type": "Canvas",
+      "height": 4463,
+      "width": 6178,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0254_04_10.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0254_04_10"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/7d84863b-bc07-4877-816d-b4d2f2612f51/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0254_04_10.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/7d84863b-bc07-4877-816d-b4d2f2612f51/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/7d84863b-bc07-4877-816d-b4d2f2612f51/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/5e114852-e24c-4ad0-90a8-c52b05fd22f4/canvas",
+      "type": "Canvas",
+      "height": 4483,
+      "width": 6826,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0267_04_11.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0267_04_11"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/5e114852-e24c-4ad0-90a8-c52b05fd22f4/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0267_04_11.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/5e114852-e24c-4ad0-90a8-c52b05fd22f4/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/5e114852-e24c-4ad0-90a8-c52b05fd22f4/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/cd588c43-ff56-410d-911b-4195c08b4cb9/canvas",
+      "type": "Canvas",
+      "height": 5584,
+      "width": 6830,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0313_04_12.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0313_04_12"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/cd588c43-ff56-410d-911b-4195c08b4cb9/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0313_04_12.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/cd588c43-ff56-410d-911b-4195c08b4cb9/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/cd588c43-ff56-410d-911b-4195c08b4cb9/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/5c07ac61-29f5-437d-a047-5496c0cce18c/canvas",
+      "type": "Canvas",
+      "height": 4408,
+      "width": 5987,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0329_04_13.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0329_04_13"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/5c07ac61-29f5-437d-a047-5496c0cce18c/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0329_04_13.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/5c07ac61-29f5-437d-a047-5496c0cce18c/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/5c07ac61-29f5-437d-a047-5496c0cce18c/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/fd653f86-c499-4bb4-ba93-916c2a7ae299/canvas",
+      "type": "Canvas",
+      "height": 5009,
+      "width": 5954,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0388_04_14.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0388_04_14"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/fd653f86-c499-4bb4-ba93-916c2a7ae299/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0388_04_14.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/fd653f86-c499-4bb4-ba93-916c2a7ae299/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/fd653f86-c499-4bb4-ba93-916c2a7ae299/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/09d73158-6447-471d-9344-52a943c5cdd4/canvas",
+      "type": "Canvas",
+      "height": 4054,
+      "width": 5993,
+      "label": { "none": ["KA_DR_33890.7_04.01_11235_0389_04_15.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_DR_33890.7_04.01_11235_0389_04_15"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/09d73158-6447-471d-9344-52a943c5cdd4/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_DR_33890.7_04.01_11235_0389_04_15.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/09d73158-6447-471d-9344-52a943c5cdd4/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/09d73158-6447-471d-9344-52a943c5cdd4/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/0cc6831a-a075-4ab8-81bb-307b07b7f598/canvas",
+      "type": "Canvas",
+      "height": 5480,
+      "width": 6680,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11233_0011.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11233_0011"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/0cc6831a-a075-4ab8-81bb-307b07b7f598/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11233_0011.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/0cc6831a-a075-4ab8-81bb-307b07b7f598/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/0cc6831a-a075-4ab8-81bb-307b07b7f598/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/d9ddfc23-1594-4dbd-99d4-6dc30287d7c8/canvas",
+      "type": "Canvas",
+      "height": 2940,
+      "width": 3280,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11233_0013.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11233_0013"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/d9ddfc23-1594-4dbd-99d4-6dc30287d7c8/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11233_0013.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d9ddfc23-1594-4dbd-99d4-6dc30287d7c8/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/d9ddfc23-1594-4dbd-99d4-6dc30287d7c8/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/328f32fd-1230-4d71-bb98-f6dd626ae203/canvas",
+      "type": "Canvas",
+      "height": 4580,
+      "width": 5560,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11233_0075.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11233_0075"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/328f32fd-1230-4d71-bb98-f6dd626ae203/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11233_0075.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/328f32fd-1230-4d71-bb98-f6dd626ae203/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/328f32fd-1230-4d71-bb98-f6dd626ae203/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/bdbe3c29-864c-44dc-a661-35aa513f39a7/canvas",
+      "type": "Canvas",
+      "height": 5620,
+      "width": 5020,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11233_0080.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11233_0080"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/bdbe3c29-864c-44dc-a661-35aa513f39a7/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11233_0080.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/bdbe3c29-864c-44dc-a661-35aa513f39a7/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/bdbe3c29-864c-44dc-a661-35aa513f39a7/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/28d5a403-2296-465a-aaa1-797c5812e5ea/canvas",
+      "type": "Canvas",
+      "height": 5500,
+      "width": 5080,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11233_0082.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11233_0082"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/28d5a403-2296-465a-aaa1-797c5812e5ea/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11233_0082.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/28d5a403-2296-465a-aaa1-797c5812e5ea/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/28d5a403-2296-465a-aaa1-797c5812e5ea/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/bed6fd74-d273-43ca-a4b4-bea074e4b3f4/canvas",
+      "type": "Canvas",
+      "height": 5940,
+      "width": 7119,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11234_0191.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11234_0191"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/bed6fd74-d273-43ca-a4b4-bea074e4b3f4/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11234_0191.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/bed6fd74-d273-43ca-a4b4-bea074e4b3f4/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/bed6fd74-d273-43ca-a4b4-bea074e4b3f4/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/f84724c3-3977-491f-86c1-1510f2c6ba51/canvas",
+      "type": "Canvas",
+      "height": 5840,
+      "width": 7000,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11234_0193.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11234_0193"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/f84724c3-3977-491f-86c1-1510f2c6ba51/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11234_0193.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/f84724c3-3977-491f-86c1-1510f2c6ba51/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/f84724c3-3977-491f-86c1-1510f2c6ba51/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/e88aaf9e-69d3-471a-9ec2-8105791aa31c/canvas",
+      "type": "Canvas",
+      "height": 4400,
+      "width": 6020,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11234_0228.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11234_0228"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/e88aaf9e-69d3-471a-9ec2-8105791aa31c/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11234_0228.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/e88aaf9e-69d3-471a-9ec2-8105791aa31c/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/e88aaf9e-69d3-471a-9ec2-8105791aa31c/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/df574838-6a72-49ae-bb89-09b4f5ec11fe/canvas",
+      "type": "Canvas",
+      "height": 7760,
+      "width": 5620,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11234_0230.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11234_0230"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/df574838-6a72-49ae-bb89-09b4f5ec11fe/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11234_0230.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/df574838-6a72-49ae-bb89-09b4f5ec11fe/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/df574838-6a72-49ae-bb89-09b4f5ec11fe/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/a0468465-d65a-4b7a-b511-b241d53e4a44/canvas",
+      "type": "Canvas",
+      "height": 6097,
+      "width": 4213,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11234_0246.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11234_0246"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/a0468465-d65a-4b7a-b511-b241d53e4a44/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11234_0246.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/a0468465-d65a-4b7a-b511-b241d53e4a44/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/a0468465-d65a-4b7a-b511-b241d53e4a44/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/f4247ef0-9517-4a3c-9bfc-947e9f54daf6/canvas",
+      "type": "Canvas",
+      "height": 4420,
+      "width": 6400,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11234_0249.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11234_0249"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/f4247ef0-9517-4a3c-9bfc-947e9f54daf6/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11234_0249.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/f4247ef0-9517-4a3c-9bfc-947e9f54daf6/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/f4247ef0-9517-4a3c-9bfc-947e9f54daf6/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/b5e27f92-53fb-43e2-b1f7-10ccf00d83e3/canvas",
+      "type": "Canvas",
+      "height": 4420,
+      "width": 6200,
+      "label": { "none": ["KA_NL-MtHCL_04.01_11234_0251.jpg"] },
+      "metadata": [
+        {
+          "label": { "nl": ["Serie"] },
+          "value": { "nl": ["Verenigd Koninkrijk"] }
+        },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_04.01_11234_0251"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/b5e27f92-53fb-43e2-b1f7-10ccf00d83e3/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_04.01_11234_0251.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/b5e27f92-53fb-43e2-b1f7-10ccf00d83e3/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/b5e27f92-53fb-43e2-b1f7-10ccf00d83e3/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/0561b4d7-f21c-4f2c-adb9-563a4c4b3ff7/canvas",
+      "type": "Canvas",
+      "height": 7219,
+      "width": 9920,
+      "label": { "none": ["KA_1846_Kirchrather_Grabenfeld.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Nederland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1846_Kirchrather_Grabenfeld"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1846"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-MtHCL_17.04_183_0003"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/0561b4d7-f21c-4f2c-adb9-563a4c4b3ff7/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1846_Kirchrather_Grabenfeld.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/0561b4d7-f21c-4f2c-adb9-563a4c4b3ff7/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/0561b4d7-f21c-4f2c-adb9-563a4c4b3ff7/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/e495af7a-871a-40c5-8e5e-c1911b8490ca/canvas",
+      "type": "Canvas",
+      "height": 10129,
+      "width": 10600,
+      "label": { "none": ["KA_1846_RAL_K_144_Domaniale_Mijn.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Nederland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1846_RAL_K_144_Domaniale_Mijn"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1846"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["RAL_K_144"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/e495af7a-871a-40c5-8e5e-c1911b8490ca/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1846_RAL_K_144_Domaniale_Mijn.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/e495af7a-871a-40c5-8e5e-c1911b8490ca/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/e495af7a-871a-40c5-8e5e-c1911b8490ca/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/36d320b4-edac-42c8-a00c-76b47155ca94/canvas",
+      "type": "Canvas",
+      "height": 11222,
+      "width": 12125,
+      "label": {
+        "none": [
+          "KA_1858_NL-HaNA_4.FIDZ_467_Concessie_Dominiale_Steenkolenmijnen.jpg"
+        ]
+      },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Nederland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": {
+            "nl": [
+              "KA_1858_NL-HaNA_4.FIDZ_467_Concessie_Dominiale_Steenkolenmijnen"
+            ]
+          }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1858"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-HaNA_4.FIDZ_467"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/36d320b4-edac-42c8-a00c-76b47155ca94/annotationpage",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "KA_1858_NL-HaNA_4.FIDZ_467_Concessie_Dominiale_Steenkolenmijnen.jpg"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/36d320b4-edac-42c8-a00c-76b47155ca94/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/36d320b4-edac-42c8-a00c-76b47155ca94/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/550d9538-5cbf-4266-8c5e-ed38bcf2348f/canvas",
+      "type": "Canvas",
+      "height": 1993,
+      "width": 2362,
+      "label": { "none": ["KA_1900_Concessie_steenkolenterrein.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Nederland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1900_Concessie_steenkolenterrein"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1900"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/550d9538-5cbf-4266-8c5e-ed38bcf2348f/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1900_Concessie_steenkolenterrein.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/550d9538-5cbf-4266-8c5e-ed38bcf2348f/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/550d9538-5cbf-4266-8c5e-ed38bcf2348f/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/ea1aa1bb-b335-4625-9f4d-b42ed584bcae/canvas",
+      "type": "Canvas",
+      "height": 15194,
+      "width": 15900,
+      "label": { "none": ["KA_RAL_K_144.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Nederland"] } },
+        { "label": { "nl": ["Kaart"] }, "value": { "nl": ["KA_RAL_K_144"] } },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["K_144"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/ea1aa1bb-b335-4625-9f4d-b42ed584bcae/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_RAL_K_144.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/ea1aa1bb-b335-4625-9f4d-b42ed584bcae/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/ea1aa1bb-b335-4625-9f4d-b42ed584bcae/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/32be975d-dc0c-47c0-93f0-5c40eac175c7/canvas",
+      "type": "Canvas",
+      "height": 18723,
+      "width": 11328,
+      "label": { "none": ["KA_10421-01002.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        { "label": { "nl": ["Kaart"] }, "value": { "nl": ["KA_10421-01002"] } },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/32be975d-dc0c-47c0-93f0-5c40eac175c7/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_10421-01002.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/32be975d-dc0c-47c0-93f0-5c40eac175c7/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/32be975d-dc0c-47c0-93f0-5c40eac175c7/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/899ba0bc-255e-44e1-bffa-d04f31c91ef4/canvas",
+      "type": "Canvas",
+      "height": 18450,
+      "width": 9760,
+      "label": { "none": ["KA_10421-01003.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        { "label": { "nl": ["Kaart"] }, "value": { "nl": ["KA_10421-01003"] } },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/899ba0bc-255e-44e1-bffa-d04f31c91ef4/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_10421-01003.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/899ba0bc-255e-44e1-bffa-d04f31c91ef4/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/899ba0bc-255e-44e1-bffa-d04f31c91ef4/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/9f3e08bc-9a0d-4521-99be-0de5d1fb7bc6/canvas",
+      "type": "Canvas",
+      "height": 18801,
+      "width": 9760,
+      "label": { "none": ["KA_10421-01004.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        { "label": { "nl": ["Kaart"] }, "value": { "nl": ["KA_10421-01004"] } },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/9f3e08bc-9a0d-4521-99be-0de5d1fb7bc6/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_10421-01004.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/9f3e08bc-9a0d-4521-99be-0de5d1fb7bc6/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/9f3e08bc-9a0d-4521-99be-0de5d1fb7bc6/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/e87d7bbd-36dc-4cb4-b64f-f45d8f7f3fd5/canvas",
+      "type": "Canvas",
+      "height": 18747,
+      "width": 9760,
+      "label": { "none": ["KA_10421-01005.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        { "label": { "nl": ["Kaart"] }, "value": { "nl": ["KA_10421-01005"] } },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/e87d7bbd-36dc-4cb4-b64f-f45d8f7f3fd5/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_10421-01005.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/e87d7bbd-36dc-4cb4-b64f-f45d8f7f3fd5/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/e87d7bbd-36dc-4cb4-b64f-f45d8f7f3fd5/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/1df1b13f-905b-4511-92ac-ae6aa23efe94/canvas",
+      "type": "Canvas",
+      "height": 18805,
+      "width": 9760,
+      "label": { "none": ["KA_10421-01006.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        { "label": { "nl": ["Kaart"] }, "value": { "nl": ["KA_10421-01006"] } },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/1df1b13f-905b-4511-92ac-ae6aa23efe94/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_10421-01006.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/1df1b13f-905b-4511-92ac-ae6aa23efe94/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/1df1b13f-905b-4511-92ac-ae6aa23efe94/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/cc3b53df-b599-4e5d-9efc-e6be61c7cdd7/canvas",
+      "type": "Canvas",
+      "height": 4065,
+      "width": 8491,
+      "label": { "none": ["KA_1700_R_RW_Karten-04300_II_DinA0_r.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1700_R_RW_Karten-04300_II_DinA0_r"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1700"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["R_RW_Karten-04300_II"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/cc3b53df-b599-4e5d-9efc-e6be61c7cdd7/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1700_R_RW_Karten-04300_II_DinA0_r.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/cc3b53df-b599-4e5d-9efc-e6be61c7cdd7/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/cc3b53df-b599-4e5d-9efc-e6be61c7cdd7/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/4cd2e8bc-c2e3-4bb9-ac23-7754ca667598/canvas",
+      "type": "Canvas",
+      "height": 4055,
+      "width": 8147,
+      "label": { "none": ["KA_1700_R_RW_Karten-04300_I_DinA0_r.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1700_R_RW_Karten-04300_I_DinA0_r"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1700"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["R_RW_Karten-04300_II"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/4cd2e8bc-c2e3-4bb9-ac23-7754ca667598/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1700_R_RW_Karten-04300_I_DinA0_r.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/4cd2e8bc-c2e3-4bb9-ac23-7754ca667598/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/4cd2e8bc-c2e3-4bb9-ac23-7754ca667598/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/02f10a5b-37d1-4b38-b829-f6bb55afb08a/canvas",
+      "type": "Canvas",
+      "height": 3316,
+      "width": 7418,
+      "label": { "none": ["KA_1781-1783_Rheinland_Karten-03936_01_r.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1781-1783_Rheinland_Karten-03936_01_r"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1781-1783"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["Abt_Rheinland_R_RW Karten-03936_UeFmt_vlnr_02_r"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/02f10a5b-37d1-4b38-b829-f6bb55afb08a/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1781-1783_Rheinland_Karten-03936_01_r.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/02f10a5b-37d1-4b38-b829-f6bb55afb08a/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/02f10a5b-37d1-4b38-b829-f6bb55afb08a/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/0396b1cd-efdf-4782-9066-358cd84b0bc7/canvas",
+      "type": "Canvas",
+      "height": 3508,
+      "width": 7448,
+      "label": { "none": ["KA_1781-1783_Rheinland_Karten-03936_02_r.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1781-1783_Rheinland_Karten-03936_02_r"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1781-1783"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["Abt_Rheinland_R_RW Karten-03936_UeFmt_vlnr_01_r"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/0396b1cd-efdf-4782-9066-358cd84b0bc7/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1781-1783_Rheinland_Karten-03936_02_r.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/0396b1cd-efdf-4782-9066-358cd84b0bc7/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/0396b1cd-efdf-4782-9066-358cd84b0bc7/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/b32a67b2-4f2b-4fec-9fd2-c995c73d34aa/canvas",
+      "type": "Canvas",
+      "height": 4541,
+      "width": 6060,
+      "label": { "none": ["KA_1810_FRAN_2024_00449.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00449"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00449"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/b32a67b2-4f2b-4fec-9fd2-c995c73d34aa/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00449.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/b32a67b2-4f2b-4fec-9fd2-c995c73d34aa/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/b32a67b2-4f2b-4fec-9fd2-c995c73d34aa/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/3a3084c8-afe7-489a-96a7-14fbfd447f87/canvas",
+      "type": "Canvas",
+      "height": 6608,
+      "width": 11614,
+      "label": { "none": ["KA_1810_FRAN_2024_00452.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00452"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00452"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/3a3084c8-afe7-489a-96a7-14fbfd447f87/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00452.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/3a3084c8-afe7-489a-96a7-14fbfd447f87/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/3a3084c8-afe7-489a-96a7-14fbfd447f87/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/6ff8e122-4207-47aa-af34-238198f8775f/canvas",
+      "type": "Canvas",
+      "height": 4635,
+      "width": 5572,
+      "label": { "none": ["KA_1810_FRAN_2024_00454.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00454"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00454"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/6ff8e122-4207-47aa-af34-238198f8775f/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00454.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/6ff8e122-4207-47aa-af34-238198f8775f/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/6ff8e122-4207-47aa-af34-238198f8775f/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/52273716-11d2-4e03-bd1e-8e45bb8b867b/canvas",
+      "type": "Canvas",
+      "height": 3240,
+      "width": 8643,
+      "label": { "none": ["KA_1810_FRAN_2024_00455.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00455"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00455"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/52273716-11d2-4e03-bd1e-8e45bb8b867b/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00455.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/52273716-11d2-4e03-bd1e-8e45bb8b867b/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/52273716-11d2-4e03-bd1e-8e45bb8b867b/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/19db8f7b-c0a6-479f-a587-f1f928593541/canvas",
+      "type": "Canvas",
+      "height": 5356,
+      "width": 7728,
+      "label": { "none": ["KA_1810_FRAN_2024_00456.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00456"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00456"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/19db8f7b-c0a6-479f-a587-f1f928593541/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00456.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/19db8f7b-c0a6-479f-a587-f1f928593541/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/19db8f7b-c0a6-479f-a587-f1f928593541/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/671d9a93-aaf0-4051-a323-deaba3fe3334/canvas",
+      "type": "Canvas",
+      "height": 5606,
+      "width": 6506,
+      "label": { "none": ["KA_1810_FRAN_2024_00458.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00458"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00458"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/671d9a93-aaf0-4051-a323-deaba3fe3334/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00458.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/671d9a93-aaf0-4051-a323-deaba3fe3334/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/671d9a93-aaf0-4051-a323-deaba3fe3334/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/0b95ecd2-28f2-415b-a0c4-95b9a1066d05/canvas",
+      "type": "Canvas",
+      "height": 4308,
+      "width": 6499,
+      "label": { "none": ["KA_1810_FRAN_2024_00460.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00460"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00460"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/0b95ecd2-28f2-415b-a0c4-95b9a1066d05/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00460.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/0b95ecd2-28f2-415b-a0c4-95b9a1066d05/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/0b95ecd2-28f2-415b-a0c4-95b9a1066d05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/b293547c-dd54-4d1b-abc4-98419881f6f1/canvas",
+      "type": "Canvas",
+      "height": 3200,
+      "width": 4940,
+      "label": { "none": ["KA_1810_FRAN_2024_00462.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00462"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00462"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/b293547c-dd54-4d1b-abc4-98419881f6f1/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00462.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/b293547c-dd54-4d1b-abc4-98419881f6f1/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/b293547c-dd54-4d1b-abc4-98419881f6f1/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/90ea1600-ef31-4e28-aeb3-98a4871e177b/canvas",
+      "type": "Canvas",
+      "height": 5990,
+      "width": 7148,
+      "label": { "none": ["KA_1810_FRAN_2024_00464.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00464"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00464"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/90ea1600-ef31-4e28-aeb3-98a4871e177b/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00464.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/90ea1600-ef31-4e28-aeb3-98a4871e177b/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/90ea1600-ef31-4e28-aeb3-98a4871e177b/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/2a97c2a2-0c25-423e-bbc5-6b304d1a2c50/canvas",
+      "type": "Canvas",
+      "height": 6503,
+      "width": 8615,
+      "label": { "none": ["KA_1810_FRAN_2024_00466.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00466"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00466"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/2a97c2a2-0c25-423e-bbc5-6b304d1a2c50/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00466.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/2a97c2a2-0c25-423e-bbc5-6b304d1a2c50/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/2a97c2a2-0c25-423e-bbc5-6b304d1a2c50/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/9645f04a-1845-4122-870f-4379512918ed/canvas",
+      "type": "Canvas",
+      "height": 4357,
+      "width": 6402,
+      "label": { "none": ["KA_1810_FRAN_2024_00468.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00468"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00468"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/9645f04a-1845-4122-870f-4379512918ed/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00468.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/9645f04a-1845-4122-870f-4379512918ed/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/9645f04a-1845-4122-870f-4379512918ed/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/0de00c6e-a143-44bc-9c1c-399d5b992ed1/canvas",
+      "type": "Canvas",
+      "height": 4741,
+      "width": 6512,
+      "label": { "none": ["KA_1810_FRAN_2024_00470.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00470"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00470"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/0de00c6e-a143-44bc-9c1c-399d5b992ed1/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00470.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/0de00c6e-a143-44bc-9c1c-399d5b992ed1/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/0de00c6e-a143-44bc-9c1c-399d5b992ed1/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/f9d85436-54fd-49b8-93d6-020bb640436c/canvas",
+      "type": "Canvas",
+      "height": 6511,
+      "width": 8808,
+      "label": { "none": ["KA_1810_FRAN_2024_00472.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00472"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00472"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/f9d85436-54fd-49b8-93d6-020bb640436c/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00472.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/f9d85436-54fd-49b8-93d6-020bb640436c/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/f9d85436-54fd-49b8-93d6-020bb640436c/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/82586c3f-471e-4204-bb0a-b9212178d5f3/canvas",
+      "type": "Canvas",
+      "height": 4290,
+      "width": 6556,
+      "label": { "none": ["KA_1810_FRAN_2024_00474.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00474"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00474"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/82586c3f-471e-4204-bb0a-b9212178d5f3/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00474.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/82586c3f-471e-4204-bb0a-b9212178d5f3/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/82586c3f-471e-4204-bb0a-b9212178d5f3/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/e03a5c72-58d9-4904-804a-857fc46d3208/canvas",
+      "type": "Canvas",
+      "height": 3168,
+      "width": 4530,
+      "label": { "none": ["KA_1810_FRAN_2024_00476.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00476"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00476"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/e03a5c72-58d9-4904-804a-857fc46d3208/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00476.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/e03a5c72-58d9-4904-804a-857fc46d3208/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/e03a5c72-58d9-4904-804a-857fc46d3208/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/50533e1b-1f4b-4f78-8aa1-07aae27d71e6/canvas",
+      "type": "Canvas",
+      "height": 5776,
+      "width": 8780,
+      "label": { "none": ["KA_1810_FRAN_2024_00478.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00478"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00478"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/50533e1b-1f4b-4f78-8aa1-07aae27d71e6/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00478.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/50533e1b-1f4b-4f78-8aa1-07aae27d71e6/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/50533e1b-1f4b-4f78-8aa1-07aae27d71e6/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/d899bd60-4e92-4e72-8059-312546b2170a/canvas",
+      "type": "Canvas",
+      "height": 3058,
+      "width": 4196,
+      "label": { "none": ["KA_1810_FRAN_2024_00480.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00480"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00480"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/d899bd60-4e92-4e72-8059-312546b2170a/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00480.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d899bd60-4e92-4e72-8059-312546b2170a/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/d899bd60-4e92-4e72-8059-312546b2170a/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/80ddd166-88ff-4dd1-b0c7-d71f9494ff58/canvas",
+      "type": "Canvas",
+      "height": 3281,
+      "width": 8142,
+      "label": { "none": ["KA_1810_FRAN_2024_00482.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00482"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00482"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/80ddd166-88ff-4dd1-b0c7-d71f9494ff58/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00482.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/80ddd166-88ff-4dd1-b0c7-d71f9494ff58/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/80ddd166-88ff-4dd1-b0c7-d71f9494ff58/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/6c87485d-8b93-45eb-b920-fed59cb48e82/canvas",
+      "type": "Canvas",
+      "height": 4236,
+      "width": 6312,
+      "label": { "none": ["KA_1810_FRAN_2024_00484.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1810_FRAN_2024_00484"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1810"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["FRAN_2024_00484"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/6c87485d-8b93-45eb-b920-fed59cb48e82/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1810_FRAN_2024_00484.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/6c87485d-8b93-45eb-b920-fed59cb48e82/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/6c87485d-8b93-45eb-b920-fed59cb48e82/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/152ab13e-d6b6-4077-a9e6-b41003967b79/canvas",
+      "type": "Canvas",
+      "height": 13435,
+      "width": 17000,
+      "label": { "none": ["KA_1825-1826_BR_0106_00461_0085_03.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1825-1826_BR_0106_00461_0085_03"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1825-1826"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["BR_0106_00461_0085_03"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/152ab13e-d6b6-4077-a9e6-b41003967b79/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1825-1826_BR_0106_00461_0085_03.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/152ab13e-d6b6-4077-a9e6-b41003967b79/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/152ab13e-d6b6-4077-a9e6-b41003967b79/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/2600dc48-6b92-4643-acbe-5ba32fbe411b/canvas",
+      "type": "Canvas",
+      "height": 18614,
+      "width": 11328,
+      "label": { "none": ["KA_1825_10421-01001.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1825_10421-01001"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1825"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/2600dc48-6b92-4643-acbe-5ba32fbe411b/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1825_10421-01001.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/2600dc48-6b92-4643-acbe-5ba32fbe411b/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/2600dc48-6b92-4643-acbe-5ba32fbe411b/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/fa391dcc-8d53-4774-819f-60aa8a58b83f/canvas",
+      "type": "Canvas",
+      "height": 18723,
+      "width": 11328,
+      "label": { "none": ["KA_1825_10421-01002.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1825_10421-01002"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1825"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/fa391dcc-8d53-4774-819f-60aa8a58b83f/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1825_10421-01002.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/fa391dcc-8d53-4774-819f-60aa8a58b83f/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/fa391dcc-8d53-4774-819f-60aa8a58b83f/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/83691c2d-72d1-4ab4-b47b-2da5593e5657/canvas",
+      "type": "Canvas",
+      "height": 18801,
+      "width": 9760,
+      "label": { "none": ["KA_1825_10421-01004.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1825_10421-01004"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1825"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/83691c2d-72d1-4ab4-b47b-2da5593e5657/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1825_10421-01004.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/83691c2d-72d1-4ab4-b47b-2da5593e5657/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/83691c2d-72d1-4ab4-b47b-2da5593e5657/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/b9d94227-68c7-4192-a5d2-bbcc52e0886c/canvas",
+      "type": "Canvas",
+      "height": 12680,
+      "width": 18984,
+      "label": { "none": ["KA_1825_BR_0106_00461_0084_01.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1825_BR_0106_00461_0084_01"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1825"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/b9d94227-68c7-4192-a5d2-bbcc52e0886c/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1825_BR_0106_00461_0084_01.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/b9d94227-68c7-4192-a5d2-bbcc52e0886c/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/b9d94227-68c7-4192-a5d2-bbcc52e0886c/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/e245b92a-6775-4e9c-826f-74934952054d/canvas",
+      "type": "Canvas",
+      "height": 12680,
+      "width": 18205,
+      "label": { "none": ["KA_1825_BR_0106_00461_0084_02.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1825_BR_0106_00461_0084_02"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1825"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/e245b92a-6775-4e9c-826f-74934952054d/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1825_BR_0106_00461_0084_02.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/e245b92a-6775-4e9c-826f-74934952054d/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/e245b92a-6775-4e9c-826f-74934952054d/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/ecbfe729-24b2-4807-a646-1737881c2ae9/canvas",
+      "type": "Canvas",
+      "height": 13717,
+      "width": 16880,
+      "label": { "none": ["KA_1825_BR_0106_00461_0085_01.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1825_BR_0106_00461_0085_01"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1825"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/ecbfe729-24b2-4807-a646-1737881c2ae9/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1825_BR_0106_00461_0085_01.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/ecbfe729-24b2-4807-a646-1737881c2ae9/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/ecbfe729-24b2-4807-a646-1737881c2ae9/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/92833c89-f1c6-495f-ab17-ad4e04cdc1e4/canvas",
+      "type": "Canvas",
+      "height": 13435,
+      "width": 17000,
+      "label": { "none": ["KA_1825_BR_0106_00461_0085_02.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1825_BR_0106_00461_0085_02"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1825"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/92833c89-f1c6-495f-ab17-ad4e04cdc1e4/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1825_BR_0106_00461_0085_02.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/92833c89-f1c6-495f-ab17-ad4e04cdc1e4/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/92833c89-f1c6-495f-ab17-ad4e04cdc1e4/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/e756b0b4-6776-4d93-b989-06eb5ceeed93/canvas",
+      "type": "Canvas",
+      "height": 13435,
+      "width": 17000,
+      "label": { "none": ["KA_1825_BR_0106_00461_0085_04.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1825_BR_0106_00461_0085_04"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1825"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/e756b0b4-6776-4d93-b989-06eb5ceeed93/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1825_BR_0106_00461_0085_04.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/e756b0b4-6776-4d93-b989-06eb5ceeed93/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/e756b0b4-6776-4d93-b989-06eb5ceeed93/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/d8ff2eed-fada-40f3-9cb2-c9687de2b171/canvas",
+      "type": "Canvas",
+      "height": 13435,
+      "width": 17000,
+      "label": { "none": ["KA_1825_BR_0106_00461_0085_05.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1825_BR_0106_00461_0085_05"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1825"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/d8ff2eed-fada-40f3-9cb2-c9687de2b171/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1825_BR_0106_00461_0085_05.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d8ff2eed-fada-40f3-9cb2-c9687de2b171/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/d8ff2eed-fada-40f3-9cb2-c9687de2b171/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/c18fc834-fdba-4f91-88e0-0f4e131f2eaf/canvas",
+      "type": "Canvas",
+      "height": 7493,
+      "width": 11793,
+      "label": { "none": ["KA_1881_R_RW_Karten-00260_DinA0_r.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Duitsland"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1881_R_RW_Karten-00260_DinA0_r"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1881"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["R_RW_Karten-00260_DinA0_r"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/c18fc834-fdba-4f91-88e0-0f4e131f2eaf/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1881_R_RW_Karten-00260_DinA0_r.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/c18fc834-fdba-4f91-88e0-0f4e131f2eaf/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/c18fc834-fdba-4f91-88e0-0f4e131f2eaf/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/2fca14d8-a888-4348-a694-5b1e73ad14d0/canvas",
+      "type": "Canvas",
+      "height": 7437,
+      "width": 6882,
+      "label": { "none": ["KA_1975_Bardenberg_ESSER.BERND_03.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1975_Bardenberg_ESSER.BERND_03"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1975"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["ESSER.BERND_03"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/2fca14d8-a888-4348-a694-5b1e73ad14d0/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1975_Bardenberg_ESSER.BERND_03.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/2fca14d8-a888-4348-a694-5b1e73ad14d0/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/2fca14d8-a888-4348-a694-5b1e73ad14d0/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/7233aa98-5fcd-4e81-bc3a-52e954b0812a/canvas",
+      "type": "Canvas",
+      "height": 7439,
+      "width": 6906,
+      "label": { "none": ["KA_1975_Herzogenrath_ESSER.BERND_02.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1975_Herzogenrath_ESSER.BERND_02"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1975"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["ESSER.BERND_02"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/7233aa98-5fcd-4e81-bc3a-52e954b0812a/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1975_Herzogenrath_ESSER.BERND_02.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/7233aa98-5fcd-4e81-bc3a-52e954b0812a/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/7233aa98-5fcd-4e81-bc3a-52e954b0812a/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/b53906b7-da78-4818-93cb-67f480c05d62/canvas",
+      "type": "Canvas",
+      "height": 7443,
+      "width": 6854,
+      "label": { "none": ["KA_1975_Pannesheide_ESSER.BERND_01.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1975_Pannesheide_ESSER.BERND_01"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1975"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["ESSER.BERND_01"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/b53906b7-da78-4818-93cb-67f480c05d62/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1975_Pannesheide_ESSER.BERND_01.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/b53906b7-da78-4818-93cb-67f480c05d62/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/b53906b7-da78-4818-93cb-67f480c05d62/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/363aa8a6-bc52-40eb-9dec-691cd847e7c7/canvas",
+      "type": "Canvas",
+      "height": 7469,
+      "width": 6754,
+      "label": { "none": ["KA_1978_Herzogenrath_West_ESSER.BERND_04.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_1978_Herzogenrath_West_ESSER.BERND_04"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["1978"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["ESSER.BERND_04"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/363aa8a6-bc52-40eb-9dec-691cd847e7c7/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_1978_Herzogenrath_West_ESSER.BERND_04.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/363aa8a6-bc52-40eb-9dec-691cd847e7c7/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/363aa8a6-bc52-40eb-9dec-691cd847e7c7/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/c97a9feb-8416-4066-9be9-cce87fafea0a/canvas",
+      "type": "Canvas",
+      "height": 2885,
+      "width": 2683,
+      "label": { "none": ["KA_IMG_0003.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        { "label": { "nl": ["Kaart"] }, "value": { "nl": ["KA_IMG_0003"] } },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/c97a9feb-8416-4066-9be9-cce87fafea0a/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_IMG_0003.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/c97a9feb-8416-4066-9be9-cce87fafea0a/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/c97a9feb-8416-4066-9be9-cce87fafea0a/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/9eecd620-cce5-481c-9116-769d3bc9f8b9/canvas",
+      "type": "Canvas",
+      "height": 2924,
+      "width": 2742,
+      "label": { "none": ["KA_IMG_0004.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        { "label": { "nl": ["Kaart"] }, "value": { "nl": ["KA_IMG_0004"] } },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/9eecd620-cce5-481c-9116-769d3bc9f8b9/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_IMG_0004.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/9eecd620-cce5-481c-9116-769d3bc9f8b9/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/9eecd620-cce5-481c-9116-769d3bc9f8b9/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/f812b1f4-18ad-449d-b59e-e5fd98b485e2/canvas",
+      "type": "Canvas",
+      "height": 2953,
+      "width": 2772,
+      "label": { "none": ["KA_IMG_0005.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        { "label": { "nl": ["Kaart"] }, "value": { "nl": ["KA_IMG_0005"] } },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/f812b1f4-18ad-449d-b59e-e5fd98b485e2/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_IMG_0005.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/f812b1f4-18ad-449d-b59e-e5fd98b485e2/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/f812b1f4-18ad-449d-b59e-e5fd98b485e2/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/7ecc3273-2a64-4d68-80b0-f1d713844f40/canvas",
+      "type": "Canvas",
+      "height": 2947,
+      "width": 2778,
+      "label": { "none": ["KA_IMG_0006.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        { "label": { "nl": ["Kaart"] }, "value": { "nl": ["KA_IMG_0006"] } },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        { "label": { "nl": ["Signatuur"] }, "value": { "nl": ["?"] } }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/7ecc3273-2a64-4d68-80b0-f1d713844f40/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_IMG_0006.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/7ecc3273-2a64-4d68-80b0-f1d713844f40/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/7ecc3273-2a64-4d68-80b0-f1d713844f40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/e8fefc10-3ec7-4688-9cdb-b9887e3163fb/canvas",
+      "type": "Canvas",
+      "height": 7260,
+      "width": 8000,
+      "label": { "none": ["KA_NL-MtHCL_17.04_481_0021.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_NL-MtHCL_17.04_481_0021"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["NL-MtHCL_17.04_481_0021"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/e8fefc10-3ec7-4688-9cdb-b9887e3163fb/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_NL-MtHCL_17.04_481_0021.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/e8fefc10-3ec7-4688-9cdb-b9887e3163fb/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/e8fefc10-3ec7-4688-9cdb-b9887e3163fb/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/893f75c7-e1ba-463d-ab50-71f3dc9ef130/canvas",
+      "type": "Canvas",
+      "height": 5948,
+      "width": 6159,
+      "label": { "none": ["KA_RHCL_07.I15_168_0035_TOEB_Situatieplan.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_RHCL_07.I15_168_0035_TOEB_Situatieplan"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RHCL_07.I15_168_0035"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/893f75c7-e1ba-463d-ab50-71f3dc9ef130/annotationpage",
+          "type": "AnnotationPage",
+          "label": {
+            "none": ["KA_RHCL_07.I15_168_0035_TOEB_Situatieplan.jpg"]
+          },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/893f75c7-e1ba-463d-ab50-71f3dc9ef130/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/893f75c7-e1ba-463d-ab50-71f3dc9ef130/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/caa690df-ce3f-4e7d-82db-5e0f97496193/canvas",
+      "type": "Canvas",
+      "height": 6592,
+      "width": 6376,
+      "label": {
+        "none": ["KA_RHCL_07.I15_169_0001_DOM_TOEB_Situatieplan.jpg"]
+      },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_RHCL_07.I15_169_0001_DOM_TOEB_Situatieplan"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RHCL_07.I15_169_0001"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/caa690df-ce3f-4e7d-82db-5e0f97496193/annotationpage",
+          "type": "AnnotationPage",
+          "label": {
+            "none": ["KA_RHCL_07.I15_169_0001_DOM_TOEB_Situatieplan.jpg"]
+          },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/caa690df-ce3f-4e7d-82db-5e0f97496193/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/caa690df-ce3f-4e7d-82db-5e0f97496193/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/1b5a0f04-f0f2-47f4-bc5a-34056e565348/canvas",
+      "type": "Canvas",
+      "height": 10561,
+      "width": 8802,
+      "label": { "none": ["KA_RHCL_07.I15_169_0005_DOM_BO_Overzicht.jpg"] },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_RHCL_07.I15_169_0005_DOM_BO_Overzicht"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RHCL_07.I15_169_0005"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/1b5a0f04-f0f2-47f4-bc5a-34056e565348/annotationpage",
+          "type": "AnnotationPage",
+          "label": { "none": ["KA_RHCL_07.I15_169_0005_DOM_BO_Overzicht.jpg"] },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/1b5a0f04-f0f2-47f4-bc5a-34056e565348/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/1b5a0f04-f0f2-47f4-bc5a-34056e565348/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.4tu.nl/iiif/v3/4d809802-d8f8-4fa4-9dd3-f49b0b0491c8/canvas",
+      "type": "Canvas",
+      "height": 6376,
+      "width": 6117,
+      "label": {
+        "none": ["KA_RHCL_07.I15_169_0010_DOM_TOEB_Situatieplan.jpg"]
+      },
+      "metadata": [
+        { "label": { "nl": ["Serie"] }, "value": { "nl": ["Reconstructies"] } },
+        {
+          "label": { "nl": ["Kaart"] },
+          "value": { "nl": ["KA_RHCL_07.I15_169_0010_DOM_TOEB_Situatieplan"] }
+        },
+        { "label": { "nl": ["Jaar"] }, "value": { "nl": ["?"] } },
+        {
+          "label": { "nl": ["Signatuur"] },
+          "value": { "nl": ["RHCL_07.I15_169_0010"] }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.4tu.nl/iiif/v3/4d809802-d8f8-4fa4-9dd3-f49b0b0491c8/annotationpage",
+          "type": "AnnotationPage",
+          "label": {
+            "none": ["KA_RHCL_07.I15_169_0010_DOM_TOEB_Situatieplan.jpg"]
+          },
+          "items": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/4d809802-d8f8-4fa4-9dd3-f49b0b0491c8/annotationpage/0",
+              "type": "Annotation",
+              "target": "https://data.4tu.nl/iiif/v3/4d809802-d8f8-4fa4-9dd3-f49b0b0491c8/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
