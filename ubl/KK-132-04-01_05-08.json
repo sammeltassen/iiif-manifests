@@ -1,0 +1,741 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08.json",
+  "@type": "sc:Manifest",
+  "label": "Kaart van Suriname",
+  "logo": "https://iiifviewer.universiteitleiden.nl/logo/",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Kaart van Suriname"
+    },
+    {
+      "label": "Author/creator",
+      "value": [
+        "Bakhuis, Louis August (1855-1932)",
+        "Quant, W. de.",
+        "Cateau van Rosevelt, Johan François Adriaan (1823-1891)",
+        "Lansberge, Jan Felix Adriaan Eugeen van (1839-1883)",
+        "Ministerie van Koloniën (Den Haag)"
+      ]
+    },
+    {
+      "label": "Subject (topical)",
+      "value": "Maps (documents)"
+    },
+    {
+      "label": "Country",
+      "value": {
+        "@value": "Netherlands",
+        "@language": "eng"
+      }
+    },
+    {
+      "label": "Date issued",
+      "value": "2004 "
+    },
+    {
+      "label": "Language",
+      "value": {
+        "@value": "Dutch",
+        "@language": "eng"
+      }
+    },
+    {
+      "label": "Extent",
+      "value": "elektronische bron (1 kaart)"
+    },
+    {
+      "label": "Note",
+      "value": [
+        "samengesteld door L.A. Bakhuis en W. de Quant.",
+        "Bladindeling op blad 1.",
+        "Bewerkt naar de gegevens voorkomende op de kaarten van J.F.A. Cateau van Rosevelt en J.F.A.E. van Lansberge (1860-1879) en naar de uitkomsten der metingen, uitgevoerd door de wetenschappelijke expeditiën van 1900 tot 1927 aangevuld met die van de Marine, den Opnemingsdienst, het Boschwezen en van landmeters.",
+        "Gegevens verzameld over de periode/Data collected over the period: 1900-1927.",
+        "Legenda."
+      ]
+    },
+    {
+      "label": "Subject (topical)",
+      "value": "74.26 geography of Central and South America"
+    },
+    {
+      "label": "Subject (geographic)",
+      "value": "Surinam (country)"
+    },
+    {
+      "label": "Reference",
+      "value": "Lit.: Koeman, Bibliography printed maps Suriname, no. 107"
+    },
+    {
+      "label": "Published",
+      "value": "[Den Haag] : Departement van Koloniën, 1930"
+    },
+    {
+      "label": "Shelfmark",
+      "value": "KK 132-04-01/05-08"
+    },
+    {
+      "label": "Persistent URL",
+      "value": "http://hdl.handle.net/1887.1/item:2017256"
+    }
+  ],
+  "license": "Full access. <a href='https://creativecommons.org/publicdomain/mark/1.0/'>The rights status of this resource is public domain</a>",
+  "attribution": "Leiden University Libraries",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "paged",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Kaart van Suriname",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2015734/canvas/default",
+          "label": "Kaart van Suriname - sheet 1",
+          "height": 2045,
+          "width": 1940,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015734/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015734",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015734",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015734/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2045,
+                "width": 1940,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015734",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2015734/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2016603/canvas/default",
+          "label": "Kaart van Suriname - sheet 2",
+          "height": 9437,
+          "width": 8834,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016603/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016603",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016603",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016603/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9437,
+                "width": 8834,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016603",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2016603/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2015720/canvas/default",
+          "label": "Kaart van Suriname - sheet 3",
+          "height": 9335,
+          "width": 8614,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015720/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015720",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015720",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015720/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9335,
+                "width": 8614,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015720",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2015720/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2016027/canvas/default",
+          "label": "Kaart van Suriname - sheet 4",
+          "height": 9346,
+          "width": 8634,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016027/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016027",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016027",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016027/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9346,
+                "width": 8634,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016027",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2016027/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014682/canvas/default",
+          "label": "Kaart van Suriname - sheet 5",
+          "height": 9337,
+          "width": 8640,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014682/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014682",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014682",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014682/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9337,
+                "width": 8640,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014682",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014682/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014861/canvas/default",
+          "label": "Kaart van Suriname - sheet 6",
+          "height": 9358,
+          "width": 8656,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014861/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014861",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014861",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014861/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9358,
+                "width": 8656,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014861",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014861/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2017121/canvas/default",
+          "label": "Kaart van Suriname - sheet 7",
+          "height": 9354,
+          "width": 8623,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017121/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017121",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017121",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017121/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9354,
+                "width": 8623,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017121",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2017121/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014892/canvas/default",
+          "label": "Kaart van Suriname - sheet 8",
+          "height": 9344,
+          "width": 8645,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014892/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014892",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014892",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014892/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9344,
+                "width": 8645,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014892",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014892/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2015786/canvas/default",
+          "label": "Kaart van Suriname - sheet 9",
+          "height": 9377,
+          "width": 8653,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015786/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015786",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015786",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015786/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9377,
+                "width": 8653,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015786",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2015786/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014978/canvas/default",
+          "label": "Kaart van Suriname - sheet 10",
+          "height": 3126,
+          "width": 5063,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014978/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014978",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014978",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014978/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3126,
+                "width": 5063,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014978",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014978/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2015808/canvas/default",
+          "label": "Kaart van Suriname - sheet 11",
+          "height": 9329,
+          "width": 8617,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015808/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015808",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015808",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015808/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9329,
+                "width": 8617,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2015808",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2015808/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2016111/canvas/default",
+          "label": "Kaart van Suriname - sheet 12",
+          "height": 9308,
+          "width": 8590,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016111/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016111",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016111",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016111/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9308,
+                "width": 8590,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016111",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2016111/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014898/canvas/default",
+          "label": "Kaart van Suriname - sheet 13",
+          "height": 9363,
+          "width": 8637,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014898/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014898",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014898",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014898/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9363,
+                "width": 8637,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014898",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014898/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2016174/canvas/default",
+          "label": "Kaart van Suriname - sheet 14",
+          "height": 9329,
+          "width": 8593,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016174/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016174",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016174",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016174/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9329,
+                "width": 8593,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016174",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2016174/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014315/canvas/default",
+          "label": "Kaart van Suriname - sheet 15",
+          "height": 9357,
+          "width": 8652,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014315/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014315",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014315",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014315/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9357,
+                "width": 8652,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014315",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014315/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2017006/canvas/default",
+          "label": "Kaart van Suriname - sheet 16",
+          "height": 9384,
+          "width": 8645,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017006/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017006",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017006",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017006/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9384,
+                "width": 8645,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017006",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2017006/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014405/canvas/default",
+          "label": "Kaart van Suriname - sheet 17",
+          "height": 9365,
+          "width": 8593,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014405/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014405",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014405",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014405/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9365,
+                "width": 8593,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014405",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014405/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2016894/canvas/default",
+          "label": "Kaart van Suriname - sheet 18",
+          "height": 9367,
+          "width": 8650,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016894/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016894",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016894",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016894/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9367,
+                "width": 8650,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2016894",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2016894/canvas/default"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014412/canvas/default",
+          "label": "Kaart van Suriname - sheet 19",
+          "height": 9350,
+          "width": 8635,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014412/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014412",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014412",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014412/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 9350,
+                "width": 8635,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014412",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://sammeltassen.nl/iiif-manifests/ubl/KK-132-04-01_05-08/item:2014412/canvas/default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
