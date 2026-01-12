@@ -1,0 +1,131 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://sammeltassen.nl/iiif-manifests/ubl/D-A-57-2.json",
+  "@type": "sc:Manifest",
+  "label": "D A 57,2",
+  "logo": "https://iiifviewer.universiteitleiden.nl/logo/",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Paramaribo 1916-17"
+    },
+    {
+      "label": "Title",
+      "value": "Paramaribo"
+    },
+    {
+      "label": "Author/creator",
+      "value": "Opnemingsdienst van Suriname"
+    },
+    {
+      "label": "Subject (topical)",
+      "value": "Maps (documents)"
+    },
+    {
+      "label": "Country",
+      "value": {
+        "@value": "Netherlands",
+        "@language": "eng"
+      }
+    },
+    {
+      "label": "Published (digital)",
+      "value": "Universitaire Bibliotheken Leiden"
+    },
+    {
+      "label": "Date issued",
+      "value": "2015 "
+    },
+    {
+      "label": "Language",
+      "value": {
+        "@value": "Dutch",
+        "@language": "eng"
+      }
+    },
+    {
+      "label": "Extent",
+      "value": "1 electronic resource."
+    },
+    {
+      "label": "Note",
+      "value": [
+        "vervaardigd door den Opnemingsdienst van Suriname.",
+        "Met afkortingen van straatnamen.",
+        "Legenda: 1-106; plantages enz. 1-22."
+      ]
+    },
+    {
+      "label": "Subject (topical)",
+      "value": "74.26 geography of Central and South America"
+    },
+    {
+      "label": "Subject (geographic)",
+      "value": "Paramaribo"
+    },
+    {
+      "label": "Reference",
+      "value": "Koeman, Bibliography printed maps Suriname, no. 243"
+    },
+    {
+      "label": "Part of",
+      "value": "Stadsgrens en verdeeling in wijken (schaal 1:40.000, 13 x 15 cm)"
+    },
+    {
+      "label": "Published",
+      "value": "s-Gravenhage : Topographische Inrichting, 1920"
+    },
+    {
+      "label": "Shelfmark",
+      "value": "D A 57,2"
+    },
+    {
+      "label": "Persistent URL",
+      "value": "http://hdl.handle.net/1887.1/item:815063"
+    }
+  ],
+  "license": "Full access. <a href='https://creativecommons.org/publicdomain/mark/1.0/'>The rights status of this resource is public domain</a>",
+  "attribution": "Leiden University Libraries",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "D A 57,2",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815063/canvas/default",
+          "label": "D A 57,2",
+          "height": 7744,
+          "width": 9033,
+          "thumbnail": {
+            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:815063/full/80,/0/default.jpg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:815063",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:815063",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:815063/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 7744,
+                "width": 9033,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:815063",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815063/canvas/default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
