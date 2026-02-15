@@ -1,0 +1,744 @@
+{
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/8ce208d980a2fe21/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-15T12:03:36.023Z",
+      "modified": "2026-02-15T12:03:36.023Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-7",
+          "type": "ImageService2",
+          "height": 2953,
+          "width": 1547,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-7",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-118.json",
+                  "type": "Manifest",
+                  "label": {
+                    "en": ["Plattegrond van Rotterdam in 10 bladen (1895-1897)"]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"1547\" height=\"2953\"><polygon points=\"44,67 1508,62 1500,2823 34,2818\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [1508, 62] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.478501662738889, 51.903522286586146]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [44, 67] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.446807673393093, 51.89964981184919]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [34, 2818] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.458747345983402, 51.862602817438365]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [1500, 2823] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.490609612630954, 51.866426973138374]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/2e9611ad8fb8a51c/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-15T12:02:34.875Z",
+      "modified": "2026-02-15T12:02:34.875Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-6",
+          "type": "ImageService2",
+          "height": 10833,
+          "width": 5530,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-6",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-118.json",
+                  "type": "Manifest",
+                  "label": {
+                    "en": ["Plattegrond van Rotterdam in 10 bladen (1895-1897)"]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5530\" height=\"10833\"><polygon points=\"234,223 228,10067 5381,10065 5386,199\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5386, 199] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.446807673393093, 51.89964981184919]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5381, 10065] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.458747345983402, 51.862602817438365]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [234, 223] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.415790634294073, 51.8957350940505]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/991e9e51bca3600b/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-15T12:00:58.055Z",
+      "modified": "2026-02-15T12:00:58.055Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-3",
+          "type": "ImageService2",
+          "height": 7900,
+          "width": 4121,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-3",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-118.json",
+                  "type": "Manifest",
+                  "label": {
+                    "en": ["Plattegrond van Rotterdam in 10 bladen (1895-1897)"]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4121\" height=\"7900\"><polygon points=\"85,176 4052,178 4049,7730 78,7753\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [78, 7753] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.478501662738889, 51.903522286586146]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [4049, 7730] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.5099324685375635, 51.90763466185481]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [85, 176] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.465916330116201, 51.9412366399098]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [4052, 178] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.497532589337477, 51.94522442977959]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/a27f86193c1eb9b5/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-15T12:00:17.383Z",
+      "modified": "2026-02-15T12:00:17.383Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-2",
+          "type": "ImageService2",
+          "height": 10476,
+          "width": 5410,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-2",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-118.json",
+                  "type": "Manifest",
+                  "label": {
+                    "en": ["Plattegrond van Rotterdam in 10 bladen (1895-1897)"]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5410\" height=\"10476\"><polygon points=\"87,254 5335,235 5341,10283 72,10293\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5341, 10283] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.478501662738889, 51.903522286586146]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [72, 10293] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.446807673393093, 51.89964981184919]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5335, 235] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.465916330116201, 51.9412366399098]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [87, 254] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.434201326840885, 51.93738441198514]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/8b639501c40f2178/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-15T11:59:05.016Z",
+      "modified": "2026-02-15T11:59:05.016Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-1",
+          "type": "ImageService2",
+          "height": 10536,
+          "width": 5434,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-1",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-118.json",
+                  "type": "Manifest",
+                  "label": {
+                    "en": ["Plattegrond van Rotterdam in 10 bladen (1895-1897)"]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5434\" height=\"10536\"><polygon points=\"197,10339 194,312 5333,293 5356,10330\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5356, 10330] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.446807673393093, 51.89964981184919]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [197, 10339] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.415790634294073, 51.8957350940505]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5333, 293] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.434201326840885, 51.93738441198514]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/6de7bf724196f91c/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-15T11:58:33.194Z",
+      "modified": "2026-02-15T11:58:33.194Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-8",
+          "type": "ImageService2",
+          "height": 10581,
+          "width": 5506,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-8",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-118.json",
+                  "type": "Manifest",
+                  "label": {
+                    "en": ["Plattegrond van Rotterdam in 10 bladen (1895-1897)"]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5506\" height=\"10581\"><polygon points=\"105,198 5354,172 5363,10083 121,10088\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [105, 198] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.478501662738889, 51.903522286586146]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [121, 10088] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.490609612630954, 51.866426973138374]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5354, 172] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.5099324685375635, 51.90763466185481]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5363, 10083] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.522008797300036, 51.8706446608813]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/ed2a5e1f12ee4a8b/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-15T11:56:17.228Z",
+      "modified": "2026-02-15T11:56:17.228Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-5",
+          "type": "ImageService2",
+          "height": 10617,
+          "width": 5374,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-5",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-118.json",
+                  "type": "Manifest",
+                  "label": {
+                    "en": ["Plattegrond van Rotterdam in 10 bladen (1895-1897)"]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5374\" height=\"10617\"><polygon points=\"215,355 5030,334 5049,10331 229,10355\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [229, 10355] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.541555574535743, 51.9113690094771]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5049, 10331] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.570519091368805, 51.91499581764772]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [215, 355] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.529121818145544, 51.948968534819286]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/108f667d99ea8981/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-15T11:52:44.774Z",
+      "modified": "2026-02-15T11:52:44.774Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-10",
+          "type": "ImageService2",
+          "height": 10534,
+          "width": 5206,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-10",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-118.json",
+                  "type": "Manifest",
+                  "label": {
+                    "en": ["Plattegrond van Rotterdam in 10 bladen (1895-1897)"]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5206\" height=\"10534\"><polygon points=\"145,253 140,10162 4967,10149 4952,234\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [145, 253] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.541555574535743, 51.9113690094771]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [4952, 234] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.570519091368805, 51.91499581764772]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [140, 10162] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.5536204180487525, 51.874513499685435]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/2277504d5ec0dea2/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-15T11:45:39.475Z",
+      "modified": "2026-02-15T11:45:39.475Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-9",
+          "type": "ImageService2",
+          "height": 10534,
+          "width": 5530,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-9",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-118.json",
+                  "type": "Manifest",
+                  "label": {
+                    "en": ["Plattegrond van Rotterdam in 10 bladen (1895-1897)"]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5530\" height=\"10534\"><polygon points=\"126,192 129,10083 5385,10070 5367,162\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [126, 192] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.5099324685375635, 51.90763466185481]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [129, 10083] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.522008797300036, 51.8706446608813]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5367, 162] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.541555574535743, 51.9113690094771]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5385, 10070] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.5536204180487525, 51.874513499685435]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/e033d98cc542d262/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-15T11:14:30.162Z",
+      "modified": "2026-02-15T11:14:30.162Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-4",
+          "type": "ImageService2",
+          "height": 10498,
+          "width": 5554,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-4",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-118.json",
+                  "type": "Manifest",
+                  "label": {
+                    "en": ["Plattegrond van Rotterdam in 10 bladen (1895-1897)"]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5554\" height=\"10498\"><polygon points=\"140,326 5383,294 5421,10307 164,10345\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [164, 10345] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.5099324685375635, 51.90763466185481]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [140, 326] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.497532589337477, 51.94522442977959]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5421, 10307] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.541555574535743, 51.9113690094771]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5383, 294] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.529121818145544, 51.948968534819286]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
