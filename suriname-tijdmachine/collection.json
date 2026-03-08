@@ -1,0 +1,687 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://sammeltassen.nl/iiif-manifests/suriname-tijdmachine/collection.json",
+  "type": "Collection",
+  "label": { "en": ["Mapathon Suriname Tijdmachine"] },
+  "items": [
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38608/manifest/",
+      "label": { "nl": ["Nieuwe Kaart van Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38619/manifest/",
+      "label": {
+        "nl": ["Algemeene kaart van de Colonie of Provintie van Suriname"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A53112/manifest",
+      "label": { "nl": ["Platte grond van de stad Paramaribo"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A3753552/manifest",
+      "label": { "nl": ["Colonie Surinaame"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2017252/manifest",
+      "label": { "nl": ["Kaart van Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.MIKO/I/I.3/I.3.A/I.3.A.4/I.3.A.4.1/6108.json",
+      "label": {
+        "nl": [
+          "6108 - Surinaamse Waterleiding Mij. Met kavelnummers getekend op de plattegrond van Paramaribo"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2011651/manifest",
+      "label": {
+        "nl": ["Woongebieden der Boslandcreolen aan de Suriname rivier"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2011901/manifest",
+      "label": { "nl": ["Overzichtskaart van Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38612/manifest/",
+      "label": { "nl": ["Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012510/manifest",
+      "label": { "nl": ["Kaart van de rivier de Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2011245/manifest",
+      "label": { "nl": ["Moengo "] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2011373/manifest",
+      "label": {
+        "nl": ["Paramaribo. Hoofdstad van Hollandsch Guyana of Suriname"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A53016/manifest",
+      "label": { "nl": ["COLLBN 011-11-077"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38625/manifest/",
+      "label": { "nl": ["Nieuwe specialkaart van de colonie Suriname [...]"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013394/manifest",
+      "label": {
+        "nl": [
+          "Pas-kaart vande rivieren Commewini, Suriname, Suramaca, Cupanama en Courantin"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012118/manifest",
+      "label": { "nl": ["Telephoonnet in Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38606/manifest/",
+      "label": { "nl": ["Generale kaart der kolonie Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A53030/manifest",
+      "label": { "nl": ["A chart of the colony of Surinam"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.3/C.3.4/suriname/rivier-suriname/plantages-en-landen-gelegen-aan-beide-oevers/1696.json",
+      "label": {
+        "nl": [
+          "Naadere kaart en rapport, specterende de nieuw te begeeven landeryen in de Marchals kreek en of dezelve tot nadeel konde strekken voor de Houtgrond Weltevreden C.A."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A53021/manifest",
+      "label": {
+        "nl": ["Landkaart van de Volkplantingen Suriname en Berbice"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A814814/manifest",
+      "label": { "nl": ["D A 57,5"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A1996024/manifest",
+      "label": {
+        "nl": [
+          "Kaart van het terrein tusschen de rivieren Suriname en Saramaca"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012573/manifest",
+      "label": {
+        "nl": ["Kaart van Suriname, aangevende de ligging der scholen"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012789/manifest",
+      "label": {
+        "nl": [
+          "Kaart van Paramaribo met aanduiding der verschillende grondlagen"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012588/manifest",
+      "label": { "nl": ["Overzichtskaart van Paramaribo"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012376/manifest",
+      "label": { "nl": ["Plattegrond van de stad Paramaribo"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.MIKO/I/I.3/I.3.A/I.3.A.4/I.3.A.4.1/635-635B.json",
+      "label": { "nl": ["Kaart van Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A815672/manifest",
+      "label": { "nl": ["D A 52,2"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2011482/manifest",
+      "label": { "nl": ["Overzichts-kaart van het district Nickerie"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38598/manifest/",
+      "label": {
+        "nl": ["Kaart van het bebouwde gedeelte van Surinamen [...]"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A130167/manifest",
+      "label": { "nl": ["De kusten van Suraname van Marawini tot de Barbice"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013495/manifest",
+      "label": { "nl": ["Plan de la ville de Paramaribo et de ses environs"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2011153/manifest",
+      "label": { "nl": ["Kaart van de Beneden-Marowijne"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012157/manifest",
+      "label": { "nl": ["Plan van Paramaribo"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2011881/manifest",
+      "label": {
+        "nl": [
+          "Kaart van het tot Suriname behoorende stroomgebied van Lawa, Litanie en Goninie"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012642/manifest",
+      "label": { "nl": ["Kaart van de Marowijne"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A814159/manifest",
+      "label": { "nl": ["D A 53,2"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2014032/manifest",
+      "label": { "nl": ["COLLBN Port 63 N 61"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A812614/manifest",
+      "label": { "nl": ["D A 56,3"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A3509936/manifest",
+      "label": { "nl": ["D H 824-53"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1212/manifest/",
+      "label": { "nl": ["Platte grond van de stad Paramaribo"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013482/manifest",
+      "label": {
+        "nl": ["Land kaart van de land streeken Cottica Comowini en Suriname"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.MIKO/I/I.3/I.3.A/I.3.A.4/I.3.A.4.1/6050.json",
+      "label": { "nl": ["Kaart van Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2017249/manifest",
+      "label": { "nl": ["Kaart van Suriname (handgetekend)"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2481433/manifest",
+      "label": { "nl": ["COLLBN 006-11-009"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013986/manifest",
+      "label": { "nl": ["La Guyane néerlandaise"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2010998/manifest",
+      "label": { "nl": ["KK 119-05-03"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A815460/manifest",
+      "label": { "nl": ["D A 56,7"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A815995/manifest",
+      "label": { "nl": ["D A 58,2"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2011216/manifest",
+      "label": { "nl": ["Nickerie"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A3509926/manifest",
+      "label": {
+        "nl": ["Kaart van een gedeelte van de Suriname-rivier en de Para-kreek"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A1995551/manifest",
+      "label": { "nl": ["Paskaert van de rivieren van Suriname en Commewyne"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A53185/manifest",
+      "label": { "nl": ["Plan van Paramaribo, hoofdstad van Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A53200/manifest",
+      "label": { "nl": ["Plattegrond van de stad Paramaribo"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38566/manifest/",
+      "label": { "nl": ["A chart of the coast of Guyana"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2010703/manifest",
+      "label": { "nl": ["Kaart van de kust van Guayana"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38589/manifest/",
+      "label": { "nl": ["Carte de la Guiane Française & Hollandaise"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38603/manifest/",
+      "label": {
+        "nl": [
+          "Schetskaart aangevende de in verschillende tractaten en uitspraken vastgestelde grenzen der 3 Guyana's"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013602/manifest",
+      "label": { "nl": ["Afteekening van de Rivier Courantin"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A815664/manifest",
+      "label": { "nl": ["D A 51,4 Carte de la colonie de Surinam"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A53031/manifest",
+      "label": { "nl": ["Kaart van de colonie Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012438/manifest",
+      "label": { "nl": ["Religions 1936"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013194/manifest",
+      "label": { "nl": ["[Kaart van het noordelijk deel van Suriname]"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A3509931/manifest",
+      "label": { "nl": ["0001"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013765/manifest",
+      "label": { "nl": ["Caart van Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A53096/manifest",
+      "label": {
+        "nl": [
+          "Pas-kaart vande rivieren Commewini, Suriname, Suramaca, Cupanama en Courantin"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2017253/manifest",
+      "label": { "nl": ["Kaart van Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.TOPO/B/B7/16A401.json",
+      "label": {
+        "nl": ["Nieuwe Kaart van Suriname, Comowini, Cottica & Marawini"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38626/manifest/",
+      "label": {
+        "nl": ["Algemeene kaart van de Colonie of Provintie van Suriname"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012760/manifest",
+      "label": { "nl": ["Overzichtskaart van Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38593/manifest/",
+      "label": { "nl": ["Generale caart van de provintie Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38584/manifest/",
+      "label": { "nl": ["Kaart van geheel Guajana of de Wilden-kust"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38617/manifest/",
+      "label": { "nl": ["Plan of Paramaribo"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39624/manifest/",
+      "label": { "nl": ["Figuratieve plattegrond der stad Paramaribo"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013296/manifest",
+      "label": { "nl": ["COLLBN Port 63 N 55"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013561/manifest",
+      "label": { "nl": ["Generale kaart der kolonie Suriname (west)"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A3278462/manifest",
+      "label": { "nl": ["COLLBN Port 63 N 73"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012116/manifest",
+      "label": {
+        "nl": [
+          "Overzichtskaart van Suriname, aangevende de ligging der op 1 april 1927 uitgegeven houtconcessies en houtvergunningen"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2011683/manifest",
+      "label": { "nl": ["Schets van Paramaribo"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A1997033/manifest",
+      "label": { "nl": ["Nederlandsch-Guyana"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2011326/manifest",
+      "label": { "nl": ["Overzichtskaart van Suriname"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013193/manifest",
+      "label": { "nl": ["Generale kaart der kolonie Suriname (oost)"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013939/manifest",
+      "label": { "nl": ["De kolonie Surinamen of Hollandsch Guyana"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A3633336/manifest",
+      "label": {
+        "nl": [
+          "Nieuwe special kaart van de colonie Suriname met de tot culture gebragt zijnde landen en plantagien"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2011103/manifest",
+      "label": {
+        "nl": [
+          "Kaart van de kust van Suriname, aangevende de ligging der plantages"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013782/manifest",
+      "label": { "nl": ["Paskaert van de rivieren van Suriname en Commewyne"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A3753552/manifest",
+      "label": { "nl": ["Colonie Surinaame"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A1996774/manifest",
+      "label": {
+        "nl": ["Kaart van het westelijke gedeelte der kolonie Suriname"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012369/manifest",
+      "label": {
+        "nl": [
+          "Getekende kaart van het noordoostelijk gedeelte van Suriname, met grenzen van districten en zetels van het districtsbestuur"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2481434/manifest",
+      "label": {
+        "nl": ["Algemeene kaart van de Colonie of Provintie van Suriname"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A3618828/manifest",
+      "label": {
+        "nl": ["Algemeene kaart van de Colonie of Provintie van Suriname"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A53015/manifest",
+      "label": { "nl": ["Kaart van Suriname [meerbladig]"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2017256/manifest",
+      "label": { "nl": ["Kaart van Suriname [meerbladig]"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38611/manifest/",
+      "label": {
+        "nl": [
+          "Paramaribo 1916-17 vervaardigd door den Opnemingsdienst van Suriname"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A3753552/manifest",
+      "label": {
+        "nl": [
+          "Colonie Surinaame\t\nDeze Denerale kaart der voormelde colonie COLLBN 053-51"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/C/C.4/C.4.3/suriname/rivieren-en-kreken/614.json",
+      "label": { "nl": ["Plaan van het hospitaal à Paramaribo in Surinamen"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.MIKO/I/I.3/I.3.A/I.3.A.4/I.3.A.4.1/1160.json",
+      "label": {
+        "nl": [
+          "Kaart van Suriname met naamlijst der in ontginning zijnde plantages"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.MIKO/I/I.3/I.3.A/I.3.A.4/I.3.A.4.1/2030.json",
+      "label": {
+        "nl": ["Kaart van Suriname. Met inzet van Plantagen der Commewijne"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.3/C.3.4/suriname/rivier-suriname/plantages-en-landen-gelegen-aan-de-rechteroever-in-t-afvaren/1793.json",
+      "label": {
+        "nl": ["Le Plantage Voorborg à l'Est de la Riviere Surinam etc."]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38568/manifest/",
+      "label": { "nl": ["Plattegrond der Plantage Adrichem"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2017256/manifest",
+      "label": {
+        "nl": [
+          "Kaart van Suriname opgenomen en getekend in de jaren 1860-1879 door J.F.A. Cateau van Rosevelt en J.F.A.E. van Lansberge"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2017249/manifest",
+      "label": {
+        "nl": [
+          "Kaart van Suriname opgenomen en getekend in de jaren 1860-1879 door J.F.A. Cateau van Rosevelt en J.F.A.E. van Lansberge"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2017249/manifest",
+      "label": {
+        "nl": [
+          "Kaart van Suriname opgenomen en getekend in de jaren 1860-1879 door J.F.A. Cateau van Rosevelt en J.F.A.E. van Lansberge"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2017249/manifest",
+      "label": {
+        "nl": [
+          "Kaart van Suriname opgenomen en getekend in de jaren 1860-1879 door J.F.A. Cateau van Rosevelt en J.F.A.E. van Lansberge"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2017249/manifest",
+      "label": {
+        "nl": [
+          "Kaart van Suriname opgenomen en getekend in de jaren 1860-1879 door J.F.A. Cateau van Rosevelt en J.F.A.E. van Lansberge"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38609/manifest/",
+      "label": {
+        "nl": ["Kaart van de rivier de Suriname door G.P.H. Zimmermann"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2013495/manifest",
+      "label": {
+        "nl": [
+          "Plan de la ville de Paramaribo et de ses environs, jusqu'au terrein de la société"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2012417/manifest",
+      "label": { "nl": ["Paramaribo 1916-17"] },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A3254319/manifest",
+      "label": {
+        "nl": ["Carte de la colonie de Demerari en 1784 COLLBN 002-10-017"]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A3156379/manifest",
+      "label": {
+        "nl": [
+          "Plan du plantage Maria Elizabeth a J. Ryan sur lisle Leguwaan 1783. Was gete: Pechor COLLBN 006-12-009"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A127199/manifest",
+      "label": {
+        "nl": ["Plan der geprojecteerde Nieuwe Brandwagt of Speelbattery"]
+      },
+      "type": "Manifest"
+    }
+  ]
+}
