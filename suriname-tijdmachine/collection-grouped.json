@@ -382,13 +382,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A53112%7EJP2%7E19eaa8687d671d7a00cff5ea4dae5d31a5377c1dcb7def6ce6ab4766b1cbb564%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53112/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A53112%7EJP2%7E19eaa8687d671d7a00cff5ea4dae5d31a5377c1dcb7def6ce6ab4766b1cbb564%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53112",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -401,13 +401,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3753541%7EJP2%7E2947a1ec9670022ef7f2ae63aa97cbee79ee1f9c898b065ef77ff631fb897b72%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3753552/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3753541%7EJP2%7E2947a1ec9670022ef7f2ae63aa97cbee79ee1f9c898b065ef77ff631fb897b72%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3753552",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -420,13 +420,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2014463%7EJP2%7E8500c3d8a79e81af4f267aa7d7da029e326b4d64b86331575c3f85751ca962c7%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017252/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2014463%7EJP2%7E8500c3d8a79e81af4f267aa7d7da029e326b4d64b86331575c3f85751ca962c7%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017252",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -441,13 +441,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011651%7EJP2%7E02ba26b138e48c5b48deb4ffb1f1ef97b2291a54b70d3f5b7d1ef9ae33fc6620%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011651/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011651%7EJP2%7E02ba26b138e48c5b48deb4ffb1f1ef97b2291a54b70d3f5b7d1ef9ae33fc6620%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011651",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -460,13 +460,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011901%7EJP2%7E5e30037121674c14fb8d1c2de3ee479bfb0e1904fbbbc31cb55ba25b32f0d27c%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011901/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011901%7EJP2%7E5e30037121674c14fb8d1c2de3ee479bfb0e1904fbbbc31cb55ba25b32f0d27c%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011901",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -479,13 +479,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012510%7EJP2%7Ebb7940499b69fa6127a6e717007dac69af271ea87753437e372dd00addf80b0f%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012510/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012510%7EJP2%7Ebb7940499b69fa6127a6e717007dac69af271ea87753437e372dd00addf80b0f%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012510",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -498,13 +498,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011245%7EJP2%7E27495fb21b5493a20c6d60f159f6686edae84a9a1954191be2f211e1187c132c%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011245/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011245%7EJP2%7E27495fb21b5493a20c6d60f159f6686edae84a9a1954191be2f211e1187c132c%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011245",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -519,13 +519,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011373%7EJP2%7Ec49dded8cffd4cd0c1ac7bee6268ce23b369bcc2849467a9ada3495601f3969a%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011373/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011373%7EJP2%7Ec49dded8cffd4cd0c1ac7bee6268ce23b369bcc2849467a9ada3495601f3969a%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011373",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -538,13 +538,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A52999%7EJP2%7E4b16f33763a808bfaf18473c6df889f280ba2656624039c603ce6f0861ec15d4%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53016/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A52999%7EJP2%7E4b16f33763a808bfaf18473c6df889f280ba2656624039c603ce6f0861ec15d4%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53016",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -561,13 +561,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013394%7EJP2%7Ec233c572561c29137b39eb5845761bb2cdc77695aab7b5d87d780f8f66cd8c85%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013394/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013394%7EJP2%7Ec233c572561c29137b39eb5845761bb2cdc77695aab7b5d87d780f8f66cd8c85%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013394",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -580,13 +580,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012118%7EJP2%7Ea715c76ba1538285d1571700b0de900e749bee4576de0894e5a3412060434671%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012118/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012118%7EJP2%7Ea715c76ba1538285d1571700b0de900e749bee4576de0894e5a3412060434671%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012118",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -599,13 +599,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A52893%7EJP2%7E69d4e02b8f0e18b192ad3061e8a5e30ed0b5d860f931059856d765de8c963454%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53030/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A52893%7EJP2%7E69d4e02b8f0e18b192ad3061e8a5e30ed0b5d860f931059856d765de8c963454%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53030",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -620,13 +620,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A52940%7EJP2%7E4dbdb4bed3eca1b8a07f6743bda04ddaa5dd51adfe8854735cf5bd5be6653738%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53021/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A52940%7EJP2%7E4dbdb4bed3eca1b8a07f6743bda04ddaa5dd51adfe8854735cf5bd5be6653738%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53021",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -639,13 +639,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A814814%7EJP2%7Eb5408213629cd15ba666b85b8539b9a143c1b5e877aa471bfcc096593f07b507%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:814814/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A814814%7EJP2%7Eb5408213629cd15ba666b85b8539b9a143c1b5e877aa471bfcc096593f07b507%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:814814",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -662,13 +662,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A1996024%7EJP2%7Ec2996f664ac5230f5b0afc9a594f252c13dfb7dc4695190b8abc757b7278843e%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:1996024/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A1996024%7EJP2%7Ec2996f664ac5230f5b0afc9a594f252c13dfb7dc4695190b8abc757b7278843e%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:1996024",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -683,13 +683,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012573%7EJP2%7E6c34c38a3995a82e112453914e60dbc7399a9c88ad44f8b8c71dc07c22683cc0%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012573/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012573%7EJP2%7E6c34c38a3995a82e112453914e60dbc7399a9c88ad44f8b8c71dc07c22683cc0%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012573",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -706,13 +706,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012789%7EJP2%7E17ceba49475902c7420609839d4c62b56acc593d3c68d468ec8fa077f0a1569f%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012789/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012789%7EJP2%7E17ceba49475902c7420609839d4c62b56acc593d3c68d468ec8fa077f0a1569f%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012789",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -725,13 +725,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012588%7EJP2%7E0bba6ed6dc280e0285ff1ee2e2033e69475ea53d9d8b2d928696c2f1cc922572%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012588/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012588%7EJP2%7E0bba6ed6dc280e0285ff1ee2e2033e69475ea53d9d8b2d928696c2f1cc922572%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012588",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -744,13 +744,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012376%7EJP2%7Ef8fd0f2ffe108cbd7d2b55c88a9ee31dc45f4c793723affae49e3ac881aee972%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012376/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012376%7EJP2%7Ef8fd0f2ffe108cbd7d2b55c88a9ee31dc45f4c793723affae49e3ac881aee972%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012376",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -763,13 +763,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815672%7EJP2%7E5027ab6cdfdedc003aa2796aeee4a96fe2e2e38b62ab8d604627ccdd4a4be0da%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:815672/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815672%7EJP2%7E5027ab6cdfdedc003aa2796aeee4a96fe2e2e38b62ab8d604627ccdd4a4be0da%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:815672",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -782,13 +782,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011482%7EJP2%7E334c1e6238c5d4e1aac1cf2257f2ffa4b52d99bc0684c94609ecb93e7a29d612%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011482/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011482%7EJP2%7E334c1e6238c5d4e1aac1cf2257f2ffa4b52d99bc0684c94609ecb93e7a29d612%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011482",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -803,13 +803,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A130167%7EJP2%7Eec1f0dcd8c90701a3c39901f7d1d79658c741b0df139a7546446713623aab766%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:130167/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A130167%7EJP2%7Eec1f0dcd8c90701a3c39901f7d1d79658c741b0df139a7546446713623aab766%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:130167",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -824,13 +824,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013495%7EJP2%7E63aae046265d5375550ab49d8222a65614fe635b41d9e5912a943a1b7f46575d%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013495/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013495%7EJP2%7E63aae046265d5375550ab49d8222a65614fe635b41d9e5912a943a1b7f46575d%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013495",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -843,13 +843,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011153%7EJP2%7Efebe4b26e95c9104d303a6ea17b9196409284eecbcd073f04ba2e9824c345ba4%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011153/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011153%7EJP2%7Efebe4b26e95c9104d303a6ea17b9196409284eecbcd073f04ba2e9824c345ba4%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011153",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -862,13 +862,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012157%7EJP2%7E00bb3b1712f6eba3820c49a3aa258864d70aee87fdafebc62ed497c6b8540fee%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012157/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012157%7EJP2%7E00bb3b1712f6eba3820c49a3aa258864d70aee87fdafebc62ed497c6b8540fee%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012157",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -885,13 +885,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011881%7EJP2%7Ed49f7e5355f9bbefc49a374a5f639f6be7a6b95c37fba2a4ed89a7be93485e68%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011881/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011881%7EJP2%7Ed49f7e5355f9bbefc49a374a5f639f6be7a6b95c37fba2a4ed89a7be93485e68%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011881",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -904,13 +904,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012642%7EJP2%7Ec78ea6b4a0f9baa0ab77ec9fb46e5f4b91e466af197d474f66d74ee7c787a70e%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012642/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012642%7EJP2%7Ec78ea6b4a0f9baa0ab77ec9fb46e5f4b91e466af197d474f66d74ee7c787a70e%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012642",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -923,13 +923,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A814159%7EJP2%7E9a88bc2ef7163d61067f637ec4abaa54ef23c3ea8b14f833da04404c9802efc0%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:814159/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A814159%7EJP2%7E9a88bc2ef7163d61067f637ec4abaa54ef23c3ea8b14f833da04404c9802efc0%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:814159",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -942,13 +942,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2014032%7EJP2%7Ef7df794ca30a1350b3a5c4803685db5022327b97523d7a347ac3ac26225f40bc%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014032/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2014032%7EJP2%7Ef7df794ca30a1350b3a5c4803685db5022327b97523d7a347ac3ac26225f40bc%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014032",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -961,13 +961,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A812614%7EJP2%7E12e51bcdd4b2459cabdd347abafc098377dd86179c26e3d57063f722f178d42b%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:812614/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A812614%7EJP2%7E12e51bcdd4b2459cabdd347abafc098377dd86179c26e3d57063f722f178d42b%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:812614",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -980,34 +980,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3509940/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3509936/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3509940",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "-",
-          "label": {
-            "nl": ["Groote kaart van de Surinaamsche Ondernemersraad"]
-          },
-          "type": "Manifest",
-          "thumbnail": [
-            {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A817618%7EJP2%7Eecc889f0439bd6f1d8da637ead73c41f3181c7e0b63916a4f429a3bc8128c3a9%7Edigitalc/full/!512,512/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg",
-              "service": [
-                {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A817618%7EJP2%7Eecc889f0439bd6f1d8da637ead73c41f3181c7e0b63916a4f429a3bc8128c3a9%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3509936",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1024,13 +1003,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013482%7EJP2%7E6de9bc237bf55033e00be862006c95713067ce56f232f93d65828e9a4e3bb890%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013482/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013482%7EJP2%7E6de9bc237bf55033e00be862006c95713067ce56f232f93d65828e9a4e3bb890%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013482",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1043,13 +1022,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2016077%7EJP2%7E35b1a5e9d45727b8dcb9652f727764f66275fd83c4b3e9df67295745c321aa4d%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017249/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2016077%7EJP2%7E35b1a5e9d45727b8dcb9652f727764f66275fd83c4b3e9df67295745c321aa4d%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017249",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1062,13 +1041,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2481433%7EJP2%7E98c14b1378bc0efc293e278af0ec934950acb8841e630f6befe54dfcf6596007%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2481433/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2481433%7EJP2%7E98c14b1378bc0efc293e278af0ec934950acb8841e630f6befe54dfcf6596007%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2481433",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1081,34 +1060,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013986%7EJP2%7E9faadbbc5115c225318b34168e6d4c46488ebf10fd57aff26cb76af00e19c640%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013986/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013986%7EJP2%7E9faadbbc5115c225318b34168e6d4c46488ebf10fd57aff26cb76af00e19c640%7Edigitalc",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "-",
-          "label": {
-            "nl": ["Dutch possessions in South America and the West Indies"]
-          },
-          "type": "Manifest",
-          "thumbnail": [
-            {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A53124%7EJP2%7E03c2042554196deaf5019928b057e2c21701ae47553ae124a58c1933a830a749%7Edigitalc/full/!512,512/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg",
-              "service": [
-                {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A53124%7EJP2%7E03c2042554196deaf5019928b057e2c21701ae47553ae124a58c1933a830a749%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013986",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1121,13 +1079,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2010998%7EJP2%7E63bc5bb4c216a34ac80c4739de6b3207471077d517f62f29f602ce8adc992d84%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2010998/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2010998%7EJP2%7E63bc5bb4c216a34ac80c4739de6b3207471077d517f62f29f602ce8adc992d84%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2010998",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1140,13 +1098,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815460%7EJP2%7E97ebc81bd0d2ab6abe32252dff3fc4c1d5c55e26ab0820a5e65f5811aa2e5b19%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:815460/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815460%7EJP2%7E97ebc81bd0d2ab6abe32252dff3fc4c1d5c55e26ab0820a5e65f5811aa2e5b19%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:815460",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1159,13 +1117,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815995%7EJP2%7E845ef8ef4c7d9097647bdd1f1600b43fca0d835abe6db170add2caed13f2bd65%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:815995/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815995%7EJP2%7E845ef8ef4c7d9097647bdd1f1600b43fca0d835abe6db170add2caed13f2bd65%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:815995",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1178,32 +1136,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011216%7EJP2%7E74e5b2cdf9fcaac9ea18dae178d654f1e2ba277051013f53d9c181f95c3e00e8%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011216/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011216%7EJP2%7E74e5b2cdf9fcaac9ea18dae178d654f1e2ba277051013f53d9c181f95c3e00e8%7Edigitalc",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "-",
-          "label": { "nl": ["D A 58,5"] },
-          "type": "Manifest",
-          "thumbnail": [
-            {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815217%7EJP2%7Ecc549ad5c878e41a848fdd3848594079dd9d5fec5290537e7dc8f38999e5f89c%7Edigitalc/full/!512,512/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg",
-              "service": [
-                {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815217%7EJP2%7Ecc549ad5c878e41a848fdd3848594079dd9d5fec5290537e7dc8f38999e5f89c%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011216",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1220,13 +1159,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3509930/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3509926/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3509930",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3509926",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1241,13 +1180,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A1995551%7EJP2%7E8dd2333220d541fb607882acdea8079bdf8126722ecf233e0801676e152f37cb%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:1995551/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A1995551%7EJP2%7E8dd2333220d541fb607882acdea8079bdf8126722ecf233e0801676e152f37cb%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:1995551",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1260,13 +1199,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A53185%7EJP2%7E711eb6a345136153d5875cfb1b2c5b2eedc36707f29d6a4b5fc549ab6ac51d2e%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53185/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A53185%7EJP2%7E711eb6a345136153d5875cfb1b2c5b2eedc36707f29d6a4b5fc549ab6ac51d2e%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53185",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1279,13 +1218,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A53200%7EJP2%7E0428f9153b6b35b1324f944655e60b145e7e4d3f924e316ffb203aa97101ab5f%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53200/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A53200%7EJP2%7E0428f9153b6b35b1324f944655e60b145e7e4d3f924e316ffb203aa97101ab5f%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53200",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1298,13 +1237,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2010703%7EJP2%7Ea4e49101f06ee8bf8ca837f02779c4edb54d32394594bf1c89779b43d8c27da3%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2010703/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2010703%7EJP2%7Ea4e49101f06ee8bf8ca837f02779c4edb54d32394594bf1c89779b43d8c27da3%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2010703",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1317,13 +1256,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013602%7EJP2%7E98134247d380d3dc29f66d3b54b2d64b7189b5133bf83d63332636434e424d37%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013602/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013602%7EJP2%7E98134247d380d3dc29f66d3b54b2d64b7189b5133bf83d63332636434e424d37%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013602",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1336,13 +1275,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815664%7EJP2%7E0c7e7ca03e97fc013b858db0abb9d9dafc7734b29afd97dd6d1734d3317a9aa3%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:815664/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815664%7EJP2%7E0c7e7ca03e97fc013b858db0abb9d9dafc7734b29afd97dd6d1734d3317a9aa3%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:815664",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1355,13 +1294,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A52876%7EJP2%7Ec8fd3b7c07d26754d5960c41ca249fe5d1290191d9251f7fbb717d6a11f12375%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53031/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A52876%7EJP2%7Ec8fd3b7c07d26754d5960c41ca249fe5d1290191d9251f7fbb717d6a11f12375%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53031",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1374,13 +1313,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012438%7EJP2%7E359c5ed2f0c15c871853cde848f33fc20f88945da44c9806f03415bb8eb406f1%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012438/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012438%7EJP2%7E359c5ed2f0c15c871853cde848f33fc20f88945da44c9806f03415bb8eb406f1%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012438",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1393,13 +1332,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012032%7EJP2%7Ee0123482963631a1c771df3835f9f10462af481eacedef1bc3d34ab53a8d83c6%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013194/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012032%7EJP2%7Ee0123482963631a1c771df3835f9f10462af481eacedef1bc3d34ab53a8d83c6%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013194",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1412,13 +1351,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3509935/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3509931/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3509935",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3509931",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1431,13 +1370,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013765%7EJP2%7E2710275c50f2f34fa9d548a9ceaf2d6dda77eb0024778515f5a8c7f11c91f72d%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013765/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013765%7EJP2%7E2710275c50f2f34fa9d548a9ceaf2d6dda77eb0024778515f5a8c7f11c91f72d%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013765",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1454,13 +1393,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A53096%7EJP2%7Ee7ff1726a95bf7d3a92807f46c3bc38b14fe4cf4c2cb0bd02e754a31345753a3%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53096/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A53096%7EJP2%7Ee7ff1726a95bf7d3a92807f46c3bc38b14fe4cf4c2cb0bd02e754a31345753a3%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53096",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1473,13 +1412,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2014154%7EJP2%7E0ccd2b364e032804f5fd10b2026964b5c725ca78febba8dc80609d2adc0c3ce8%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017253/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2014154%7EJP2%7E0ccd2b364e032804f5fd10b2026964b5c725ca78febba8dc80609d2adc0c3ce8%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017253",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1492,13 +1431,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012760%7EJP2%7Efdb3b661e3bd2ddd1e5e4f60009ab1254e7379914210389c5ae6c7766f23dc0b%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012760/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012760%7EJP2%7Efdb3b661e3bd2ddd1e5e4f60009ab1254e7379914210389c5ae6c7766f23dc0b%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012760",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1511,13 +1450,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013296%7EJP2%7E74404b62aa741109bb9510b251ea50dcce5fe752b33d0433d7e952454f0478e5%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013296/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013296%7EJP2%7E74404b62aa741109bb9510b251ea50dcce5fe752b33d0433d7e952454f0478e5%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013296",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1530,13 +1469,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013561%7EJP2%7Eb8e7208531fde2c1b051548dc8dea5cb898a51e8588fad0e2782092b00a34c64%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013561/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013561%7EJP2%7Eb8e7208531fde2c1b051548dc8dea5cb898a51e8588fad0e2782092b00a34c64%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013561",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1549,13 +1488,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013261%7EJP2%7E8895e357847779f2e4dd45574dba955eb40aacc584af4dbbe58e28f55da8e1b0%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3278462/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013261%7EJP2%7E8895e357847779f2e4dd45574dba955eb40aacc584af4dbbe58e28f55da8e1b0%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3278462",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1572,13 +1511,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012116%7EJP2%7Ec10e0b41951afd3378ffd1c95dbdd06e726bd2e40b2626fc3d98ad0e0e8e970a%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012116/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012116%7EJP2%7Ec10e0b41951afd3378ffd1c95dbdd06e726bd2e40b2626fc3d98ad0e0e8e970a%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012116",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1591,13 +1530,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011683%7EJP2%7Ec1742c7fed0e2057009ccb6592ae1a68fb77d1e92229133e3f3a4fdec5d1ee9e%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011683/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011683%7EJP2%7Ec1742c7fed0e2057009ccb6592ae1a68fb77d1e92229133e3f3a4fdec5d1ee9e%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011683",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1610,13 +1549,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A1997033%7EJP2%7E9edeeda158498704ea8a3449a3c673b5a0b0a70c8f68d21eef45d69692ba605a%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:1997033/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A1997033%7EJP2%7E9edeeda158498704ea8a3449a3c673b5a0b0a70c8f68d21eef45d69692ba605a%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:1997033",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1629,13 +1568,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011326%7EJP2%7E3d440d7b5a18c55a60c947260db8235aad71e58d85602eb817842820cb7a3aab%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011326/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011326%7EJP2%7E3d440d7b5a18c55a60c947260db8235aad71e58d85602eb817842820cb7a3aab%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011326",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1648,13 +1587,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012483%7EJP2%7E1d77f9ab0ee587b9ed516f5780c80e02821b450151ce8d050b91ac9d7d79725b%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013193/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012483%7EJP2%7E1d77f9ab0ee587b9ed516f5780c80e02821b450151ce8d050b91ac9d7d79725b%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013193",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1667,13 +1606,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013939%7EJP2%7E1f26692b455557a4b1fd77ff50e7dbe5aa939cdcaaa981ff1d2a2bb7fd607d0a%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013939/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013939%7EJP2%7E1f26692b455557a4b1fd77ff50e7dbe5aa939cdcaaa981ff1d2a2bb7fd607d0a%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013939",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1690,13 +1629,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3633336%7EJP2%7E0029bb77f30f1a74a532e9c7a97e2e958406bce9673a72fd140a0dbc8d1c2684%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3633336/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3633336%7EJP2%7E0029bb77f30f1a74a532e9c7a97e2e958406bce9673a72fd140a0dbc8d1c2684%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3633336",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1713,13 +1652,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011103%7EJP2%7Ed24711639f249d946775d3aa2b18a82a76cfd5bda6624c381d9dc29d29d4fcfa%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011103/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2011103%7EJP2%7Ed24711639f249d946775d3aa2b18a82a76cfd5bda6624c381d9dc29d29d4fcfa%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2011103",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1734,32 +1673,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013782%7EJP2%7E013d6a32760bce51f5435ca9ac7e36ea06b7a9623d30c3d7893a0fcc36348b29%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013782/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2013782%7EJP2%7E013d6a32760bce51f5435ca9ac7e36ea06b7a9623d30c3d7893a0fcc36348b29%7Edigitalc",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "-",
-          "label": { "nl": ["Nieuwe specialkaart van de colonie Suriname"] },
-          "type": "Manifest",
-          "thumbnail": [
-            {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815168%7EJP2%7E1b69858765bd35b3f9f6322931c378c2b6094d2e8d8a8b27fc59f73cd8a9d762%7Edigitalc/full/!512,512/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg",
-              "service": [
-                {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A815168%7EJP2%7E1b69858765bd35b3f9f6322931c378c2b6094d2e8d8a8b27fc59f73cd8a9d762%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2013782",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1772,13 +1692,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3753541%7EJP2%7E2947a1ec9670022ef7f2ae63aa97cbee79ee1f9c898b065ef77ff631fb897b72%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3753552/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3753541%7EJP2%7E2947a1ec9670022ef7f2ae63aa97cbee79ee1f9c898b065ef77ff631fb897b72%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3753552",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1793,32 +1713,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A1996774%7EJP2%7E5231f9d4cb10643a68516d05da95c26e284789e804ca149b3936a94fd776a23f%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:1996774/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A1996774%7EJP2%7E5231f9d4cb10643a68516d05da95c26e284789e804ca149b3936a94fd776a23f%7Edigitalc",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "-",
-          "label": { "nl": ["D A 56,9"] },
-          "type": "Manifest",
-          "thumbnail": [
-            {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A813087%7EJP2%7Ea2f5b78342279d24607f3bf220a0abde3414e39d275bd8b66802499d759d477c%7Edigitalc/full/!512,512/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg",
-              "service": [
-                {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A813087%7EJP2%7Ea2f5b78342279d24607f3bf220a0abde3414e39d275bd8b66802499d759d477c%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:1996774",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1835,13 +1736,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012369%7EJP2%7E31a8c8844bf7e37f9a3f22579c0e6025915557871ed5ac3f1eb8cd750f72b9dd%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012369/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2012369%7EJP2%7E31a8c8844bf7e37f9a3f22579c0e6025915557871ed5ac3f1eb8cd750f72b9dd%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012369",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1856,13 +1757,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2481434%7EJP2%7E5c1c31868fce8d9e174010416bd1ee24ccb3536e0a37da954193a77e13a3c01d%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2481434/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2481434%7EJP2%7E5c1c31868fce8d9e174010416bd1ee24ccb3536e0a37da954193a77e13a3c01d%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2481434",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1877,13 +1778,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3618828%7EJP2%7Ea6c38b2e28cb990b5e1fb3c834a1054db16c013b5bb0052f4efb7816c66a56fc%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3618828/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A3618828%7EJP2%7Ea6c38b2e28cb990b5e1fb3c834a1054db16c013b5bb0052f4efb7816c66a56fc%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3618828",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1896,13 +1797,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A52920%7EJP2%7E0edbf619cb00a1f54b827919fe598626dd2b94810228d1a63269554b826af279%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53015/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A52920%7EJP2%7E0edbf619cb00a1f54b827919fe598626dd2b94810228d1a63269554b826af279%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:53015",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1915,13 +1816,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2015734%7EJP2%7E2d4a9c0a75863e1fd5934663af151852d9d04ea272cf0f12c1c5cb240794dd25%7Edigitalc/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017256/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://digitalcollections.universiteitleiden.nl/iiif/2/item%3A2015734%7EJP2%7E2d4a9c0a75863e1fd5934663af151852d9d04ea272cf0f12c1c5cb240794dd25%7Edigitalc",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017256",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1938,13 +1839,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3753547/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3753552/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3753547",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3753552",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1961,13 +1862,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014978/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017256/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2014978",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017256",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -1984,13 +1885,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2016457/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017249/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2016457",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017249",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -2007,13 +1908,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2014626/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017249/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2014626",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017249",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -2030,13 +1931,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2015392/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017249/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2015392",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017249",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -2053,13 +1954,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2016722/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017249/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2016722",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2017249",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -2095,13 +1996,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2012417/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012417/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:2012417",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:2012417",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -2116,13 +2017,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3254319/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3254319/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3254319",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3254319",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -2139,13 +2040,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3156379/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3156379/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3156379",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:3156379",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -2160,13 +2061,13 @@
           "type": "Manifest",
           "thumbnail": [
             {
-              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:127199/full/!512,512/0/default.jpg",
+              "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:127199/full/!512,512/0/default.jpg",
               "type": "Image",
               "format": "image/jpeg",
               "service": [
                 {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:127199",
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%2Fitem:127199",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               ]
@@ -2265,48 +2166,6 @@
           ]
         },
         {
-          "id": "-",
-          "label": {
-            "nl": ["Generale kaart der kolonie Suriname in Zuid-Amerika [...]"]
-          },
-          "type": "Manifest",
-          "thumbnail": [
-            {
-              "id": "https://service.archief.nl/iip/iipsrv?IIIF=8b/79/42/34/47/14/48/cc/82/90/e7/25/37/40/a2/1d/16a97a5d-b0f6-4ef8-a12b-c064f6536479.jp2/full/!512,512/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg",
-              "service": [
-                {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "id": "https://service.archief.nl/iip/iipsrv?IIIF=8b/79/42/34/47/14/48/cc/82/90/e7/25/37/40/a2/1d/16a97a5d-b0f6-4ef8-a12b-c064f6536479.jp2",
-                  "profile": "level2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "-",
-          "label": {
-            "nl": ["Algemeene Kaart van de Colonie of Provintie van Suriname"]
-          },
-          "type": "Manifest",
-          "thumbnail": [
-            {
-              "id": "https://service.archief.nl/iip/a9/99/ff/49/28/d5/4a/2f/85/e0/b9/0f/c9/85/d1/d8/8198ed36-ae50-4b4f-b086-ace8dd1c5c28.jp2/full/!512,512/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg",
-              "service": [
-                {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "id": "https://service.archief.nl/iip/a9/99/ff/49/28/d5/4a/2f/85/e0/b9/0f/c9/85/d1/d8/8198ed36-ae50-4b4f-b086-ace8dd1c5c28.jp2",
-                  "profile": "level2"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.TOPO/B/B7/16A401.json",
           "label": {
             "nl": ["Nieuwe Kaart van Suriname, Comowini, Cottica & Marawini"]
@@ -2321,44 +2180,6 @@
                 {
                   "@context": "http://iiif.io/api/image/3/context.json",
                   "id": "https://service.archief.nl/iip/70/6a/ba/89/e6/7b/4d/09/a8/17/70/e6/7f/bc/fb/e9/cf8fbb84-5e14-4093-a253-4f82ed669d3e.jp2",
-                  "profile": "level2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "-",
-          "label": { "nl": ["Paramaribo en omstreken"] },
-          "type": "Manifest",
-          "thumbnail": [
-            {
-              "id": "https://service.archief.nl/iip/99/29/93/34/b9/23/45/39/bb/a3/85/69/20/b6/b8/38/17ca4350-4715-454d-8725-bb602e3edde5.jp2/full/!512,512/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg",
-              "service": [
-                {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "id": "https://service.archief.nl/iip/99/29/93/34/b9/23/45/39/bb/a3/85/69/20/b6/b8/38/17ca4350-4715-454d-8725-bb602e3edde5.jp2",
-                  "profile": "level2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "-",
-          "label": { "nl": ["Carte de la Colonie de Surinam"] },
-          "type": "Manifest",
-          "thumbnail": [
-            {
-              "id": "https://service.archief.nl/iip/34/40/02/fc/a0/3b/4c/68/a4/e5/62/a6/5d/ca/a3/e7/00e773c6-a466-4bd3-8a61-d1bedbba4cee.jp2/full/!512,512/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg",
-              "service": [
-                {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "id": "https://service.archief.nl/iip/34/40/02/fc/a0/3b/4c/68/a4/e5/62/a6/5d/ca/a3/e7/00e773c6-a466-4bd3-8a61-d1bedbba4cee.jp2",
                   "profile": "level2"
                 }
               ]
@@ -2410,27 +2231,6 @@
           ]
         },
         {
-          "id": "-",
-          "label": {
-            "nl": ["Kaart van Nw. Rotterdam met een gedeelte der Nickeriekust"]
-          },
-          "type": "Manifest",
-          "thumbnail": [
-            {
-              "id": "https://service.archief.nl/iip/81/83/5c/4d/fd/9f/4f/66/89/05/41/6a/17/80/96/e4/ed961438-2172-4621-aaf2-f565b3cf6745.jp2/full/!512,512/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg",
-              "service": [
-                {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "id": "https://service.archief.nl/iip/81/83/5c/4d/fd/9f/4f/66/89/05/41/6a/17/80/96/e4/ed961438-2172-4621-aaf2-f565b3cf6745.jp2",
-                  "profile": "level2"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.MIKO/I/I.3/I.3.A/I.3.A.4/I.3.A.4.1/2030.json",
           "label": {
             "nl": ["Kaart van Suriname. Met inzet van Plantagen der Commewijne"]
@@ -2445,25 +2245,6 @@
                 {
                   "@context": "http://iiif.io/api/image/3/context.json",
                   "id": "https://service.archief.nl/iip/75/45/30/ce/54/d1/4f/0f/98/40/d4/1d/22/48/85/34/41278280-bba8-4113-8637-782bfbe4bfed.jp2",
-                  "profile": "level2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "-",
-          "label": { "nl": ["Plattegrond van Paramaribo"] },
-          "type": "Manifest",
-          "thumbnail": [
-            {
-              "id": "https://service.archief.nl/iip/bf/d8/10/95/41/d2/4b/56/8c/ca/0b/d2/04/4e/28/24/2fb075e6-3247-4f26-acf4-b91b1a6220f8.jp2/full/!512,512/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg",
-              "service": [
-                {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "id": "https://service.archief.nl/iip/bf/d8/10/95/41/d2/4b/56/8c/ca/0b/d2/04/4e/28/24/2fb075e6-3247-4f26-acf4-b91b1a6220f8.jp2",
                   "profile": "level2"
                 }
               ]
