@@ -1,0 +1,1931 @@
+{
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/d7b253fbda904040",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/88c933bc-34f0-44c2-b27d-e21286906975",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10142\" height=\"9600\"><polygon points=\"250,250 9892,250 9892,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-66.80656965653425, -67.9096658916651]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9842, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-66.7983020711917, -67.98673255155701]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9842, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-66.99047246284525, -67.98923836559158]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-66.9980542952906, -67.91216110434453]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/8e381efadea64e2e",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/e387bc35-444d-4f3c-8d2f-113a8c897e8c",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10130\" height=\"9600\"><polygon points=\"250,250 9880,250 9880,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.726995678556285, -65.85586515366322]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9830, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.64283535805649, -65.79120701848235]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9830, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.49262308258591, -65.82352785895375]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.57648481238177, -65.88828387190102]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/7952b2a82ca94e1d",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/eb4e804b-c96b-4782-b8e5-d9d66fed3607",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10141\" height=\"9600\"><polygon points=\"250,250 9891,250 9891,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.46429278224615, -65.71407097428472]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.494746713932, -65.64438050952782]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.33522272345932, -65.63273169916664]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.30431291046316, -65.70238393651452]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/6d2150acab42479c",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/863ea97c-91d0-4145-9638-a272541f844c",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10140\" height=\"9600\"><polygon points=\"250,250 9890,250 9890,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-68.6444381455115, -70.64325335275704]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9840, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-68.63752883651713, -70.71091590219183]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9840, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-68.82540201106907, -70.71516576717417]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-68.83164385699001, -70.64749527010935]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/9e7b05160d5e4598",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/aaec25f7-1e99-4b93-9c0c-b98ec8264fce",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10140\" height=\"9600\"><polygon points=\"250,250 9890,250 9890,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.03098254425781, -65.12328057165175]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9840, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.02116070968061, -65.19674378446837]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9840, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.18839676092564, -65.2003406929904]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.1977108887327, -65.126864775781]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/bab3709cc6f64e80",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/17293863-e828-452b-8176-69b251e002e1",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10139\" height=\"9600\"><polygon points=\"250,250 9889,250 9889,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.1824162123667, -67.81702627486018]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9839, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.17937743045941, -67.8960779815195]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9839, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.37194791917015, -67.89795879707938]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.37428395755067, -67.81890320048252]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/095c9750abd0432c",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/8a46c596-1398-4e91-a292-ef0c7251184e",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10138\" height=\"9600\"><polygon points=\"250,250 9888,250 9888,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.23254292060025, -71.54898981938852]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9838, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.26715501527201, -71.45979513954106]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9838, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.00461939603483, -71.4492778167574]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-66.96873790210537, -71.53841851818795]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/6ef802abdf274073",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/71c24b98-1c08-488c-9c09-4a47a7d37719",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10141\" height=\"9600\"><polygon points=\"250,250 9891,250 9891,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.2851014458676, -65.38450231505382]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.27829002699693, -65.4577762128978]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.44572353437647, -65.46079493788022]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.45202231427468, -65.3875122663273]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/c52a4b1aaf9d48f1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/24cc60d8-7a87-428f-afe5-ec4df014363c",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10137\" height=\"9600\"><polygon points=\"250,250 9887,250 9887,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.48486985131073, -66.28426551604473]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9837, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.51994580952582, -66.19113084490735]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9837, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.301055024786336, -66.18203700626682]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.26510970402644, -66.2751138285741]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/a42e358c43b344d2",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/d04e66bf-35a9-4aeb-be44-4e12845a3d54",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10141\" height=\"9600\"><polygon points=\"250,250 9891,250 9891,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.37036415977775, -65.79209328031503]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.37011628086427, -65.86931277332724]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.54500594185561, -65.86935410581002]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.54467972920862, -65.79213465022326]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/28c64b3986bf4551",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/8e2262d7-ac50-43fb-9b3c-20e3d74312ba",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10140\" height=\"9600\"><polygon points=\"250,250 9890,250 9890,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.01867351391572, -65.19576070061576]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9840, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.00997381556107, -65.27067842524455]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9840, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.17706992030655, -65.2725936780193]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.185250114194965, -65.19766511767864]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/a75d22cb02c74cad",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/d0243396-cbfd-42d4-b0ed-a668a656dc2e",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10141\" height=\"9600\"><polygon points=\"250,250 9891,250 9891,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.49745571141547, -65.5925621941041]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.5260047310575, -65.52501570933227]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.3725713000806, -65.51297340936328]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.34359983570308, -65.5804849717258]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/25c8382d66c54993",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/4fbc0b7d-ba20-44f4-afc5-242410b7a4fc",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10136\" height=\"9600\"><polygon points=\"250,250 9886,250 9886,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-64.34512744007507, -64.72900465048106]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9836, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-64.34385972784426, -64.64832329799927]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9836, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-64.16697213512435, -64.6487002583642]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-64.1676570056204, -64.72938301829745]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/4d663035635444c1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/355e93ab-ae83-4089-8a6e-0109e2f31775",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10139\" height=\"9600\"><polygon points=\"250,250 9889,250 9889,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.17766451139396, -67.75898389109882]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9839, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.16920579184554, -67.8387478764205]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9839, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.3681071669087, -67.84107522462386]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.37583590194903, -67.76130002159022]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/70915865dab146a2",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/d5f4a7af-a809-4aa6-b791-4f0d25fd2013",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10141\" height=\"9600\"><polygon points=\"250,250 9891,250 9891,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.40621846007621, -65.35991106024234]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.4080949843388, -65.43222702221036]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.56970725535896, -65.43198631232067]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.56734214389192, -65.3596729036298]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/f2e0c12fecea45eb",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/ac63eeda-5732-43a2-8fae-0951acbe0eb9",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10141\" height=\"9600\"><polygon points=\"250,250 9891,250 9891,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.45728523591991, -65.74933758596143]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.500722925536486, -65.67872646627393]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.33766763852322, -65.6616053889699]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.29377332604716, -65.73216086971794]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/a5d301e6b1fb4f5c",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/fe1b88ec-9e26-41ca-b856-7334f7a2004d",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10141\" height=\"9600\"><polygon points=\"250,250 9891,250 9891,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.296589252001176, -65.3326422455495]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.2886445293926, -65.40481051037894]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.45467566997253, -65.40711495905364]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.46212064168026, -65.33493679498403]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/1b42848de4a24134",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/17445f16-62c4-4cdc-88ca-99fc673ada21",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10141\" height=\"9600\"><polygon points=\"250,250 9891,250 9891,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.45897275463612, -65.74595959380066]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.48709151192114, -65.67555424138959]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.32498641321244, -65.66302974648566]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.29639856182961, -65.73339881156859]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/b46b6fdefbdd4652",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/4ac31507-3387-4f5f-9d72-0825854d2233",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10141\" height=\"9600\"><polygon points=\"250,250 9891,250 9891,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.04762693009151, -64.60665019991919]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.08060533862028, -64.52686936104178]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-61.90637535446523, -64.51320689566114]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-61.87285063373321, -64.59294003107274]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/ab070273ee7d411d",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/dd1ab71d-a47e-4bc2-b93f-589d7520ac99",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10137\" height=\"9600\"><polygon points=\"250,250 9887,250 9887,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.84116245355692, -64.88337544312513]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9837, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.84298966286974, -64.95896841492954]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9837, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.01416565126247, -64.9568934811646]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.01180730959243, -64.88130374518654]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/4c38d78b7d6f4f2f",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/a4ddd5ad-d727-408d-a4bf-00273a467d46",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10139\" height=\"9600\"><polygon points=\"250,250 9889,250 9889,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.16556863629401, -67.567455914714]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9839, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.15924292092986, -67.64590330083026]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9839, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.35341148276353, -67.6475859534141]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-67.35904169186327, -67.56913041795427]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/999ecd2d6e364e01",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/9ca34f6f-f138-4e23-a39f-3a886e52c013",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10137\" height=\"9600\"><polygon points=\"250,250 9887,250 9887,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.83530134751102, -64.26316625255355]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9837, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.83533214618939, -64.34383811190028]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9837, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.01017112803562, -64.3435810972712]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.00957423962149, -64.26290973254287]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/87b588c89f424fde",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/b25372df-115c-4568-8c47-0b61deb1b165",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10141\" height=\"9600\"><polygon points=\"250,250 9891,250 9891,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.405838062212304, -65.3852418353498]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.40546750594952, -65.45510268498086]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9841, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.56711604078846, -65.45460676295181]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.56701400315031, -65.38474588277172]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/0f378a91b3b14377",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/facda401-580b-45e5-9827-389c682051ee",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10137\" height=\"9600\"><polygon points=\"250,250 9887,250 9887,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.832366665720464, -64.28214864391238]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9837, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.8312860108525, -64.36248236349945]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9837, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.00556250069145, -64.36279510586652]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.00608085958344, -64.28246023673505]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/99e0db833e994ebb",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.4tu.nl/iiif/v3/74d642a8-199c-4064-aa39-33b9e2a7d6d0",
+          "type": "ImageService3",
+          "partOf": [
+            {
+              "id": "https://data.4tu.nl/iiif/v3/d4d6b369-15e8-4f4f-99fc-ae39178b2e4d/draft/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"10137\" height=\"9600\"><polygon points=\"250,250 9887,250 9887,9350 250,9350\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.83742856005805, -64.86192378903857]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9837, 300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-62.84154032962137, -64.9399557827491]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [9837, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.01514492967005, -64.93898733633971]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [300, 9300]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-63.01047754448168, -64.8609612644521]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
