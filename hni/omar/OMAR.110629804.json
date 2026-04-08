@@ -1,0 +1,324 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sammeltassen.nl/iiif-manifests/hni/omar/OMAR.110629804.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "OMAR.110629804 Presentatietekening in perspectief van het gehele Boompjes- plan, woongebouw en brug. z.jr. 3 omslagen / 3 bladen"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/hni/omar/OMAR.110629804.json/canvas/0",
+      "type": "Canvas",
+      "height": 9699,
+      "width": 5764,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/omar/OMAR.110629804.json/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hni-iiif-service.qonqord.cloud/iiif/7B1CC422-83AA-4D16-A309-61159FDA289F/FFoowShaaZIBNCvi2JyBUw",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/hni/omar/OMAR.110629804.json/canvas/0",
+              "body": {
+                "id": "https://hni-iiif-service.qonqord.cloud/iiif/7B1CC422-83AA-4D16-A309-61159FDA289F/FFoowShaaZIBNCvi2JyBUw/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 9699,
+                "width": 5764,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://hni-iiif-service.qonqord.cloud/iiif/7B1CC422-83AA-4D16-A309-61159FDA289F/FFoowShaaZIBNCvi2JyBUw",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 5764,
+                    "height": 9699,
+                    "sizes": [
+                      {
+                        "width": 90,
+                        "height": 152
+                      },
+                      {
+                        "width": 180,
+                        "height": 303
+                      },
+                      {
+                        "width": 360,
+                        "height": 606
+                      },
+                      {
+                        "width": 721,
+                        "height": 1212
+                      },
+                      {
+                        "width": 1441,
+                        "height": 2425
+                      },
+                      {
+                        "width": 2882,
+                        "height": 4850
+                      },
+                      {
+                        "width": 5764,
+                        "height": 9699
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "height": 512,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level2.json",
+                      {
+                        "formats": ["tif", "jpg", "gif", "png"],
+                        "qualities": ["bitonal", "default", "gray", "color"],
+                        "supports": [
+                          "regionByPx",
+                          "sizeByW",
+                          "sizeByWhListed",
+                          "cors",
+                          "regionSquare",
+                          "sizeByDistortedWh",
+                          "sizeAboveFull",
+                          "canonicalLinkHeader",
+                          "sizeByConfinedWh",
+                          "sizeByPct",
+                          "jsonldMediaType",
+                          "regionByPct",
+                          "rotationArbitrary",
+                          "sizeByH",
+                          "baseUriRedirect",
+                          "rotationBy90s",
+                          "profileLinkHeader",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "attribution": "Provided by Woodwing",
+                    "license": "https://www.woodwing.com"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/hni/omar/OMAR.110629804.json/canvas/1",
+      "type": "Canvas",
+      "height": 9708,
+      "width": 5803,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/omar/OMAR.110629804.json/canvas/1/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hni-iiif-service.qonqord.cloud/iiif/7B1CC422-83AA-4D16-A309-61159FDA289F/EVH-uCNpaIVBWOgjblkUqC",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/hni/omar/OMAR.110629804.json/canvas/1",
+              "body": {
+                "id": "https://hni-iiif-service.qonqord.cloud/iiif/7B1CC422-83AA-4D16-A309-61159FDA289F/EVH-uCNpaIVBWOgjblkUqC/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 9708,
+                "width": 5803,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://hni-iiif-service.qonqord.cloud/iiif/7B1CC422-83AA-4D16-A309-61159FDA289F/EVH-uCNpaIVBWOgjblkUqC",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 5803,
+                    "height": 9708,
+                    "sizes": [
+                      {
+                        "width": 91,
+                        "height": 152
+                      },
+                      {
+                        "width": 181,
+                        "height": 303
+                      },
+                      {
+                        "width": 363,
+                        "height": 607
+                      },
+                      {
+                        "width": 725,
+                        "height": 1214
+                      },
+                      {
+                        "width": 1451,
+                        "height": 2427
+                      },
+                      {
+                        "width": 2902,
+                        "height": 4854
+                      },
+                      {
+                        "width": 5803,
+                        "height": 9708
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "height": 512,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level2.json",
+                      {
+                        "formats": ["jpg", "tif", "gif", "png"],
+                        "qualities": ["bitonal", "default", "gray", "color"],
+                        "supports": [
+                          "regionByPx",
+                          "sizeByW",
+                          "sizeByWhListed",
+                          "cors",
+                          "regionSquare",
+                          "sizeByDistortedWh",
+                          "sizeAboveFull",
+                          "canonicalLinkHeader",
+                          "sizeByConfinedWh",
+                          "sizeByPct",
+                          "jsonldMediaType",
+                          "regionByPct",
+                          "rotationArbitrary",
+                          "sizeByH",
+                          "baseUriRedirect",
+                          "rotationBy90s",
+                          "profileLinkHeader",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "attribution": "Provided by Woodwing",
+                    "license": "https://www.woodwing.com"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/hni/omar/OMAR.110629804.json/canvas/2",
+      "type": "Canvas",
+      "height": 9721,
+      "width": 5831,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/hni/omar/OMAR.110629804.json/canvas/2/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hni-iiif-service.qonqord.cloud/iiif/7B1CC422-83AA-4D16-A309-61159FDA289F/AWZSyVUKaW98K6VQ2KdJAz",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/hni/omar/OMAR.110629804.json/canvas/2",
+              "body": {
+                "id": "https://hni-iiif-service.qonqord.cloud/iiif/7B1CC422-83AA-4D16-A309-61159FDA289F/AWZSyVUKaW98K6VQ2KdJAz/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 9721,
+                "width": 5831,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://hni-iiif-service.qonqord.cloud/iiif/7B1CC422-83AA-4D16-A309-61159FDA289F/AWZSyVUKaW98K6VQ2KdJAz",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 5831,
+                    "height": 9721,
+                    "sizes": [
+                      {
+                        "width": 91,
+                        "height": 152
+                      },
+                      {
+                        "width": 182,
+                        "height": 304
+                      },
+                      {
+                        "width": 364,
+                        "height": 608
+                      },
+                      {
+                        "width": 729,
+                        "height": 1215
+                      },
+                      {
+                        "width": 1458,
+                        "height": 2430
+                      },
+                      {
+                        "width": 2916,
+                        "height": 4861
+                      },
+                      {
+                        "width": 5831,
+                        "height": 9721
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "height": 512,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level2.json",
+                      {
+                        "formats": ["tif", "jpg", "gif", "png"],
+                        "qualities": ["bitonal", "default", "gray", "color"],
+                        "supports": [
+                          "regionByPx",
+                          "sizeByW",
+                          "sizeByWhListed",
+                          "cors",
+                          "regionSquare",
+                          "sizeByDistortedWh",
+                          "sizeAboveFull",
+                          "canonicalLinkHeader",
+                          "sizeByConfinedWh",
+                          "sizeByPct",
+                          "jsonldMediaType",
+                          "regionByPct",
+                          "rotationArbitrary",
+                          "sizeByH",
+                          "baseUriRedirect",
+                          "rotationBy90s",
+                          "profileLinkHeader",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "mirroring"
+                        ]
+                      }
+                    ],
+                    "attribution": "Provided by Woodwing",
+                    "license": "https://www.woodwing.com"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
