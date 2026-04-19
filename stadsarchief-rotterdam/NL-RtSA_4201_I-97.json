@@ -1,0 +1,766 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json",
+  "type": "Manifest",
+  "label": {
+    "en": ["Kaart van Rotterdam en omgeving (1886)"]
+  },
+  "items": [
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/0",
+      "type": "Canvas",
+      "height": 5854,
+      "width": 9276,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/ccd36fe70f6d26fb31baa9474970f507.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/0",
+              "body": {
+                "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/ccd36fe70f6d26fb31baa9474970f507.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5854,
+                "width": 9276,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 9276,
+                    "height": 5854,
+                    "sizes": [
+                      {
+                        "width": 144,
+                        "height": 91
+                      },
+                      {
+                        "width": 289,
+                        "height": 182
+                      },
+                      {
+                        "width": 579,
+                        "height": 365
+                      },
+                      {
+                        "width": 1159,
+                        "height": 731
+                      },
+                      {
+                        "width": 2319,
+                        "height": 1463
+                      },
+                      {
+                        "width": 4638,
+                        "height": 2927
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/ccd36fe70f6d26fb31baa9474970f507.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "maxWidth": 5000,
+                    "maxHeight": 5000,
+                    "extraQualities": ["color", "gray", "bitonal"],
+                    "extraFormats": ["webp"],
+                    "extraFeatures": [
+                      "regionByPct",
+                      "sizeByForcedWh",
+                      "sizeByWh",
+                      "sizeAboveFull",
+                      "sizeUpscaling",
+                      "rotationBy90s",
+                      "mirroring"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/1",
+      "type": "Canvas",
+      "height": 5830,
+      "width": 9228,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/1/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/6b234e2cb750f38ee439b5e1dcfaf087.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/1",
+              "body": {
+                "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/6b234e2cb750f38ee439b5e1dcfaf087.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5830,
+                "width": 9228,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 9228,
+                    "height": 5830,
+                    "sizes": [
+                      {
+                        "width": 144,
+                        "height": 91
+                      },
+                      {
+                        "width": 288,
+                        "height": 182
+                      },
+                      {
+                        "width": 576,
+                        "height": 364
+                      },
+                      {
+                        "width": 1153,
+                        "height": 728
+                      },
+                      {
+                        "width": 2307,
+                        "height": 1457
+                      },
+                      {
+                        "width": 4614,
+                        "height": 2915
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/6b234e2cb750f38ee439b5e1dcfaf087.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "maxWidth": 5000,
+                    "maxHeight": 5000,
+                    "extraQualities": ["color", "gray", "bitonal"],
+                    "extraFormats": ["webp"],
+                    "extraFeatures": [
+                      "regionByPct",
+                      "sizeByForcedWh",
+                      "sizeByWh",
+                      "sizeAboveFull",
+                      "sizeUpscaling",
+                      "rotationBy90s",
+                      "mirroring"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/2",
+      "type": "Canvas",
+      "height": 5806,
+      "width": 9228,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/2/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/8029fcff93ab197f3d5f13fb276b577c.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/2",
+              "body": {
+                "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/8029fcff93ab197f3d5f13fb276b577c.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5806,
+                "width": 9228,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 9228,
+                    "height": 5806,
+                    "sizes": [
+                      {
+                        "width": 144,
+                        "height": 90
+                      },
+                      {
+                        "width": 288,
+                        "height": 181
+                      },
+                      {
+                        "width": 576,
+                        "height": 362
+                      },
+                      {
+                        "width": 1153,
+                        "height": 725
+                      },
+                      {
+                        "width": 2307,
+                        "height": 1451
+                      },
+                      {
+                        "width": 4614,
+                        "height": 2903
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/8029fcff93ab197f3d5f13fb276b577c.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "maxWidth": 5000,
+                    "maxHeight": 5000,
+                    "extraQualities": ["color", "gray", "bitonal"],
+                    "extraFormats": ["webp"],
+                    "extraFeatures": [
+                      "regionByPct",
+                      "sizeByForcedWh",
+                      "sizeByWh",
+                      "sizeAboveFull",
+                      "sizeUpscaling",
+                      "rotationBy90s",
+                      "mirroring"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/3",
+      "type": "Canvas",
+      "height": 5890,
+      "width": 9294,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/3/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/23bfcefc9aba7fbcdc1bbb3397acfcad.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/3",
+              "body": {
+                "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/23bfcefc9aba7fbcdc1bbb3397acfcad.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5890,
+                "width": 9294,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 9294,
+                    "height": 5890,
+                    "sizes": [
+                      {
+                        "width": 145,
+                        "height": 92
+                      },
+                      {
+                        "width": 290,
+                        "height": 184
+                      },
+                      {
+                        "width": 580,
+                        "height": 368
+                      },
+                      {
+                        "width": 1161,
+                        "height": 736
+                      },
+                      {
+                        "width": 2323,
+                        "height": 1472
+                      },
+                      {
+                        "width": 4647,
+                        "height": 2945
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/23bfcefc9aba7fbcdc1bbb3397acfcad.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "maxWidth": 5000,
+                    "maxHeight": 5000,
+                    "extraQualities": ["color", "gray", "bitonal"],
+                    "extraFormats": ["webp"],
+                    "extraFeatures": [
+                      "regionByPct",
+                      "sizeByForcedWh",
+                      "sizeByWh",
+                      "sizeAboveFull",
+                      "sizeUpscaling",
+                      "rotationBy90s",
+                      "mirroring"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/4",
+      "type": "Canvas",
+      "height": 5974,
+      "width": 9318,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/4/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/04aca8dd0641c5c4bd000d401c78e433.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/4",
+              "body": {
+                "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/04aca8dd0641c5c4bd000d401c78e433.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5974,
+                "width": 9318,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 9318,
+                    "height": 5974,
+                    "sizes": [
+                      {
+                        "width": 145,
+                        "height": 93
+                      },
+                      {
+                        "width": 291,
+                        "height": 186
+                      },
+                      {
+                        "width": 582,
+                        "height": 373
+                      },
+                      {
+                        "width": 1164,
+                        "height": 746
+                      },
+                      {
+                        "width": 2329,
+                        "height": 1493
+                      },
+                      {
+                        "width": 4659,
+                        "height": 2987
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/04aca8dd0641c5c4bd000d401c78e433.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "maxWidth": 5000,
+                    "maxHeight": 5000,
+                    "extraQualities": ["color", "gray", "bitonal"],
+                    "extraFormats": ["webp"],
+                    "extraFeatures": [
+                      "regionByPct",
+                      "sizeByForcedWh",
+                      "sizeByWh",
+                      "sizeAboveFull",
+                      "sizeUpscaling",
+                      "rotationBy90s",
+                      "mirroring"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/5",
+      "type": "Canvas",
+      "height": 6334,
+      "width": 9954,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/5/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/ccd98c25f65a2d6c7617f2872de59537.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/5",
+              "body": {
+                "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/ccd98c25f65a2d6c7617f2872de59537.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6334,
+                "width": 9954,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 9954,
+                    "height": 6334,
+                    "sizes": [
+                      {
+                        "width": 155,
+                        "height": 98
+                      },
+                      {
+                        "width": 311,
+                        "height": 197
+                      },
+                      {
+                        "width": 622,
+                        "height": 395
+                      },
+                      {
+                        "width": 1244,
+                        "height": 791
+                      },
+                      {
+                        "width": 2488,
+                        "height": 1583
+                      },
+                      {
+                        "width": 4977,
+                        "height": 3167
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/ccd98c25f65a2d6c7617f2872de59537.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "maxWidth": 5000,
+                    "maxHeight": 5000,
+                    "extraQualities": ["color", "gray", "bitonal"],
+                    "extraFormats": ["webp"],
+                    "extraFeatures": [
+                      "regionByPct",
+                      "sizeByForcedWh",
+                      "sizeByWh",
+                      "sizeAboveFull",
+                      "sizeUpscaling",
+                      "rotationBy90s",
+                      "mirroring"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/6",
+      "type": "Canvas",
+      "height": 4054,
+      "width": 8994,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/6/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/fdb000e20563fb0c28039cc80df27bea.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/6",
+              "body": {
+                "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/fdb000e20563fb0c28039cc80df27bea.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4054,
+                "width": 8994,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 8994,
+                    "height": 4054,
+                    "sizes": [
+                      {
+                        "width": 140,
+                        "height": 63
+                      },
+                      {
+                        "width": 281,
+                        "height": 126
+                      },
+                      {
+                        "width": 562,
+                        "height": 253
+                      },
+                      {
+                        "width": 1124,
+                        "height": 506
+                      },
+                      {
+                        "width": 2248,
+                        "height": 1013
+                      },
+                      {
+                        "width": 4497,
+                        "height": 2027
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/fdb000e20563fb0c28039cc80df27bea.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "maxWidth": 5000,
+                    "maxHeight": 5000,
+                    "extraQualities": ["color", "gray", "bitonal"],
+                    "extraFormats": ["webp"],
+                    "extraFeatures": [
+                      "regionByPct",
+                      "sizeByForcedWh",
+                      "sizeByWh",
+                      "sizeAboveFull",
+                      "sizeUpscaling",
+                      "rotationBy90s",
+                      "mirroring"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/7",
+      "type": "Canvas",
+      "height": 8958,
+      "width": 4018,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/7/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/0e97d9e3d824c19734b4de458fae08cd.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/7",
+              "body": {
+                "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/0e97d9e3d824c19734b4de458fae08cd.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8958,
+                "width": 4018,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 4018,
+                    "height": 8958,
+                    "sizes": [
+                      {
+                        "width": 62,
+                        "height": 139
+                      },
+                      {
+                        "width": 125,
+                        "height": 279
+                      },
+                      {
+                        "width": 251,
+                        "height": 559
+                      },
+                      {
+                        "width": 502,
+                        "height": 1119
+                      },
+                      {
+                        "width": 1004,
+                        "height": 2239
+                      },
+                      {
+                        "width": 2009,
+                        "height": 4479
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/0e97d9e3d824c19734b4de458fae08cd.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "maxWidth": 5000,
+                    "maxHeight": 5000,
+                    "extraQualities": ["color", "gray", "bitonal"],
+                    "extraFormats": ["webp"],
+                    "extraFeatures": [
+                      "regionByPct",
+                      "sizeByForcedWh",
+                      "sizeByWh",
+                      "sizeAboveFull",
+                      "sizeUpscaling",
+                      "rotationBy90s",
+                      "mirroring"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/8",
+      "type": "Canvas",
+      "height": 8694,
+      "width": 3886,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/8/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/845c1b6dcd9985313c1108810a2d81c2.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/8",
+              "body": {
+                "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/845c1b6dcd9985313c1108810a2d81c2.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8694,
+                "width": 3886,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 3886,
+                    "height": 8694,
+                    "sizes": [
+                      {
+                        "width": 60,
+                        "height": 135
+                      },
+                      {
+                        "width": 121,
+                        "height": 271
+                      },
+                      {
+                        "width": 242,
+                        "height": 543
+                      },
+                      {
+                        "width": 485,
+                        "height": 1086
+                      },
+                      {
+                        "width": 971,
+                        "height": 2173
+                      },
+                      {
+                        "width": 1943,
+                        "height": 4347
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/845c1b6dcd9985313c1108810a2d81c2.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "maxWidth": 5000,
+                    "maxHeight": 5000,
+                    "extraQualities": ["color", "gray", "bitonal"],
+                    "extraFormats": ["webp"],
+                    "extraFeatures": [
+                      "regionByPct",
+                      "sizeByForcedWh",
+                      "sizeByWh",
+                      "sizeAboveFull",
+                      "sizeUpscaling",
+                      "rotationBy90s",
+                      "mirroring"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
