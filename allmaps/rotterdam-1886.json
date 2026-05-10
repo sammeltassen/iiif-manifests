@@ -3,6 +3,319 @@
   "@context": "http://www.w3.org/ns/anno.jsonld",
   "items": [
     {
+      "id": "https://annotations.allmaps.org/maps/b2feab82b7854874/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-05-10T12:43:11.155Z",
+      "modified": "2026-05-10T12:43:11.155Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/6b234e2cb750f38ee439b5e1dcfaf087.jp2",
+          "type": "ImageService3",
+          "height": 5830,
+          "width": 9228,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/1",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json",
+                  "type": "Manifest",
+                  "label": { "en": ["Kaart van Rotterdam en omgeving (1886)"] }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"9228\" height=\"5830\"><polygon points=\"116,180 101,5749 5384,5753 9134,5757 9126,2812 9123,204 7841,207 4334,201 1790,191\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [101, 5749] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.446055193864696, 51.90797530051935]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [9126, 2812] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.484452988643405, 51.91899087139079]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [9134, 5757] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.486042247380509, 51.91090779595347]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [5384, 5753] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.469417566685846, 51.909674615111825]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [9123, 204] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.483061317088165, 51.92614817227373]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [1790, 191] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.450578375978806, 51.92378785368017]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [4334, 201] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.461843606160474, 51.92459925519385]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [7841, 207] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.477361748846881, 51.92572274515766]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [116, 180] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.443141343191747, 51.92324843997655]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/b09934864243abef/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-05-10T12:42:05.872Z",
+      "modified": "2026-05-10T12:42:05.872Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/ccd36fe70f6d26fb31baa9474970f507.jp2",
+          "type": "ImageService3",
+          "height": 5854,
+          "width": 9276,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/0",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json",
+                  "type": "Manifest",
+                  "label": { "en": ["Kaart van Rotterdam en omgeving (1886)"] }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"9276\" height=\"5854\"><polygon points=\"157,144 151,5692 1831,5682 4374,5683 7875,5688 9160,5694 9155,3919 9150,199 5184,194\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [9160, 5694] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.483061317088165, 51.92614817227373]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [1831, 5682] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.450578375978806, 51.92378785368017]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [4374, 5683] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.461843606160474, 51.92459925519385]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [7875, 5688] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.477361748846881, 51.92572274515766]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [151, 5692] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.443141343191747, 51.92324843997655]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [9150, 199] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.480278548437121, 51.94122021341614]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [9155, 3919] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.482145422910673, 51.9309845097161]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [157, 144] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.44045176331055, 51.93844780904285]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/468c71c663245e26/attach",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-05-10T12:35:04.935Z",
+      "modified": "2026-05-10T12:35:04.935Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/04aca8dd0641c5c4bd000d401c78e433.jp2",
+          "type": "ImageService3",
+          "height": 5974,
+          "width": 9318,
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/4",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json",
+                  "type": "Manifest",
+                  "label": { "en": ["Kaart van Rotterdam en omgeving (1886)"] }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"9318\" height=\"5974\"><polygon points=\"134,211 135,2829 137,5774 9169,5783 9145,227 4451,224\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": { "type": "thinPlateSpline" },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [135, 2829] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.484452988643405, 51.91899087139079]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [137, 5774] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.486042247380509, 51.91090779595347]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [134, 211] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.483061317088165, 51.92614817227373]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [9169, 5783] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.525739595371066, 51.91381820054197]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [9145, 227] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.522786526481028, 51.92904937921799]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [4451, 224] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.502105937919129, 51.92754470723858]
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "https://annotations.allmaps.org/maps/0cc38178ac801f0b/attach",
       "type": "Annotation",
       "@context": [
@@ -44,10 +357,10 @@
         "features": [
           {
             "type": "Feature",
-            "properties": { "resourceCoords": [9116, 5734] },
+            "properties": { "resourceCoords": [97, 5694] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5227947357700025, 51.929059832383594]
+              "coordinates": [4.483061317088165, 51.92614817227373]
             }
           },
           {
@@ -55,15 +368,7 @@
             "properties": { "resourceCoords": [102, 161] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.480283732274474, 51.94121144763862]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [97, 5694] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.4830619158244795, 51.926153595714986]
+              "coordinates": [4.480278548437121, 51.94122021341614]
             }
           },
           {
@@ -71,7 +376,15 @@
             "properties": { "resourceCoords": [93, 3925] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.482145807726903, 51.93098437372412]
+              "coordinates": [4.482145422910673, 51.9309845097161]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [9116, 5734] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.522786526481028, 51.92904937921799]
             }
           },
           {
@@ -79,189 +392,7 @@
             "properties": { "resourceCoords": [4420, 5708] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.502112131842365, 51.927550907772655]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "https://annotations.allmaps.org/maps/b09934864243abef/attach",
-      "type": "Annotation",
-      "@context": [
-        "http://iiif.io/api/extension/georef/1/context.json",
-        "http://iiif.io/api/presentation/3/context.json"
-      ],
-      "created": "2026-05-10T09:55:30.337Z",
-      "modified": "2026-05-10T09:55:30.337Z",
-      "motivation": "georeferencing",
-      "target": {
-        "type": "SpecificResource",
-        "source": {
-          "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/ccd36fe70f6d26fb31baa9474970f507.jp2",
-          "type": "ImageService3",
-          "height": 5854,
-          "width": 9276,
-          "partOf": [
-            {
-              "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/0",
-              "type": "Canvas",
-              "partOf": [
-                {
-                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json",
-                  "type": "Manifest",
-                  "label": { "en": ["Kaart van Rotterdam en omgeving (1886)"] }
-                }
-              ]
-            }
-          ]
-        },
-        "selector": {
-          "type": "SvgSelector",
-          "value": "<svg width=\"9276\" height=\"5854\"><polygon points=\"157,144 151,5692 4374,5683 9160,5694 9155,3919 9150,199 5184,194\" /></svg>"
-        }
-      },
-      "body": {
-        "type": "FeatureCollection",
-        "transformation": { "type": "thinPlateSpline" },
-        "features": [
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [9150, 199] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.480283732274474, 51.94121144763862]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [9160, 5694] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.4830619158244795, 51.926153595714986]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [9155, 3919] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.482145807726903, 51.93098437372412]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [4374, 5683] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.461840667826325, 51.924613501162504]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [151, 5692] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.443135729873955, 51.92324950952068]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [157, 144] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.440450137246332, 51.93844869231608]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "https://annotations.allmaps.org/maps/b2feab82b7854874/attach",
-      "type": "Annotation",
-      "@context": [
-        "http://iiif.io/api/extension/georef/1/context.json",
-        "http://iiif.io/api/presentation/3/context.json"
-      ],
-      "created": "2026-05-10T09:51:36.268Z",
-      "modified": "2026-05-10T09:51:36.268Z",
-      "motivation": "georeferencing",
-      "target": {
-        "type": "SpecificResource",
-        "source": {
-          "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/6b234e2cb750f38ee439b5e1dcfaf087.jp2",
-          "type": "ImageService3",
-          "height": 5830,
-          "width": 9228,
-          "partOf": [
-            {
-              "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/1",
-              "type": "Canvas",
-              "partOf": [
-                {
-                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json",
-                  "type": "Manifest",
-                  "label": { "en": ["Kaart van Rotterdam en omgeving (1886)"] }
-                }
-              ]
-            }
-          ]
-        },
-        "selector": {
-          "type": "SvgSelector",
-          "value": "<svg width=\"9228\" height=\"5830\"><polygon points=\"116,180 101,5749 5384,5753 9134,5757 9123,204 4334,201\" /></svg>"
-        }
-      },
-      "body": {
-        "type": "FeatureCollection",
-        "transformation": { "type": "thinPlateSpline" },
-        "features": [
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [9123, 204] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.4830619158244795, 51.926153595714986]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [4334, 201] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.461840667826325, 51.924613501162504]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [116, 180] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.443135729873955, 51.92324950952068]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [101, 5749] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.446057783767941, 51.90797708127858]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [9134, 5757] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.486038798184721, 51.91090254826522]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [5384, 5753] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.469416039872723, 51.90967202564198]
+              "coordinates": [4.502105937919129, 51.92754470723858]
             }
           }
         ]
@@ -312,7 +443,7 @@
             "properties": { "resourceCoords": [98, 122] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.446057783767941, 51.90797708127858]
+              "coordinates": [4.446055193864696, 51.90797530051935]
             }
           },
           {
@@ -320,7 +451,7 @@
             "properties": { "resourceCoords": [9125, 109] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.486038798184721, 51.91090254826522]
+              "coordinates": [4.486042247380509, 51.91090779595347]
             }
           },
           {
@@ -328,7 +459,7 @@
             "properties": { "resourceCoords": [5377, 120] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.469416039872723, 51.90967202564198]
+              "coordinates": [4.469417566685846, 51.909674615111825]
             }
           },
           {
@@ -336,7 +467,7 @@
             "properties": { "resourceCoords": [116, 5621] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.448963544917206, 51.89309186660945]
+              "coordinates": [4.448962577763316, 51.893091994744815]
             }
           },
           {
@@ -344,7 +475,7 @@
             "properties": { "resourceCoords": [9154, 5622] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.489004567713811, 51.89591450004888]
+              "coordinates": [4.489006101544493, 51.895917128215316]
             }
           }
         ]
@@ -392,18 +523,18 @@
         "features": [
           {
             "type": "Feature",
-            "properties": { "resourceCoords": [3738, 328] },
+            "properties": { "resourceCoords": [3707, 8240] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.443135729873955, 51.92324950952068]
+              "coordinates": [4.446055193864696, 51.90797530051935]
             }
           },
           {
             "type": "Feature",
-            "properties": { "resourceCoords": [3707, 8240] },
+            "properties": { "resourceCoords": [3738, 328] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.446057783767941, 51.90797708127858]
+              "coordinates": [4.443141343191747, 51.92324843997655]
             }
           },
           {
@@ -411,7 +542,7 @@
             "properties": { "resourceCoords": [349, 8237] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.435458426396883, 51.90731514790105]
+              "coordinates": [4.4354542165170505, 51.90730770859062]
             }
           },
           {
@@ -419,90 +550,7 @@
             "properties": { "resourceCoords": [358, 318] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.432502754410831, 51.922540762998494]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "https://annotations.allmaps.org/maps/468c71c663245e26/attach",
-      "type": "Annotation",
-      "@context": [
-        "http://iiif.io/api/extension/georef/1/context.json",
-        "http://iiif.io/api/presentation/3/context.json"
-      ],
-      "created": "2026-05-10T09:37:07.101Z",
-      "modified": "2026-05-10T09:37:07.101Z",
-      "motivation": "georeferencing",
-      "target": {
-        "type": "SpecificResource",
-        "source": {
-          "id": "https://preserve-iiif.archieven.nl/iipsrv/iipsrv12.fcgi?IIIF=cache/fonc-gar/04aca8dd0641c5c4bd000d401c78e433.jp2",
-          "type": "ImageService3",
-          "height": 5974,
-          "width": 9318,
-          "partOf": [
-            {
-              "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json/canvas/4",
-              "type": "Canvas",
-              "partOf": [
-                {
-                  "id": "https://sammeltassen.nl/iiif-manifests/stadsarchief-rotterdam/NL-RtSA_4201_I-97.json",
-                  "type": "Manifest",
-                  "label": { "en": ["Kaart van Rotterdam en omgeving (1886)"] }
-                }
-              ]
-            }
-          ]
-        },
-        "selector": {
-          "type": "SvgSelector",
-          "value": "<svg width=\"9318\" height=\"5974\"><polygon points=\"134,211 137,5774 9169,5783 9145,227 4451,224\" /></svg>"
-        }
-      },
-      "body": {
-        "type": "FeatureCollection",
-        "transformation": { "type": "thinPlateSpline" },
-        "features": [
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [9145, 227] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.5227947357700025, 51.929059832383594]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [134, 211] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.4830619158244795, 51.926153595714986]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [4451, 224] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.502112131842365, 51.927550907772655]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [137, 5774] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.486038798184721, 51.91090254826522]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [9169, 5783] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.525736859174833, 51.91381844342058]
+              "coordinates": [4.432504948803503, 51.92254468991537]
             }
           }
         ]
@@ -553,7 +601,7 @@
             "properties": { "resourceCoords": [3681, 218] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.446057783767941, 51.90797708127858]
+              "coordinates": [4.446055193864696, 51.90797530051935]
             }
           },
           {
@@ -561,7 +609,7 @@
             "properties": { "resourceCoords": [3685, 8045] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.448963544917206, 51.89309186660945]
+              "coordinates": [4.448962577763316, 51.893091994744815]
             }
           },
           {
@@ -569,7 +617,7 @@
             "properties": { "resourceCoords": [336, 211] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.435458426396883, 51.90731514790105]
+              "coordinates": [4.4354542165170505, 51.90730770859062]
             }
           }
         ]
@@ -620,7 +668,7 @@
             "properties": { "resourceCoords": [8318, 363] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.443135729873955, 51.92324950952068]
+              "coordinates": [4.443141343191747, 51.92324843997655]
             }
           },
           {
@@ -628,7 +676,7 @@
             "properties": { "resourceCoords": [466, 333] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.440450137246332, 51.93844869231608]
+              "coordinates": [4.44045176331055, 51.93844780904285]
             }
           },
           {
@@ -636,7 +684,7 @@
             "properties": { "resourceCoords": [8314, 3750] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.432502754410831, 51.922540762998494]
+              "coordinates": [4.432504948803503, 51.92254468991537]
             }
           }
         ]
@@ -687,15 +735,7 @@
             "properties": { "resourceCoords": [100, 189] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.486038798184721, 51.91090254826522]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": { "resourceCoords": [116, 6066] },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [4.489004567713811, 51.89591450004888]
+              "coordinates": [4.486042247380509, 51.91090779595347]
             }
           },
           {
@@ -703,7 +743,15 @@
             "properties": { "resourceCoords": [9760, 189] },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.525736859174833, 51.91381844342058]
+              "coordinates": [4.525739595371066, 51.91381820054197]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": { "resourceCoords": [116, 6066] },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [4.489006101544493, 51.895917128215316]
             }
           }
         ]
