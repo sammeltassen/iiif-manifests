@@ -1,0 +1,722 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json",
+  "type": "Manifest",
+  "label": {
+    "en": ["Gemeente Leyden in 9 sectien (PV_PV403)"]
+  },
+  "items": [
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/0",
+      "type": "Canvas",
+      "height": 7664,
+      "width": 12007,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://elo.memorix.io/resources/iiif/3/4d8496e6-68b0-4f9f-a018-d10b16cfdc1f",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/0",
+              "body": {
+                "id": "https://elo.memorix.io/resources/iiif/3/4d8496e6-68b0-4f9f-a018-d10b16cfdc1f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7664,
+                "width": 12007,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://elo.memorix.io/resources/iiif/3/4d8496e6-68b0-4f9f-a018-d10b16cfdc1f",
+                    "type": "ImageService3",
+                    "protocol": "http://iiif.io/api/image",
+                    "profile": "level2",
+                    "width": 12007,
+                    "height": 7664,
+                    "maxArea": 10000000,
+                    "sizes": [
+                      {
+                        "width": 188,
+                        "height": 120
+                      },
+                      {
+                        "width": 375,
+                        "height": 240
+                      },
+                      {
+                        "width": 750,
+                        "height": 479
+                      },
+                      {
+                        "width": 1501,
+                        "height": 958
+                      },
+                      {
+                        "width": 3002,
+                        "height": 1916
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "extraQualities": ["bitonal", "color", "gray"],
+                    "extraFormats": ["tif", "gif"],
+                    "extraFeatures": [
+                      "baseUriRedirect",
+                      "canonicalLinkHeader",
+                      "cors",
+                      "jsonldMediaType",
+                      "mirroring",
+                      "profileLinkHeader",
+                      "regionByPct",
+                      "regionByPx",
+                      "regionSquare",
+                      "rotationArbitrary",
+                      "rotationBy90s",
+                      "sizeByConfinedWh",
+                      "sizeByH",
+                      "sizeByPct",
+                      "sizeByW",
+                      "sizeByWh",
+                      "sizeUpscaling"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/1",
+      "type": "Canvas",
+      "height": 7632,
+      "width": 12055,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/1/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://elo.memorix.io/resources/iiif/3/c5cc0a2c-df58-4d69-8a25-fe8d6024ddc7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/1",
+              "body": {
+                "id": "https://elo.memorix.io/resources/iiif/3/c5cc0a2c-df58-4d69-8a25-fe8d6024ddc7/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7632,
+                "width": 12055,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://elo.memorix.io/resources/iiif/3/c5cc0a2c-df58-4d69-8a25-fe8d6024ddc7",
+                    "type": "ImageService3",
+                    "protocol": "http://iiif.io/api/image",
+                    "profile": "level2",
+                    "width": 12055,
+                    "height": 7632,
+                    "maxArea": 10000000,
+                    "sizes": [
+                      {
+                        "width": 188,
+                        "height": 119
+                      },
+                      {
+                        "width": 377,
+                        "height": 239
+                      },
+                      {
+                        "width": 753,
+                        "height": 477
+                      },
+                      {
+                        "width": 1507,
+                        "height": 954
+                      },
+                      {
+                        "width": 3014,
+                        "height": 1908
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "extraQualities": ["bitonal", "color", "gray"],
+                    "extraFormats": ["tif", "gif"],
+                    "extraFeatures": [
+                      "baseUriRedirect",
+                      "canonicalLinkHeader",
+                      "cors",
+                      "jsonldMediaType",
+                      "mirroring",
+                      "profileLinkHeader",
+                      "regionByPct",
+                      "regionByPx",
+                      "regionSquare",
+                      "rotationArbitrary",
+                      "rotationBy90s",
+                      "sizeByConfinedWh",
+                      "sizeByH",
+                      "sizeByPct",
+                      "sizeByW",
+                      "sizeByWh",
+                      "sizeUpscaling"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/2",
+      "type": "Canvas",
+      "height": 11623,
+      "width": 7664,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/2/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://elo.memorix.io/resources/iiif/3/4bbf1fe0-8a2f-45e1-bf8b-d9de019d7a28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/2",
+              "body": {
+                "id": "https://elo.memorix.io/resources/iiif/3/4bbf1fe0-8a2f-45e1-bf8b-d9de019d7a28/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 11623,
+                "width": 7664,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://elo.memorix.io/resources/iiif/3/4bbf1fe0-8a2f-45e1-bf8b-d9de019d7a28",
+                    "type": "ImageService3",
+                    "protocol": "http://iiif.io/api/image",
+                    "profile": "level2",
+                    "width": 7664,
+                    "height": 11623,
+                    "maxArea": 10000000,
+                    "sizes": [
+                      {
+                        "width": 120,
+                        "height": 182
+                      },
+                      {
+                        "width": 240,
+                        "height": 363
+                      },
+                      {
+                        "width": 479,
+                        "height": 726
+                      },
+                      {
+                        "width": 958,
+                        "height": 1453
+                      },
+                      {
+                        "width": 1916,
+                        "height": 2906
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "extraQualities": ["bitonal", "color", "gray"],
+                    "extraFormats": ["tif", "gif"],
+                    "extraFeatures": [
+                      "baseUriRedirect",
+                      "canonicalLinkHeader",
+                      "cors",
+                      "jsonldMediaType",
+                      "mirroring",
+                      "profileLinkHeader",
+                      "regionByPct",
+                      "regionByPx",
+                      "regionSquare",
+                      "rotationArbitrary",
+                      "rotationBy90s",
+                      "sizeByConfinedWh",
+                      "sizeByH",
+                      "sizeByPct",
+                      "sizeByW",
+                      "sizeByWh",
+                      "sizeUpscaling"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/3",
+      "type": "Canvas",
+      "height": 7664,
+      "width": 12007,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/3/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://elo.memorix.io/resources/iiif/3/ddfa1664-0b70-4fb4-accd-278e88d06116",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/3",
+              "body": {
+                "id": "https://elo.memorix.io/resources/iiif/3/ddfa1664-0b70-4fb4-accd-278e88d06116/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7664,
+                "width": 12007,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://elo.memorix.io/resources/iiif/3/ddfa1664-0b70-4fb4-accd-278e88d06116",
+                    "type": "ImageService3",
+                    "protocol": "http://iiif.io/api/image",
+                    "profile": "level2",
+                    "width": 12007,
+                    "height": 7664,
+                    "maxArea": 10000000,
+                    "sizes": [
+                      {
+                        "width": 188,
+                        "height": 120
+                      },
+                      {
+                        "width": 375,
+                        "height": 240
+                      },
+                      {
+                        "width": 750,
+                        "height": 479
+                      },
+                      {
+                        "width": 1501,
+                        "height": 958
+                      },
+                      {
+                        "width": 3002,
+                        "height": 1916
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "extraQualities": ["bitonal", "color", "gray"],
+                    "extraFormats": ["tif", "gif"],
+                    "extraFeatures": [
+                      "baseUriRedirect",
+                      "canonicalLinkHeader",
+                      "cors",
+                      "jsonldMediaType",
+                      "mirroring",
+                      "profileLinkHeader",
+                      "regionByPct",
+                      "regionByPx",
+                      "regionSquare",
+                      "rotationArbitrary",
+                      "rotationBy90s",
+                      "sizeByConfinedWh",
+                      "sizeByH",
+                      "sizeByPct",
+                      "sizeByW",
+                      "sizeByWh",
+                      "sizeUpscaling"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/4",
+      "type": "Canvas",
+      "height": 7632,
+      "width": 12023,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/4/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://elo.memorix.io/resources/iiif/3/68b889b5-731e-4c34-861a-7e3954ce79b3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/4",
+              "body": {
+                "id": "https://elo.memorix.io/resources/iiif/3/68b889b5-731e-4c34-861a-7e3954ce79b3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7632,
+                "width": 12023,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://elo.memorix.io/resources/iiif/3/68b889b5-731e-4c34-861a-7e3954ce79b3",
+                    "type": "ImageService3",
+                    "protocol": "http://iiif.io/api/image",
+                    "profile": "level2",
+                    "width": 12023,
+                    "height": 7632,
+                    "maxArea": 10000000,
+                    "sizes": [
+                      {
+                        "width": 188,
+                        "height": 119
+                      },
+                      {
+                        "width": 376,
+                        "height": 239
+                      },
+                      {
+                        "width": 751,
+                        "height": 477
+                      },
+                      {
+                        "width": 1503,
+                        "height": 954
+                      },
+                      {
+                        "width": 3006,
+                        "height": 1908
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "extraQualities": ["bitonal", "color", "gray"],
+                    "extraFormats": ["tif", "gif"],
+                    "extraFeatures": [
+                      "baseUriRedirect",
+                      "canonicalLinkHeader",
+                      "cors",
+                      "jsonldMediaType",
+                      "mirroring",
+                      "profileLinkHeader",
+                      "regionByPct",
+                      "regionByPx",
+                      "regionSquare",
+                      "rotationArbitrary",
+                      "rotationBy90s",
+                      "sizeByConfinedWh",
+                      "sizeByH",
+                      "sizeByPct",
+                      "sizeByW",
+                      "sizeByWh",
+                      "sizeUpscaling"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/5",
+      "type": "Canvas",
+      "height": 7664,
+      "width": 12087,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/5/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://elo.memorix.io/resources/iiif/3/06477155-a06d-4e8a-81f5-e70b3ed72097",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/5",
+              "body": {
+                "id": "https://elo.memorix.io/resources/iiif/3/06477155-a06d-4e8a-81f5-e70b3ed72097/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7664,
+                "width": 12087,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://elo.memorix.io/resources/iiif/3/06477155-a06d-4e8a-81f5-e70b3ed72097",
+                    "type": "ImageService3",
+                    "protocol": "http://iiif.io/api/image",
+                    "profile": "level2",
+                    "width": 12087,
+                    "height": 7664,
+                    "maxArea": 10000000,
+                    "sizes": [
+                      {
+                        "width": 189,
+                        "height": 120
+                      },
+                      {
+                        "width": 378,
+                        "height": 240
+                      },
+                      {
+                        "width": 755,
+                        "height": 479
+                      },
+                      {
+                        "width": 1511,
+                        "height": 958
+                      },
+                      {
+                        "width": 3022,
+                        "height": 1916
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "extraQualities": ["bitonal", "color", "gray"],
+                    "extraFormats": ["tif", "gif"],
+                    "extraFeatures": [
+                      "baseUriRedirect",
+                      "canonicalLinkHeader",
+                      "cors",
+                      "jsonldMediaType",
+                      "mirroring",
+                      "profileLinkHeader",
+                      "regionByPct",
+                      "regionByPx",
+                      "regionSquare",
+                      "rotationArbitrary",
+                      "rotationBy90s",
+                      "sizeByConfinedWh",
+                      "sizeByH",
+                      "sizeByPct",
+                      "sizeByW",
+                      "sizeByWh",
+                      "sizeUpscaling"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/6",
+      "type": "Canvas",
+      "height": 7632,
+      "width": 11255,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/6/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://elo.memorix.io/resources/iiif/3/92293c2c-515c-4543-b9d3-fb94e3ffaebc",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/6",
+              "body": {
+                "id": "https://elo.memorix.io/resources/iiif/3/92293c2c-515c-4543-b9d3-fb94e3ffaebc/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7632,
+                "width": 11255,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://elo.memorix.io/resources/iiif/3/92293c2c-515c-4543-b9d3-fb94e3ffaebc",
+                    "type": "ImageService3",
+                    "protocol": "http://iiif.io/api/image",
+                    "profile": "level2",
+                    "width": 11255,
+                    "height": 7632,
+                    "maxArea": 10000000,
+                    "sizes": [
+                      {
+                        "width": 176,
+                        "height": 119
+                      },
+                      {
+                        "width": 352,
+                        "height": 239
+                      },
+                      {
+                        "width": 703,
+                        "height": 477
+                      },
+                      {
+                        "width": 1407,
+                        "height": 954
+                      },
+                      {
+                        "width": 2814,
+                        "height": 1908
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "extraQualities": ["bitonal", "color", "gray"],
+                    "extraFormats": ["tif", "gif"],
+                    "extraFeatures": [
+                      "baseUriRedirect",
+                      "canonicalLinkHeader",
+                      "cors",
+                      "jsonldMediaType",
+                      "mirroring",
+                      "profileLinkHeader",
+                      "regionByPct",
+                      "regionByPx",
+                      "regionSquare",
+                      "rotationArbitrary",
+                      "rotationBy90s",
+                      "sizeByConfinedWh",
+                      "sizeByH",
+                      "sizeByPct",
+                      "sizeByW",
+                      "sizeByWh",
+                      "sizeUpscaling"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/7",
+      "type": "Canvas",
+      "height": 7728,
+      "width": 11991,
+      "items": [
+        {
+          "id": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/7/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://elo.memorix.io/resources/iiif/3/e386e134-8426-41ce-9599-4ac3fde814e0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://sammeltassen.nl/iiif-manifests/elo/PV_PV403.json/canvas/7",
+              "body": {
+                "id": "https://elo.memorix.io/resources/iiif/3/e386e134-8426-41ce-9599-4ac3fde814e0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7728,
+                "width": 11991,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://elo.memorix.io/resources/iiif/3/e386e134-8426-41ce-9599-4ac3fde814e0",
+                    "type": "ImageService3",
+                    "protocol": "http://iiif.io/api/image",
+                    "profile": "level2",
+                    "width": 11991,
+                    "height": 7728,
+                    "maxArea": 10000000,
+                    "sizes": [
+                      {
+                        "width": 187,
+                        "height": 121
+                      },
+                      {
+                        "width": 375,
+                        "height": 242
+                      },
+                      {
+                        "width": 749,
+                        "height": 483
+                      },
+                      {
+                        "width": 1499,
+                        "height": 966
+                      },
+                      {
+                        "width": 2998,
+                        "height": 1932
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 256,
+                        "height": 256,
+                        "scaleFactors": [1, 2, 4, 8, 16, 32, 64]
+                      }
+                    ],
+                    "extraQualities": ["bitonal", "color", "gray"],
+                    "extraFormats": ["tif", "gif"],
+                    "extraFeatures": [
+                      "baseUriRedirect",
+                      "canonicalLinkHeader",
+                      "cors",
+                      "jsonldMediaType",
+                      "mirroring",
+                      "profileLinkHeader",
+                      "regionByPct",
+                      "regionByPx",
+                      "regionSquare",
+                      "rotationArbitrary",
+                      "rotationBy90s",
+                      "sizeByConfinedWh",
+                      "sizeByH",
+                      "sizeByPct",
+                      "sizeByW",
+                      "sizeByWh",
+                      "sizeUpscaling"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
